@@ -1,0 +1,43 @@
+Dr Julia Crawford SEO Files - Rename Mapping
+===========================================
+
+Source Folder: C:\Users\cscot\Documents\Content\FFL\drjuliacrawford_com_au\
+Target Google Drive Path: customer/CJU Medical Marketing/Dr Julia Crawford/SEO/
+
+File Rename Mapping:
+-------------------
+
+1. drjuliacrawford_assumptions_and_methodology.md
+   → Assumptions And Methodology.md
+
+2. drjuliacrawford_competitive_analysis.md
+   → Competitive Analysis.md
+
+3. drjuliacrawford_content_strategy.md
+   → Content Strategy.md
+
+4. drjuliacrawford_current_page_seo_analysis.md
+   → Current Page Seo Analysis.md
+
+5. drjuliacrawford_execution_tracking_report.md
+   → Execution Tracking Report.md
+
+6. drjuliacrawford_implementation_plan.md
+   → Implementation Plan.md
+
+7. drjuliacrawford_keyword_research.md
+   → Keyword Research.md
+
+8. drjuliacrawford_research_brief.md
+   → Research Brief.md
+
+9. drjuliacrawford_technical_audit.md
+   → Technical Audit.md
+
+10. drjuliacrawford_ux_ui_analysis.md
+    → Ux Ui Analysis.md
+
+11. PROJECT_CHECKLIST.md
+    → Project Checklist.md
+
+Total Files: 11

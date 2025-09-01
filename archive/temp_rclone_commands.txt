@@ -1,0 +1,3 @@
+rclone mkdir "gdrive-shared:Customers/Dr Julia Crawford/SEO/"
+rclone move "C:\Users\cscot\Documents\Content\FFL\drjuliacrawford_com_au" "gdrive-shared:Customers/Dr Julia Crawford/SEO/"
+rclone ls "gdrive-shared:Customers/Dr Julia Crawford/SEO/"

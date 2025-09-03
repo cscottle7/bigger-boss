@@ -1,0 +1,9 @@
+Defaulting to user installation because normal site-packages is not writeable
+Collecting playwright
+  Using cached playwright-1.55.0-py3-none-win_amd64.whl.metadata (3.5 kB)
+Requirement already satisfied: pyee<14,>=13 in c:\users\cscot\appdata\local\packages\pythonsoftwarefoundation.python.3.13_qbz5n2kfra8p0\localcache\local-packages\python313\site-packages (from playwright) (13.0.0)
+Requirement already satisfied: greenlet<4.0.0,>=3.1.1 in c:\users\cscot\appdata\local\packages\pythonsoftwarefoundation.python.3.13_qbz5n2kfra8p0\localcache\local-packages\python313\site-packages (from playwright) (3.2.4)
+Requirement already satisfied: typing-extensions in c:\users\cscot\appdata\local\packages\pythonsoftwarefoundation.python.3.13_qbz5n2kfra8p0\localcache\local-packages\python313\site-packages (from pyee<14,>=13->playwright) (4.14.1)
+Using cached playwright-1.55.0-py3-none-win_amd64.whl (35.5 MB)
+Installing collected packages: playwright
+Successfully installed playwright-1.55.0

@@ -1,0 +1,206 @@
+{
+  "report_metadata": {
+    "generated_at": "2025-09-02T14:11:27.054781",
+    "analysis_type": "Comprehensive SEO and Technical Analysis",
+    "data_sources": [
+      "Scrapy",
+      "Playwright",
+      "Advertools"
+    ],
+    "website": "https://sydneycoachcharter.com.au"
+  },
+  "executive_summary": {
+    "overall_seo_score": 57.0,
+    "critical_issues_count": 1,
+    "pages_analyzed": 1,
+    "key_findings": [
+      "CRITICAL: 9 images missing alt text",
+      "Page load time slow: 9.10 seconds",
+      "Overall SEO Score: 57.0/100"
+    ]
+  },
+  "detailed_analysis": {
+    "seo_performance": {
+      "timestamp": "2025-09-02T14:11:27.053550",
+      "overall_score": 57.0,
+      "critical_issues": [],
+      "recommendations": [],
+      "performance_metrics": {},
+      "title_analysis": {
+        "total_pages": 1,
+        "pages_with_titles": 1,
+        "missing_titles": 0,
+        "title_lengths": [
+          56
+        ],
+        "issues": [],
+        "recommendations": [],
+        "avg_title_length": 56.0,
+        "optimal_length_count": 1
+      },
+      "meta_description_analysis": {
+        "total_pages": 1,
+        "pages_with_descriptions": 1,
+        "missing_descriptions": 0,
+        "description_lengths": [
+          163
+        ],
+        "issues": [
+          "Meta description too long (163 chars)"
+        ],
+        "recommendations": [],
+        "avg_description_length": 163.0,
+        "optimal_length_count": 0
+      },
+      "content_analysis": {
+        "word_count_analysis": {
+          "avg_word_count": 0.0,
+          "min_word_count": "0",
+          "max_word_count": "0",
+          "pages_with_thin_content": 1
+        },
+        "heading_structure": {
+          "pages_with_multiple_h1": 0,
+          "pages_without_h1": 0,
+          "avg_h1_per_page": 1.0
+        },
+        "service_mentions": {
+          "mentions_wedding": "1",
+          "mentions_corporate": "1",
+          "mentions_school": "1",
+          "mentions_tourism": "1",
+          "mentions_charter": "1"
+        },
+        "local_seo_signals": {
+          "mentions_sydney": "1",
+          "mentions_nsw": "1",
+          "mentions_australia": "1"
+        }
+      },
+      "image_analysis": {
+        "total_images": 9,
+        "images_with_alt": 0,
+        "images_without_alt": 9,
+        "alt_text_coverage": 0.0,
+        "critical_issue": "True",
+        "recommendations": [
+          "CRITICAL: Add alt text to 9 images"
+        ]
+      },
+      "technical_analysis": {
+        "ssl_status": {
+          "has_ssl": true,
+          "security_headers": {
+            "security_headers_count": 4,
+            "security_score": 100,
+            "headers": {
+              "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+              "x-frame-options": "SAMEORIGIN",
+              "x-content-type-options": "nosniff",
+              "referrer-policy": "strict-origin-when-cross-origin"
+            }
+          }
+        },
+        "performance_metrics": {
+          "response_time": 0.329526,
+          "page_size_mb": 0.11033821105957031,
+          "compression_enabled": true,
+          "caching_enabled": true
+        },
+        "mobile_readiness": {
+          "has_viewport_meta": true,
+          "has_responsive_images": true,
+          "has_media_queries": false,
+          "mobile_friendly_score": 40
+        },
+        "robots_txt": {},
+        "schema_markup": {
+          "has_structured_data": true,
+          "schema_types": [
+            "Person",
+            "Organization",
+            "WebPage",
+            "Article",
+            "WebSite"
+          ],
+          "recommendations": [
+            "Consider adding schema markup for: LocalBusiness, TransportationCompany, Service",
+            "Add structured address data to schema markup",
+            "Add telephone number to schema markup"
+          ]
+        }
+      },
+      "performance_analysis": {
+        "load_time_seconds": 9.100000023841858,
+        "dom_content_loaded": 21.80000001192093,
+        "resource_count": 62,
+        "total_transfer_size_mb": 1.4712028503417969,
+        "performance_score": 60,
+        "recommendations": [
+          "Page load time is slow (>3 seconds)",
+          "High number of HTTP requests - consider optimization"
+        ]
+      }
+    },
+    "competitive_benchmarking": {
+      "industry_benchmarks": {
+        "avg_load_time": 2.5,
+        "avg_title_length": 45,
+        "avg_meta_desc_length": 140,
+        "avg_alt_text_coverage": 85,
+        "avg_seo_score": 70
+      },
+      "our_performance": {
+        "load_time": 9.100000023841858
+      },
+      "competitive_gaps": [
+        "Page load time (9.10s) slower than industry average (2.5s)"
+      ]
+    },
+    "technical_audit": {
+      "ssl_enabled": true,
+      "robots_txt_valid": true,
+      "schema_markup_present": true,
+      "mobile_responsive": true,
+      "network_requests": 62
+    }
+  },
+  "action_plan": [
+    {
+      "priority": "CRITICAL",
+      "action": "Add alt text to 9 images",
+      "impact": "High",
+      "effort": "Low"
+    },
+    {
+      "priority": "HIGH",
+      "action": "Optimize page load speed (currently >3 seconds)",
+      "impact": "High",
+      "effort": "High"
+    },
+    {
+      "priority": "MEDIUM",
+      "action": "Consider adding schema markup for: LocalBusiness, TransportationCompany, Service",
+      "impact": "Medium",
+      "effort": "Medium"
+    },
+    {
+      "priority": "MEDIUM",
+      "action": "Add structured address data to schema markup",
+      "impact": "Medium",
+      "effort": "Medium"
+    },
+    {
+      "priority": "MEDIUM",
+      "action": "Add telephone number to schema markup",
+      "impact": "Medium",
+      "effort": "Medium"
+    }
+  ],
+  "data_quality": {
+    "scrapy_data_quality": "Good",
+    "playwright_data_quality": "Good",
+    "advertools_data_quality": "Good",
+    "overall_quality": "Good"
+  }
+}

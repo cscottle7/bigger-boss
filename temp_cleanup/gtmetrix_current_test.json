@@ -1,0 +1,20 @@
+{
+  "data": {
+    "id": "pZGF0dyE",
+    "type": "test",
+    "attributes": {
+      "location": "7",
+      "state": "queued",
+      "created": 1756769613,
+      "browser": "3",
+      "source": "api"
+    }
+  },
+  "links": {
+    "self": "https://gtmetrix.com/api/2.0/tests/pZGF0dyE"
+  },
+  "meta": {
+    "credits_left": 17,
+    "credits_used": 1
+  }
+}

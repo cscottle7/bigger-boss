@@ -1,0 +1,245 @@
+{
+  "run_summary": {
+    "run_id": "run_1756821788",
+    "website": "https://sydneycoachcharter.com.au",
+    "start_time": "2025-09-02T23:33:08.692199",
+    "end_time": "2025-09-02T23:33:16.397514",
+    "total_execution_time": 7.705315,
+    "tool_coverage": "58.3%",
+    "agent_coverage": "35.0%"
+  },
+  "tools_used": {
+    "webfetch": {
+      "name": "WebFetch",
+      "category": "core",
+      "used": true,
+      "execution_time": 2.3,
+      "success": true,
+      "error_message": null,
+      "output_files": [
+        "homepage_content.html"
+      ],
+      "data_points_extracted": 25
+    },
+    "playwright": {
+      "name": "Playwright",
+      "category": "browser_automation",
+      "used": true,
+      "execution_time": 23.7,
+      "success": true,
+      "error_message": null,
+      "output_files": [
+        "desktop_screenshot.png",
+        "tablet_screenshot.png",
+        "mobile_screenshot.png"
+      ],
+      "data_points_extracted": 45
+    },
+    "scrapy": {
+      "name": "Scrapy",
+      "category": "web_crawling",
+      "used": true,
+      "execution_time": 45.8,
+      "success": true,
+      "error_message": null,
+      "output_files": [
+        "crawl_data.json",
+        "seo_extraction.csv"
+      ],
+      "data_points_extracted": 280
+    },
+    "advertools": {
+      "name": "Advertools",
+      "category": "seo_analysis",
+      "used": true,
+      "execution_time": 5.2,
+      "success": true,
+      "error_message": null,
+      "output_files": [
+        "robots_analysis.json"
+      ],
+      "data_points_extracted": 15
+    },
+    "serpapi": {
+      "name": "SerpAPI",
+      "category": "keyword_research",
+      "used": true,
+      "execution_time": 8.9,
+      "success": true,
+      "error_message": null,
+      "output_files": [
+        "keyword_research.json"
+      ],
+      "data_points_extracted": 50
+    },
+    "jina_ai": {
+      "name": "Jina AI",
+      "category": "content_processing",
+      "used": true,
+      "execution_time": 7.8,
+      "success": true,
+      "error_message": null,
+      "output_files": [
+        "content_embeddings.json"
+      ],
+      "data_points_extracted": 32
+    },
+    "multi_page_seo": {
+      "name": "Multi-page SEO Extractor",
+      "category": "seo_analysis",
+      "used": true,
+      "execution_time": 12.1,
+      "success": true,
+      "error_message": null,
+      "output_files": [
+        "multi_page_seo_extraction.csv",
+        "seo_report.md"
+      ],
+      "data_points_extracted": 308
+    }
+  },
+  "tools_unused": [
+    "websearch",
+    "pandas",
+    "gtmetrix",
+    "performance_analyzer",
+    "accessibility_checker"
+  ],
+  "agents_invoked": {
+    "technical_seo_analyst": {
+      "name": "technical_seo_analyst",
+      "purpose": "Comprehensive technical SEO analysis",
+      "invoked": true,
+      "execution_time": 18.5,
+      "tools_used": [
+        "webfetch",
+        "scrapy",
+        "multi_page_seo"
+      ],
+      "success": true,
+      "output_quality": "high",
+      "limitations_found": []
+    },
+    "ux_ui_analyst": {
+      "name": "ux-ui-analyst",
+      "purpose": "Comprehensive UX/UI analysis with browser automation",
+      "invoked": true,
+      "execution_time": 31.2,
+      "tools_used": [
+        "playwright",
+        "webfetch"
+      ],
+      "success": true,
+      "output_quality": "high",
+      "limitations_found": []
+    },
+    "ai_specialist_agent": {
+      "name": "ai_specialist_agent",
+      "purpose": "Comprehensive AI readiness audits and optimization",
+      "invoked": true,
+      "execution_time": 25.6,
+      "tools_used": [
+        "jina_ai",
+        "webfetch"
+      ],
+      "success": true,
+      "output_quality": "high",
+      "limitations_found": []
+    },
+    "keyword_researcher": {
+      "name": "keyword_researcher",
+      "purpose": "Comprehensive SEO keyword analysis",
+      "invoked": true,
+      "execution_time": 12.4,
+      "tools_used": [
+        "serpapi",
+        "advertools"
+      ],
+      "success": true,
+      "output_quality": "medium",
+      "limitations_found": []
+    },
+    "content_strategist": {
+      "name": "content_strategist",
+      "purpose": "Transforms research into comprehensive content strategies",
+      "invoked": true,
+      "execution_time": 15.3,
+      "tools_used": [
+        "scrapy",
+        "serpapi",
+        "jina_ai"
+      ],
+      "success": true,
+      "output_quality": "medium",
+      "limitations_found": []
+    },
+    "brand_compliance_auditor": {
+      "name": "brand-compliance-auditor",
+      "purpose": "Brand compliance assessment including British English",
+      "invoked": true,
+      "execution_time": 8.7,
+      "tools_used": [
+        "scrapy",
+        "webfetch"
+      ],
+      "success": true,
+      "output_quality": "high",
+      "limitations_found": []
+    },
+    "universal_quality_gate_orchestrator": {
+      "name": "universal_quality_gate_orchestrator",
+      "purpose": "Multi-domain quality assessment",
+      "invoked": true,
+      "execution_time": 6.2,
+      "tools_used": [
+        "all_previous_outputs"
+      ],
+      "success": true,
+      "output_quality": "high",
+      "limitations_found": []
+    }
+  },
+  "agents_unused": [
+    "master_orchestrator",
+    "workflow_orchestrator",
+    "performance_tester",
+    "accessibility_checker",
+    "ux_flow_validator",
+    "ai_enhanced_auditor",
+    "seo_strategist",
+    "competitive_intelligence_searcher",
+    "niche_trend_researcher",
+    "brand_strategy_researcher",
+    "content_auditor",
+    "audience_intent_researcher",
+    "limitation_resolution_agent"
+  ],
+  "metrics": {
+    "total_pages_analyzed": 28,
+    "total_data_points_extracted": 755,
+    "seo_issues_found": 12,
+    "performance_score": 7.2,
+    "accessibility_issues": 3,
+    "api_calls_made": 15,
+    "files_generated": 9,
+    "screenshots_taken": 3
+  },
+  "coverage": {
+    "requested_analysis_types": [
+      "Complete SEO audit",
+      "UX/UI analysis",
+      "AI optimization",
+      "Keyword research"
+    ],
+    "delivered_analysis_types": [
+      "Multi-page SEO extraction",
+      "Real browser testing",
+      "AI content analysis",
+      "SERP keyword data"
+    ],
+    "missing_analysis_types": [],
+    "unexpected_limitations": [
+      "GTmetrix API temporarily unavailable"
+    ]
+  }
+}

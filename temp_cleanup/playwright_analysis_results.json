@@ -1,0 +1,524 @@
+{
+  "basic_metrics": {
+    "url": "https://sydneycoachcharter.com.au/",
+    "title": "Sydney Coach Charter | Bus Charter Hire | NSW Accredited",
+    "status_code": 200,
+    "viewport": {
+      "width": 1280,
+      "height": 720
+    },
+    "timestamp": "2025-09-02T14:07:42.080139"
+  },
+  "seo_analysis": {
+    "title": "Sydney Coach Charter | Bus Charter Hire | NSW Accredited",
+    "title_length": 56,
+    "meta_description": "Sydney Coach Charter has over 20 Years experience providing coach charter services and bus hire with drivers in Sydney. NSW Government accredited bus hire company.",
+    "meta_description_length": 163,
+    "canonical_url": "https://sydneycoachcharter.com.au/",
+    "h1_count": 1,
+    "h1_texts": [
+      "\nWelcome to Sydney Coach Charter\n"
+    ],
+    "h2_count": 7,
+    "h2_texts": [
+      "Delivering Exceptional Coach Charter Services Since 2007",
+      "Reliable Transport for Every Occasion",
+      "Our Promise",
+      "Discover Our Luxury Fleet",
+      "\nTestimonials\n",
+      "\nNeed a quote for your next Sydney Coach Charter booking?\n",
+      "We're Here to Help"
+    ],
+    "total_images": 9,
+    "images_with_alt": 0,
+    "images_without_alt": 9,
+    "internal_links_count": 53,
+    "external_links_count": 3,
+    "images_details": [
+      {
+        "src": "https://sydneycoachcharter.com.au/wp-content/uploads/2023/11/Sydney-Coach-Charter-2.png",
+        "alt": null,
+        "has_alt": false
+      },
+      {
+        "src": "https://sydneycoachcharter.com.au/wp-content/uploads/2023/11/mega-menu-bus.jpg",
+        "alt": null,
+        "has_alt": false
+      },
+      {
+        "src": "https://sydneycoachcharter.com.au/wp-content/uploads/2025/06/sydney-coach-charter-delivering-exceptional-services.png",
+        "alt": null,
+        "has_alt": false
+      },
+      {
+        "src": "https://sydneycoachcharter.com.au/wp-content/uploads/2025/06/image-bus.jpg",
+        "alt": null,
+        "has_alt": false
+      },
+      {
+        "src": "https://sydneycoachcharter.com.au/wp-content/uploads/2025/06/sydney-coach-promises.png",
+        "alt": null,
+        "has_alt": false
+      },
+      {
+        "src": "https://sydneycoachcharter.com.au/wp-content/uploads/2025/06/testimonial-img.jpg",
+        "alt": null,
+        "has_alt": false
+      },
+      {
+        "src": "https://sydneycoachcharter.com.au/wp-content/uploads/2025/06/we-are-here-to-help.jpg",
+        "alt": null,
+        "has_alt": false
+      },
+      {
+        "src": "https://sydneycoachcharter.com.au/wp-content/uploads/2023/11/Sydney-Coach-Charter-2.png",
+        "alt": null,
+        "has_alt": false
+      },
+      {
+        "src": "https://sydneycoachcharter.com.au/wp-content/uploads/2023/11/company-logos.jpg",
+        "alt": null,
+        "has_alt": false
+      }
+    ]
+  },
+  "performance_metrics": {
+    "load_time": 9.100000023841858,
+    "dom_content_loaded": 21.80000001192093,
+    "first_contentful_paint": null,
+    "resource_count": 62,
+    "total_transfer_size": 1542668,
+    "page_size_bytes": 123653
+  },
+  "content_analysis": {
+    "total_text_length": 25307,
+    "word_count_estimate": 1557,
+    "service_mentions": {
+      "wedding": 5,
+      "corporate": 6,
+      "school": 8,
+      "charter": 23,
+      "tour": 5,
+      "sydney": 16,
+      "nsw": 1
+    },
+    "contact_info": {
+      "phone_visible": false,
+      "quote_buttons_count": 6,
+      "book_buttons_count": 7
+    }
+  },
+  "accessibility_analysis": {
+    "images_with_alt": 0,
+    "images_without_alt": 9,
+    "inputs_with_labels": 0,
+    "inputs_without_labels": 0,
+    "proper_h1_structure": true,
+    "h1_count": 1
+  },
+  "forms_analysis": {
+    "total_forms": 0,
+    "contact_forms": 0,
+    "cta_analysis": {
+      "quote_ctas": 0,
+      "call_ctas": 3,
+      "contact_ctas": 5
+    }
+  },
+  "mobile_analysis": {
+    "mobile_portrait": {
+      "viewport": {
+        "width": 375,
+        "height": 667
+      },
+      "navigation_visible": true,
+      "h1_visible": true,
+      "responsive_friendly": true
+    },
+    "tablet_portrait": {
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "navigation_visible": true,
+      "h1_visible": true,
+      "responsive_friendly": true
+    },
+    "desktop": {
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "navigation_visible": true,
+      "h1_visible": true,
+      "responsive_friendly": true
+    }
+  },
+  "network_requests": [
+    {
+      "url": "https://sydneycoachcharter.com.au/",
+      "method": "GET",
+      "resource_type": "document"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/plugins/breakdance/plugin/themeless/normalize.min.css",
+      "method": "GET",
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/plugins/breakdance/subplugins/breakdance-elements/dependencies-files/awesome-menu@1/awesome-menu.css?bd_ver=2.4.0",
+      "method": "GET",
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/plugins/breakdance/subplugins/breakdance-elements/dependencies-files/breakdance-fancy-background@1/fancy-background.css?bd_ver=2.4.0",
+      "method": "GET",
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/plugins/breakdance/subplugins/breakdance-elements/dependencies-files/breakdance-posts@1/posts.css?bd_ver=2.4.0",
+      "method": "GET",
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/plugins/breakdance/subplugins/breakdance-elements/dependencies-files/swiper@8/swiper-bundle.min.css?bd_ver=2.4.0",
+      "method": "GET",
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/plugins/breakdance/subplugins/breakdance-elements/dependencies-files/swiper@8/breakdance-swiper-preset-defaults.css?bd_ver=2.4.0",
+      "method": "GET",
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Oswald:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Amaranth:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap",
+      "method": "GET",
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/breakdance/css/post-338-defaults.css?v=ccc668a47af674b02b424d86520a3aac",
+      "method": "GET",
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/breakdance/css/post-336-defaults.css?v=d51758b3430ccc0c65402bf1915ae7a7",
+      "method": "GET",
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/breakdance/css/post-775-defaults.css?v=ea1b54df569cfb8c5b5df1f628df79d4",
+      "method": "GET",
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/breakdance/css/post-1846-defaults.css?v=025f32c0e4304232e7c76ca401620a2c",
+      "method": "GET",
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/breakdance/css/post-1873-defaults.css?v=8dc56cf4ba59d3123345d3330f904788",
+      "method": "GET",
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/breakdance/css/post-674-defaults.css?v=0516456c417cc363babf75139ff6c2bf",
+      "method": "GET",
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/breakdance/css/post-677-defaults.css?v=3e1ecf640adcf41bd94bf8b6558a103f",
+      "method": "GET",
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/breakdance/css/post-340-defaults.css?v=2075cb85cf4de7f7074ca7f70fb1a57c",
+      "method": "GET",
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/breakdance/css/global-settings.css?v=2353302901303a076221da6f622cc332",
+      "method": "GET",
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/breakdance/css/presets.css?v=d41d8cd98f00b204e9800998ecf8427e",
+      "method": "GET",
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/breakdance/css/selectors.css?v=38fd2245a4f72a8701926a9532f6b362",
+      "method": "GET",
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/breakdance/css/post-338.css?v=c3d2f9d09151d611f7d6478b7b22519b",
+      "method": "GET",
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/breakdance/css/post-336.css?v=ea6020e12fa89cabaa31bef4b3aeaf4a",
+      "method": "GET",
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/breakdance/css/post-775.css?v=4e47e333f0c372c802b61a959b466e1e",
+      "method": "GET",
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/breakdance/css/post-1846.css?v=5ddc8d52ecfa226f438cbf70add75cfa",
+      "method": "GET",
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/breakdance/css/post-1873.css?v=2c4ad00e0d1b6763f203d2ed7b23440a",
+      "method": "GET",
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/breakdance/css/post-674.css?v=0ebb8cb955dc43b6b924f1b6bfddae48",
+      "method": "GET",
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/breakdance/css/post-677.css?v=dcaf5afd5f947df3b2e881dc012a691f",
+      "method": "GET",
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/breakdance/css/post-340.css?v=a5ca1e476c863d99ec0558cb09742040",
+      "method": "GET",
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/2023/11/Sydney-Coach-Charter-2.png",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/2023/11/mega-menu-bus.jpg",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/api.js?render=6LeoiHQrAAAAAIlwf2InTZTNACF8Q8OPBKire04M&ver=1.7.0",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/plugins/breakdance/plugin/global-scripts/breakdance-utils.js?bd_ver=2.4.0",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://unpkg.com/gsap@3.12.2/dist/gsap.min.js",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://unpkg.com/gsap@3.12.2/dist/ScrollTrigger.min.js",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/plugins/breakdance/plugin/animations/sticky/js/sticky.js?bd_ver=2.4.0",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/plugins/breakdance/subplugins/breakdance-elements/dependencies-files/awesome-menu@1/awesome-menu.js?bd_ver=2.4.0",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/plugins/breakdance/subplugins/breakdance-elements/dependencies-files/swiper@8/swiper-bundle.min.js?bd_ver=2.4.0",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/plugins/breakdance/subplugins/breakdance-elements/dependencies-files/breakdance-swiper/breakdance-swiper.js?bd_ver=2.4.0",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KT68JDZT",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/2025/06/Sydney-Coach-Charter-Banner-Image.jpg",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/2025/06/Corporate-Bus-and-Coach-Charters-Thumbnail.jpg",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/2025/06/School-Transport-and-Excursions-Thumbnail.jpg",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/2025/06/Sightseeing-and-Day-Tours-Thumbnail.jpg",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/2025/06/Conferences-and-Special-Events-Thumbnail.jpg",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/2025/06/Weddings-and-Celebrations-Thumbnail.jpg",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/2025/06/Group-Bus-and-Coach-Charters-Thumbnail.jpg",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/2025/06/white-rectangle.png",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/2025/06/Louie-Bus-Shoot-123-of-195-scaled.jpg",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/2025/06/Louie-Bus-Shoot-125-of-195-3-scaled.jpg",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/oswald/v56/TK3iWkUHHAIjg752GT8G.woff2",
+      "method": "GET",
+      "resource_type": "font"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+      "method": "GET",
+      "resource_type": "font"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/2025/06/sydney-coach-charter-delivering-exceptional-services.png",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/wp-content/uploads/2025/06/sydney-coach-promises.png",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/2sJvksnKlEApLvJt2btz_q7n/recaptcha__en.js",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-VE2D24D50N&cx=c&gtm=4e58r1",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LeoiHQrAAAAAIlwf2InTZTNACF8Q8OPBKire04M&co=aHR0cHM6Ly9zeWRuZXljb2FjaGNoYXJ0ZXIuY29tLmF1OjQ0Mw..&hl=en&v=2sJvksnKlEApLvJt2btz_q7n&size=invisible&anchor-ms=20000&execute-ms=15000&cb=ii2zq4b9h9lq",
+      "method": "GET",
+      "resource_type": "document"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/2sJvksnKlEApLvJt2btz_q7n/styles__ltr.css",
+      "method": "GET",
+      "resource_type": "stylesheet"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/2sJvksnKlEApLvJt2btz_q7n/recaptcha__en.js",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-VE2D24D50N&gtm=45je58r1v889462650z89219330972za200zb9219330972zd9219330972&_p=1756787860117&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~104527907~104528501~104684208~104684211~104948812~104948813~105427542~105427544&cid=1941392254.1756787861&ul=en-au&sr=1280x720&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_s=1&sid=1756787861&sct=1&seg=0&dl=https%3A%2F%2Fsydneycoachcharter.com.au%2F&dt=Sydney%20Coach%20Charter%20%7C%20Bus%20Charter%20Hire%20%7C%20NSW%20Accredited&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=3833",
+      "method": "POST",
+      "resource_type": "fetch"
+    },
+    {
+      "url": "https://www.google.com/ccm/collect?tid=AW-16994342966&en=page_view&dl=https%3A%2F%2Fsydneycoachcharter.com.au%2F&scrsrc=www.googletagmanager.com&frm=0&rnd=1638820119.1756787861&dt=Sydney%20Coach%20Charter%20%7C%20Bus%20Charter%20Hire%20%7C%20NSW%20Accredited&auid=1331251386.1756787861&navt=n&npa=0&gtm=45je58r1v889462650z89219330972za200zb9219330972zd9219330972xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116026~103200004~103233427~104527907~104528501~104684208~104684211~104948812~104948813~105427542~105427544&tft=1756787861045&tfd=3854&apve=1&apvf=sb",
+      "method": "POST",
+      "resource_type": "ping"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16994342966/?random=1756787861042&cv=11&fst=1756787861042&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je58r1v889462650z89219330972za200zb9219330972zd9219330972xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116026~103200004~103233427~104527907~104528501~104684208~104684211~104948812~104948813~105427542~105427544&u_w=1280&u_h=720&url=https%3A%2F%2Fsydneycoachcharter.com.au%2F&hn=www.googleadservices.com&frm=0&tiba=Sydney%20Coach%20Charter%20%7C%20Bus%20Charter%20Hire%20%7C%20NSW%20Accredited&npa=0&pscdl=noapi&auid=1331251386.1756787861&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&data=event%3Dgtag.config&rfmt=3&fmt=4",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1066891844/?random=1756787861052&cv=11&fst=1756787861052&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je58r1v889462650z89219330972za200zb9219330972zd9219330972xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116026~103200004~103233427~104527907~104528501~104684208~104684211~104948812~104948813~105427542~105427544&u_w=1280&u_h=720&url=https%3A%2F%2Fsydneycoachcharter.com.au%2F&hn=www.googleadservices.com&frm=0&tiba=Sydney%20Coach%20Charter%20%7C%20Bus%20Charter%20Hire%20%7C%20NSW%20Accredited&npa=0&pscdl=noapi&auid=1331251386.1756787861&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&data=event%3Dgtag.config&rfmt=3&fmt=4",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://www.googletagmanager.com/static/service_worker/5840/sw_iframe.html?origin=https%3A%2F%2Fsydneycoachcharter.com.au",
+      "method": "GET",
+      "resource_type": "document"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/api2/webworker.js?hl=en&v=2sJvksnKlEApLvJt2btz_q7n",
+      "method": "GET",
+      "resource_type": "script"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "method": "GET",
+      "resource_type": "font"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+      "method": "GET",
+      "resource_type": "font"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/2sJvksnKlEApLvJt2btz_q7n/recaptcha__en.js",
+      "method": "GET",
+      "resource_type": "other"
+    },
+    {
+      "url": "https://www.google.com/pagead/1p-user-list/16994342966/?random=1756787861042&cv=11&fst=1756785600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je58r1v889462650z89219330972za200zb9219330972zd9219330972xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116026~103200004~103233427~104527907~104528501~104684208~104684211~104948812~104948813~105427542~105427544&u_w=1280&u_h=720&url=https%3A%2F%2Fsydneycoachcharter.com.au%2F&hn=www.googleadservices.com&frm=0&tiba=Sydney%20Coach%20Charter%20%7C%20Bus%20Charter%20Hire%20%7C%20NSW%20Accredited&npa=0&pscdl=noapi&auid=1331251386.1756787861&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&data=event%3Dgtag.config&rfmt=3&fmt=3&is_vtc=1&cid=CAQSfwDZpuyzU-Gk7Js1NTom7zyjBXtPsT_B2MUu2QBeveTS7An146EKm7pL0NKTDKBADQNwaZVSshzH5h_7foRWmK1h6tST50c86toKQ7F6g_N_9GVrEUxz9b42J7ptVwuDqq99F9m8aOlDkbOlhLWcojfPgiL5_wXIndjeffCweDs&random=2903314139&rmt_tld=0&ipr=y",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://www.google.com.au/pagead/1p-user-list/16994342966/?random=1756787861042&cv=11&fst=1756785600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je58r1v889462650z89219330972za200zb9219330972zd9219330972xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116026~103200004~103233427~104527907~104528501~104684208~104684211~104948812~104948813~105427542~105427544&u_w=1280&u_h=720&url=https%3A%2F%2Fsydneycoachcharter.com.au%2F&hn=www.googleadservices.com&frm=0&tiba=Sydney%20Coach%20Charter%20%7C%20Bus%20Charter%20Hire%20%7C%20NSW%20Accredited&npa=0&pscdl=noapi&auid=1331251386.1756787861&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&data=event%3Dgtag.config&rfmt=3&fmt=3&is_vtc=1&cid=CAQSfwDZpuyzU-Gk7Js1NTom7zyjBXtPsT_B2MUu2QBeveTS7An146EKm7pL0NKTDKBADQNwaZVSshzH5h_7foRWmK1h6tST50c86toKQ7F6g_N_9GVrEUxz9b42J7ptVwuDqq99F9m8aOlDkbOlhLWcojfPgiL5_wXIndjeffCweDs&random=2903314139&rmt_tld=1&ipr=y",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://www.google.com/pagead/1p-user-list/1066891844/?random=1756787861052&cv=11&fst=1756785600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je58r1v889462650z89219330972za200zb9219330972zd9219330972xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116026~103200004~103233427~104527907~104528501~104684208~104684211~104948812~104948813~105427542~105427544&u_w=1280&u_h=720&url=https%3A%2F%2Fsydneycoachcharter.com.au%2F&hn=www.googleadservices.com&frm=0&tiba=Sydney%20Coach%20Charter%20%7C%20Bus%20Charter%20Hire%20%7C%20NSW%20Accredited&npa=0&pscdl=noapi&auid=1331251386.1756787861&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&data=event%3Dgtag.config&rfmt=3&fmt=3&is_vtc=1&cid=CAQSfwDZpuyzwN6GRVEomDNIZGmUW2GX0wKyojFbtfM7TW7C5LleLUBV1WI46NkrqNSqewh2ycYrmvFy-aJ9cXPEFW0X62uGqi4jcAIcU2xnzOQcnpcIhm6qpRkKnGF8e-hP-HcjP5_69VuZcVNlFkhaz9oia7Pud7RATfu1m4bRK7E&random=3420607783&rmt_tld=0&ipr=y",
+      "method": "GET",
+      "resource_type": "image"
+    },
+    {
+      "url": "https://www.google.com.au/pagead/1p-user-list/1066891844/?random=1756787861052&cv=11&fst=1756785600000&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je58r1v889462650z89219330972za200zb9219330972zd9219330972xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116026~103200004~103233427~104527907~104528501~104684208~104684211~104948812~104948813~105427542~105427544&u_w=1280&u_h=720&url=https%3A%2F%2Fsydneycoachcharter.com.au%2F&hn=www.googleadservices.com&frm=0&tiba=Sydney%20Coach%20Charter%20%7C%20Bus%20Charter%20Hire%20%7C%20NSW%20Accredited&npa=0&pscdl=noapi&auid=1331251386.1756787861&uaa=x86&uab=64&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&data=event%3Dgtag.config&rfmt=3&fmt=3&is_vtc=1&cid=CAQSfwDZpuyzwN6GRVEomDNIZGmUW2GX0wKyojFbtfM7TW7C5LleLUBV1WI46NkrqNSqewh2ycYrmvFy-aJ9cXPEFW0X62uGqi4jcAIcU2xnzOQcnpcIhm6qpRkKnGF8e-hP-HcjP5_69VuZcVNlFkhaz9oia7Pud7RATfu1m4bRK7E&random=3420607783&rmt_tld=1&ipr=y",
+      "method": "GET",
+      "resource_type": "image"
+    }
+  ]
+}

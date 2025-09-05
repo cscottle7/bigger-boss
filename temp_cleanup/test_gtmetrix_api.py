@@ -1,9 +1,12 @@
 import requests
 import json
 import time
+import os
 
 # GTMetrix API Configuration
-API_KEY = '8bd2da2e6412382368b022ff35af719a'
+API_KEY = os.getenv('GTMETRIX_API_KEY')
+if not API_KEY:
+    raise ValueError("GTMETRIX_API_KEY environment variable is not set")
 BASE_URL = 'https://gtmetrix.com/api/2.0'
 TARGET_URL = 'https://sydneycoachcharter.com.au/'
 

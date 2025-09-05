@@ -6,6 +6,7 @@ Implements human-on-the-loop gates with SLA compliance for audit approvals.
 import asyncio
 import json
 import logging
+import os
 import time
 from typing import Dict, List, Optional, Any, Union, Callable
 from pathlib import Path
@@ -107,7 +108,7 @@ class HumanReviewGateway:
                 "smtp_server": "smtp.gmail.com",
                 "smtp_port": 587,
                 "sender_email": "system@company.com",
-                "sender_password": "app_password_here"  # Use app password in production
+                "sender_password": os.getenv('EMAIL_APP_PASSWORD', '')  # Use app password from environment
             },
             "approval_interface": {
                 "base_url": "https://company.com/review",

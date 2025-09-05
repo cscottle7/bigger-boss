@@ -43,12 +43,21 @@ markdown>=3.5.0
 weasyprint>=60.0
 pdfkit>=1.0.0
 
-# Google API (optional)
-google-api-python-client>=2.110.0
+# API Integration Dependencies - Enhanced 2025-09-05
+google-api-python-client>=2.181.0
 google-auth-oauthlib>=1.1.0
-google-auth>=2.23.0
+google-auth>=2.40.0
+serpapi>=0.1.5
+requests-ratelimiter>=0.7.0
+aiofiles>=24.1.0
 
 # Utilities
 click>=8.1.0
 pathlib2>=2.3.0
 jsonschema>=4.20.0
+
+# Autonomous Operation Dependencies - Added 2025-09-05
+pyrate-limiter>=2.10.0
+tenacity>=9.1.0  # Already installed - for retry logic
+backoff>=2.2.0  # Already installed - for API backoff
+python-dateutil>=2.9.0  # Already installed - for date handling

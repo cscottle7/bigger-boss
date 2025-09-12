@@ -1,0 +1,269 @@
+{
+  "timestamp": "2025-09-02T14:09:25.656127",
+  "base_url": "https://sydneycoachcharter.com.au",
+  "sitemap_analysis": {
+    "error": "Sitemap analysis failed: syntax error: line 1, column 0"
+  },
+  "robots_analysis": {
+    "robots_url": "https://sydneycoachcharter.com.au/robots.txt",
+    "directives_count": 4,
+    "directives": [
+      {
+        "directive": "User-agent",
+        "content": "*",
+        "robotstxt_url": "https://sydneycoachcharter.com.au/robots.txt",
+        "download_date": "2025-09-02 04:39:23.492311+00:00"
+      },
+      {
+        "directive": "Disallow",
+        "content": "/wp-admin/",
+        "robotstxt_url": "https://sydneycoachcharter.com.au/robots.txt",
+        "download_date": "2025-09-02 04:39:23.492311+00:00"
+      },
+      {
+        "directive": "Allow",
+        "content": "/wp-admin/admin-ajax.php",
+        "robotstxt_url": "https://sydneycoachcharter.com.au/robots.txt",
+        "download_date": "2025-09-02 04:39:23.492311+00:00"
+      },
+      {
+        "directive": "Sitemap",
+        "content": "https://sydneycoachcharter.com.au/sitemap_index.xml",
+        "robotstxt_url": "https://sydneycoachcharter.com.au/robots.txt",
+        "download_date": "2025-09-02 04:39:23.492311+00:00"
+      }
+    ],
+    "user_agents": [],
+    "has_sitemap": true
+  },
+  "onpage_analysis": {
+    "error": "On-page SEO analysis failed: crawl() missing 1 required positional argument: 'output_file'"
+  },
+  "technical_analysis": {
+    "ssl_analysis": {
+      "has_ssl": true,
+      "response_status": 200,
+      "headers": {
+        "Server": "nginx",
+        "Date": "Tue, 02 Sep 2025 04:39:21 GMT",
+        "Content-Type": "text/html; charset=UTF-8",
+        "Connection": "keep-alive",
+        "Vary": "Accept-Encoding, Accept-Encoding,Cookie",
+        "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+        "Referrer-Policy": "strict-origin-when-cross-origin",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "SAMEORIGIN",
+        "Last-Modified": "Sat, 30 Aug 2025 02:05:01 GMT",
+        "Cache-Control": "max-age=3, must-revalidate",
+        "Expires": "Tue, 02 Sep 2025 03:42:37 GMT",
+        "Content-Encoding": "gzip"
+      }
+    },
+    "performance_analysis": {
+      "response_time_seconds": 0.329526,
+      "page_size_bytes": 115698,
+      "status_code": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "server": "nginx",
+      "cache_control": "max-age=3, must-revalidate",
+      "compression": "gzip"
+    },
+    "mobile_analysis": {
+      "has_viewport_meta": true,
+      "has_responsive_images": true,
+      "has_media_queries": false,
+      "mobile_friendly_score": 40
+    },
+    "domain_analysis": {
+      "domain": "sydneycoachcharter.com.au",
+      "tld": "au",
+      "subdomain": "sydneycoachcharter",
+      "is_www": false,
+      "protocol": "https"
+    }
+  },
+  "content_analysis": {
+    "total_words": 1401,
+    "keyword_analysis": {
+      "sydney": {
+        "count": 20,
+        "density_percent": 1.43
+      },
+      "coach": {
+        "count": 28,
+        "density_percent": 2.0
+      },
+      "charter": {
+        "count": 25,
+        "density_percent": 1.78
+      },
+      "bus": {
+        "count": 21,
+        "density_percent": 1.5
+      },
+      "hire": {
+        "count": 2,
+        "density_percent": 0.14
+      },
+      "nsw": {
+        "count": 2,
+        "density_percent": 0.14
+      },
+      "wedding": {
+        "count": 5,
+        "density_percent": 0.36
+      },
+      "corporate": {
+        "count": 6,
+        "density_percent": 0.43
+      },
+      "school": {
+        "count": 8,
+        "density_percent": 0.57
+      },
+      "transport": {
+        "count": 12,
+        "density_percent": 0.86
+      },
+      "tours": {
+        "count": 4,
+        "density_percent": 0.29
+      },
+      "accredited": {
+        "count": 4,
+        "density_percent": 0.29
+      },
+      "licensed": {
+        "count": 0,
+        "density_percent": 0.0
+      },
+      "professional": {
+        "count": 6,
+        "density_percent": 0.43
+      },
+      "experienced": {
+        "count": 2,
+        "density_percent": 0.14
+      }
+    },
+    "content_quality_indicators": {
+      "has_contact_info": true,
+      "has_service_descriptions": true,
+      "has_location_info": true,
+      "has_credentials": true
+    }
+  },
+  "local_seo_analysis": {
+    "local_seo_score": 70,
+    "indicators": {
+      "sydney_mentions": 210,
+      "nsw_mentions": 13,
+      "australia_mentions": 4,
+      "phone_number_present": true,
+      "address_indicators": true,
+      "local_landmarks": true,
+      "service_areas": true
+    },
+    "recommendations": []
+  },
+  "schema_analysis": {
+    "json_ld_count": 1,
+    "microdata_count": 0,
+    "structured_data": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": [
+              "Person",
+              "Organization"
+            ],
+            "@id": "https://sydneycoachcharter.com.au/#person",
+            "name": "Start Website Astra",
+            "sameAs": [
+              "https://twitter.com/dws.developer"
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://sydneycoachcharter.com.au/#website",
+            "url": "https://sydneycoachcharter.com.au",
+            "name": "Sydney Coach Charter",
+            "publisher": {
+              "@id": "https://sydneycoachcharter.com.au/#person"
+            },
+            "inLanguage": "en-AU",
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": "https://sydneycoachcharter.com.au/?s={search_term_string}",
+              "query-input": "required name=search_term_string"
+            }
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://sydneycoachcharter.com.au/#webpage",
+            "url": "https://sydneycoachcharter.com.au/",
+            "name": "Sydney Coach Charter | Bus Charter Hire | NSW Accredited",
+            "datePublished": "2023-11-17T12:54:26+10:00",
+            "dateModified": "2025-08-12T17:31:46+10:00",
+            "about": {
+              "@id": "https://sydneycoachcharter.com.au/#person"
+            },
+            "isPartOf": {
+              "@id": "https://sydneycoachcharter.com.au/#website"
+            },
+            "inLanguage": "en-AU"
+          },
+          {
+            "@type": "Person",
+            "@id": "https://sydneycoachcharter.com.au/author/craig-cottle/",
+            "name": "Craig Cottle",
+            "url": "https://sydneycoachcharter.com.au/author/craig-cottle/",
+            "image": {
+              "@type": "ImageObject",
+              "@id": "https://secure.gravatar.com/avatar/b52ee8f8ce497ae6e2dfe7dc0820022a30dbca20c1717f8ee1a0cbee41b2211e?s=96&amp;d=mm&amp;r=g",
+              "url": "https://secure.gravatar.com/avatar/b52ee8f8ce497ae6e2dfe7dc0820022a30dbca20c1717f8ee1a0cbee41b2211e?s=96&amp;d=mm&amp;r=g",
+              "caption": "Craig Cottle",
+              "inLanguage": "en-AU"
+            }
+          },
+          {
+            "@type": "Article",
+            "headline": "Sydney Coach Charter | Bus Charter Hire | NSW Accredited",
+            "datePublished": "2023-11-17T12:54:26+10:00",
+            "dateModified": "2025-08-12T17:31:46+10:00",
+            "author": {
+              "@id": "https://sydneycoachcharter.com.au/author/craig-cottle/",
+              "name": "Craig Cottle"
+            },
+            "publisher": {
+              "@id": "https://sydneycoachcharter.com.au/#person"
+            },
+            "description": "Sydney Coach Charter has over 20 Years experience providing coach charter services and bus hire with drivers in Sydney. NSW Government accredited bus hire company.",
+            "name": "Sydney Coach Charter | Bus Charter Hire | NSW Accredited",
+            "@id": "https://sydneycoachcharter.com.au/#richSnippet",
+            "isPartOf": {
+              "@id": "https://sydneycoachcharter.com.au/#webpage"
+            },
+            "inLanguage": "en-AU",
+            "mainEntityOfPage": {
+              "@id": "https://sydneycoachcharter.com.au/#webpage"
+            }
+          }
+        ]
+      }
+    ],
+    "schema_types": [
+      "Person",
+      "Organization",
+      "WebPage",
+      "Article",
+      "WebSite"
+    ],
+    "recommendations": [
+      "Consider adding schema markup for: LocalBusiness, TransportationCompany, Service",
+      "Add structured address data to schema markup",
+      "Add telephone number to schema markup"
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "scan_metadata": {
+    "domain": "sydneycoachcharter.com.au",
+    "base_url": "https://sydneycoachcharter.com.au",
+    "client": "sydneycoachcharter_com_au",
+    "scan_date": "2025-09-05T13:58:06.802725",
+    "pages_crawled": 3,
+    "pages_failed": 0,
+    "max_pages_setting": 3,
+    "crawler_version": "1.0"
+  },
+  "executive_summary": {
+    "total_pages": 3,
+    "average_seo_score": 76.7,
+    "critical_issues": 0,
+    "warnings": 7,
+    "info_items": 0
+  },
+  "page_by_page_analysis": [
+    {
+      "url": "https://sydneycoachcharter.com.au",
+      "page_title": "Sydney Coach Charter | Bus Charter Hire | NSW Accredited",
+      "meta_description": "Sydney Coach Charter has over 20 Years experience providing coach charter services and bus hire with drivers in Sydney. NSW Government accredited bus hire company.",
+      "h1_tags": [
+        "Welcome to Sydney Coach Charter"
+      ],
+      "seo_score": 80,
+      "word_count": 1329,
+      "issues": [
+        {
+          "type": "warning",
+          "category": "meta_description",
+          "issue": "Meta description too long (> 160 characters)"
+        },
+        {
+          "type": "warning",
+          "category": "accessibility",
+          "issue": "9 images missing alt text"
+        }
+      ],
+      "technical_details": {
+        "canonical_url": "https://sydneycoachcharter.com.au/",
+        "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+        "language": "en-AU",
+        "structured_data_found": true
+      }
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/",
+      "page_title": "Sydney Coach Charter | Bus Charter Hire | NSW Accredited",
+      "meta_description": "Sydney Coach Charter has over 20 Years experience providing coach charter services and bus hire with drivers in Sydney. NSW Government accredited bus hire company.",
+      "h1_tags": [
+        "Welcome to Sydney Coach Charter"
+      ],
+      "seo_score": 80,
+      "word_count": 1329,
+      "issues": [
+        {
+          "type": "warning",
+          "category": "meta_description",
+          "issue": "Meta description too long (> 160 characters)"
+        },
+        {
+          "type": "warning",
+          "category": "accessibility",
+          "issue": "9 images missing alt text"
+        }
+      ],
+      "technical_details": {
+        "canonical_url": "https://sydneycoachcharter.com.au/",
+        "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+        "language": "en-AU",
+        "structured_data_found": true
+      }
+    },
+    {
+      "url": "https://sydneycoachcharter.com.au/about-sydney-coach-charter/",
+      "page_title": "About | Sydney Coach Charter | Coach Charter Bus Hire | NSW Accredited | Luxury Bus Hire",
+      "meta_description": "Learn more about Sydney Coach Charter Bus Hire. We have over 20-Years experience providing coach charter services and bus hire with driver in Sydney. NSW Government accredited bus hire company in Sydney.",
+      "h1_tags": [
+        "About Us"
+      ],
+      "seo_score": 70,
+      "word_count": 1329,
+      "issues": [
+        {
+          "type": "warning",
+          "category": "title",
+          "issue": "Title too long (> 60 characters)"
+        },
+        {
+          "type": "warning",
+          "category": "meta_description",
+          "issue": "Meta description too long (> 160 characters)"
+        },
+        {
+          "type": "warning",
+          "category": "accessibility",
+          "issue": "9 images missing alt text"
+        }
+      ],
+      "technical_details": {
+        "canonical_url": "https://sydneycoachcharter.com.au/about-sydney-coach-charter/",
+        "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+        "language": "en-AU",
+        "structured_data_found": true
+      }
+    }
+  ],
+  "site_wide_issues": [
+    "Duplicate titles found across multiple pages",
+    "Duplicate meta descriptions found across multiple pages"
+  ],
+  "recommendations": [
+    {
+      "priority": "MEDIUM",
+      "category": "Meta Description",
+      "total_issues": 3,
+      "critical": 0,
+      "warnings": 3,
+      "recommendation": "Add 0 missing meta descriptions and optimize 3 lengths"
+    },
+    {
+      "priority": "MEDIUM",
+      "category": "Accessibility",
+      "total_issues": 3,
+      "critical": 0,
+      "warnings": 3,
+      "recommendation": "Add alt text to 3 images missing descriptions"
+    },
+    {
+      "priority": "MEDIUM",
+      "category": "Title",
+      "total_issues": 1,
+      "critical": 0,
+      "warnings": 1,
+      "recommendation": "Fix 0 missing titles and optimize 1 title lengths"
+    }
+  ],
+  "failed_pages": []
+}

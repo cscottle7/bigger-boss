@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:healthcaremarketing.com.au)",
+      "WebFetch(domain:vividus.com.au)",
+      "WebFetch(domain:liftlegal.com.au)",
+      "WebFetch(domain:cju.com.au)",
+      "WebFetch(domain:rocketagency.com.au)",
+      "WebFetch(domain:medicalmarketingaustralia.com.au)",
+      "WebFetch(domain:legalsites.com.au)",
+      "WebFetch(domain:www.practiceproof.com)",
+      "WebFetch(domain:sydneycoachcharter.com.au)",
+      "WebSearch",
+      "Bash(mkdir:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

@@ -1,0 +1,63 @@
+# Core AI and Framework Dependencies
+anthropic>=0.23.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# Data Processing and Parsing
+pandas>=2.1.0
+PyPDF2>=3.0.0
+pdfplumber>=0.10.0
+openpyxl>=3.1.0
+
+# Web and HTTP Utilities
+playwright>=1.40.0
+axe-core-python>=0.1.0
+requests>=2.31.0
+httpx>=0.25.0
+aiohttp>=3.9.0
+beautifulsoup4>=4.12.0
+certifi>=2023.7.22
+# Enhanced SEO Extraction Dependencies - VALIDATED 2025-08-26
+scrapy>=2.11.0  # Installed: 2.11.2 - Enhanced web scraping for technical SEO
+advertools>=0.14.0  # Installed: 0.17.0 - Comprehensive SEO analysis capabilities
+
+# Vector Database and RAG
+chromadb>=0.4.0
+sentence-transformers>=2.2.0
+
+# Environment and Configuration
+python-dotenv>=1.0.0
+
+# Testing and Quality
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-mock>=3.12.0
+
+# Logging and Monitoring
+structlog>=23.2.0
+rich>=13.7.0
+
+# Document Export Dependencies
+python-docx>=1.1.0
+markdown>=3.5.0
+weasyprint>=60.0
+pdfkit>=1.0.0
+
+# API Integration Dependencies - Enhanced 2025-09-05
+google-api-python-client>=2.181.0
+google-auth-oauthlib>=1.1.0
+google-auth>=2.40.0
+serpapi>=0.1.5
+requests-ratelimiter>=0.7.0
+aiofiles>=24.1.0
+
+# Utilities
+click>=8.1.0
+pathlib2>=2.3.0
+jsonschema>=4.20.0
+
+# Autonomous Operation Dependencies - Added 2025-09-05
+pyrate-limiter>=2.10.0
+tenacity>=9.1.0  # Already installed - for retry logic
+backoff>=2.2.0  # Already installed - for API backoff
+python-dateutil>=2.9.0  # Already installed - for date handling

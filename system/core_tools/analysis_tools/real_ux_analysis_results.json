@@ -1,0 +1,121 @@
+{
+  "analysis_date": "2025-09-02T18:45:00.800242",
+  "url": "https://sydneycoachcharter.com.au",
+  "methodology": "Real Playwright Browser Automation",
+  "evidence": {
+    "screenshots": [
+      {
+        "device": "desktop",
+        "path": "analysis_tools/screenshots/desktop_1920x1080.png",
+        "viewport": "1920x1080"
+      },
+      {
+        "device": "tablet",
+        "path": "analysis_tools/screenshots/tablet_768x1024.png",
+        "viewport": "768x1024"
+      },
+      {
+        "device": "mobile",
+        "path": "analysis_tools/screenshots/mobile_375x667.png",
+        "viewport": "375x667"
+      }
+    ],
+    "measurements": {
+      "desktop": {
+        "viewport_width": 1920,
+        "viewport_height": 1080,
+        "page_height": 6879,
+        "first_h1_visible": true,
+        "navigation_visible": true,
+        "contact_info_visible": true,
+        "quote_buttons": 5,
+        "scroll_to_content": 0
+      },
+      "tablet": {
+        "viewport_width": 768,
+        "viewport_height": 1024,
+        "page_height": 8225,
+        "first_h1_visible": true,
+        "navigation_visible": true,
+        "contact_info_visible": true,
+        "quote_buttons": 5,
+        "scroll_to_content": 0
+      },
+      "mobile": {
+        "viewport_width": 375,
+        "viewport_height": 667,
+        "page_height": 10366,
+        "first_h1_visible": true,
+        "navigation_visible": true,
+        "contact_info_visible": true,
+        "quote_buttons": 5,
+        "scroll_to_content": 0
+      }
+    },
+    "interactions": [
+      {
+        "element": "navigation",
+        "count": 27,
+        "accessible": true
+      },
+      {
+        "element": "phone_links",
+        "count": 4,
+        "functional": true
+      }
+    ],
+    "accessibility": {
+      "has_alt_images": false,
+      "missing_alt_images": 9,
+      "has_headings": true,
+      "heading_structure": [
+        "H3",
+        "H1",
+        "H4",
+        "H2",
+        "H2",
+        "H3",
+        "H3",
+        "H3",
+        "H3",
+        "H3",
+        "H3",
+        "H2",
+        "H3",
+        "H3",
+        "H3",
+        "H4",
+        "H2",
+        "H2",
+        "H3",
+        "H3",
+        "H3",
+        "H3",
+        "H3",
+        "H3",
+        "H3",
+        "H3",
+        "H3",
+        "H3",
+        "H2",
+        "H4",
+        "H2",
+        "H4",
+        "H4"
+      ],
+      "form_labels": 0,
+      "form_inputs": 1,
+      "skip_links": 0,
+      "aria_labels": 25
+    },
+    "performance": {
+      "page_load_time": 2.111164,
+      "browser_metrics": {
+        "dom_content_loaded": 17.5,
+        "load_complete": 7.300000011920929,
+        "first_contentful_paint": 412,
+        "total_resources": 62
+      }
+    }
+  }
+}

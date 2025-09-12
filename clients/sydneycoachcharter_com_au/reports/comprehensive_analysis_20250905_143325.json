@@ -1,0 +1,433 @@
+{
+  "domain": "sydneycoachcharter.com.au",
+  "client_domain": "sydneycoachcharter_com_au",
+  "analysis_timestamp": "2025-09-05T14:32:50.054402",
+  "results": {
+    "seo_analysis": {
+      "status": "success",
+      "report_file": "clients\\sydneycoachcharter_com_au\\technical\\comprehensive_seo_analysis_20250905_143325.json",
+      "summary": {
+        "pages_analyzed": 11,
+        "average_seo_score": 76.4,
+        "critical_issues": 0,
+        "warnings": 26,
+        "pages_failed": 0
+      },
+      "detailed_results": {
+        "scan_metadata": {
+          "domain": "sydneycoachcharter.com.au",
+          "base_url": "https://sydneycoachcharter.com.au",
+          "client": "sydneycoachcharter_com_au",
+          "scan_date": "2025-09-05T14:33:25.638369",
+          "pages_crawled": 11,
+          "pages_failed": 0,
+          "max_pages_setting": 50,
+          "crawler_version": "1.0"
+        },
+        "executive_summary": {
+          "total_pages": 11,
+          "average_seo_score": 76.4,
+          "critical_issues": 0,
+          "warnings": 26,
+          "info_items": 0
+        },
+        "page_by_page_analysis": [
+          {
+            "url": "https://sydneycoachcharter.com.au",
+            "page_title": "Sydney Coach Charter | Bus Charter Hire | NSW Accredited",
+            "meta_description": "Sydney Coach Charter has over 20 Years experience providing coach charter services and bus hire with drivers in Sydney. NSW Government accredited bus hire company.",
+            "h1_tags": [
+              "Welcome to Sydney Coach Charter"
+            ],
+            "seo_score": 80,
+            "word_count": 1329,
+            "issues": [
+              {
+                "type": "warning",
+                "category": "meta_description",
+                "issue": "Meta description too long (> 160 characters)"
+              },
+              {
+                "type": "warning",
+                "category": "accessibility",
+                "issue": "9 images missing alt text"
+              }
+            ],
+            "technical_details": {
+              "canonical_url": "https://sydneycoachcharter.com.au/",
+              "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+              "language": "en-AU",
+              "structured_data_found": true
+            }
+          },
+          {
+            "url": "https://sydneycoachcharter.com.au/",
+            "page_title": "Sydney Coach Charter | Bus Charter Hire | NSW Accredited",
+            "meta_description": "Sydney Coach Charter has over 20 Years experience providing coach charter services and bus hire with drivers in Sydney. NSW Government accredited bus hire company.",
+            "h1_tags": [
+              "Welcome to Sydney Coach Charter"
+            ],
+            "seo_score": 80,
+            "word_count": 1329,
+            "issues": [
+              {
+                "type": "warning",
+                "category": "meta_description",
+                "issue": "Meta description too long (> 160 characters)"
+              },
+              {
+                "type": "warning",
+                "category": "accessibility",
+                "issue": "9 images missing alt text"
+              }
+            ],
+            "technical_details": {
+              "canonical_url": "https://sydneycoachcharter.com.au/",
+              "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+              "language": "en-AU",
+              "structured_data_found": true
+            }
+          },
+          {
+            "url": "https://sydneycoachcharter.com.au/about-sydney-coach-charter/",
+            "page_title": "About | Sydney Coach Charter | Coach Charter Bus Hire | NSW Accredited | Luxury Bus Hire",
+            "meta_description": "Learn more about Sydney Coach Charter Bus Hire. We have over 20-Years experience providing coach charter services and bus hire with driver in Sydney. NSW Government accredited bus hire company in Sydney.",
+            "h1_tags": [
+              "About Us"
+            ],
+            "seo_score": 70,
+            "word_count": 1329,
+            "issues": [
+              {
+                "type": "warning",
+                "category": "title",
+                "issue": "Title too long (> 60 characters)"
+              },
+              {
+                "type": "warning",
+                "category": "meta_description",
+                "issue": "Meta description too long (> 160 characters)"
+              },
+              {
+                "type": "warning",
+                "category": "accessibility",
+                "issue": "9 images missing alt text"
+              }
+            ],
+            "technical_details": {
+              "canonical_url": "https://sydneycoachcharter.com.au/about-sydney-coach-charter/",
+              "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+              "language": "en-AU",
+              "structured_data_found": true
+            }
+          },
+          {
+            "url": "https://sydneycoachcharter.com.au/about-sydney-coach-charter/testimonials/",
+            "page_title": "Testimonials | Sydney Coach Charter",
+            "meta_description": "Read what our customers say about their experience with Sydney Coach Charter. Discover why we’re trusted for reliable and comfortable group travel.",
+            "h1_tags": [
+              "Testimonials"
+            ],
+            "seo_score": 90,
+            "word_count": 3270,
+            "issues": [
+              {
+                "type": "warning",
+                "category": "accessibility",
+                "issue": "6 images missing alt text"
+              }
+            ],
+            "technical_details": {
+              "canonical_url": "https://sydneycoachcharter.com.au/about-sydney-coach-charter/testimonials/",
+              "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+              "language": "en-AU",
+              "structured_data_found": true
+            }
+          },
+          {
+            "url": "https://sydneycoachcharter.com.au/about-sydney-coach-charter/frequently-asked-questions/",
+            "page_title": "FAQ | Sydney Coach Charter | Bus Hire | NSW Accredited | Luxury Coach Charter Bus Hire",
+            "meta_description": "Have any questions? Here are some answers to commonly asked questions. Hire a Charter Bus with Driver in Sydney. We have over 20-Years experience providing coach charter services and bus hire with driver in Sydney.",
+            "h1_tags": [
+              "Frequently Asked Questions"
+            ],
+            "seo_score": 70,
+            "word_count": 347,
+            "issues": [
+              {
+                "type": "warning",
+                "category": "title",
+                "issue": "Title too long (> 60 characters)"
+              },
+              {
+                "type": "warning",
+                "category": "meta_description",
+                "issue": "Meta description too long (> 160 characters)"
+              },
+              {
+                "type": "warning",
+                "category": "accessibility",
+                "issue": "5 images missing alt text"
+              }
+            ],
+            "technical_details": {
+              "canonical_url": "https://sydneycoachcharter.com.au/about-sydney-coach-charter/frequently-asked-questions/",
+              "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+              "language": "en-AU",
+              "structured_data_found": true
+            }
+          },
+          {
+            "url": "https://sydneycoachcharter.com.au/about-sydney-coach-charter/our-fleet/",
+            "page_title": "Our Fleet | Sydney Coach Charter | Bus Hire Sydney | Coach Hire",
+            "meta_description": "View our fleet of coach charter buses available for your group transfer across Sydney. Shuttle bus transfers are our speciality. Let Sydney Coach Charter take you where you need to go!",
+            "h1_tags": [
+              "Our Fleet"
+            ],
+            "seo_score": 70,
+            "word_count": 1019,
+            "issues": [
+              {
+                "type": "warning",
+                "category": "title",
+                "issue": "Title too long (> 60 characters)"
+              },
+              {
+                "type": "warning",
+                "category": "meta_description",
+                "issue": "Meta description too long (> 160 characters)"
+              },
+              {
+                "type": "warning",
+                "category": "accessibility",
+                "issue": "63 images missing alt text"
+              }
+            ],
+            "technical_details": {
+              "canonical_url": "https://sydneycoachcharter.com.au/about-sydney-coach-charter/our-fleet/",
+              "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+              "language": "en-AU",
+              "structured_data_found": true
+            }
+          },
+          {
+            "url": "https://sydneycoachcharter.com.au/school-transport-bus-coach-charters/",
+            "page_title": "School Bus Hire Sydney | Bus Hire Sydney | Coach Charter Bus Hire",
+            "meta_description": "Hire a Sydney Coach Charter Bus with Driver for school bus Transfers. We have over 20-Years’ experience providing coach charter services and bus hire with driver in Sydney. NSW Government accredited bus hire company in Sydney.",
+            "h1_tags": [
+              "School Transport Bus & Coach Charters"
+            ],
+            "seo_score": 70,
+            "word_count": 1174,
+            "issues": [
+              {
+                "type": "warning",
+                "category": "title",
+                "issue": "Title too long (> 60 characters)"
+              },
+              {
+                "type": "warning",
+                "category": "meta_description",
+                "issue": "Meta description too long (> 160 characters)"
+              },
+              {
+                "type": "warning",
+                "category": "accessibility",
+                "issue": "7 images missing alt text"
+              }
+            ],
+            "technical_details": {
+              "canonical_url": "https://sydneycoachcharter.com.au/school-transport-bus-coach-charters/",
+              "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+              "language": "en-AU",
+              "structured_data_found": true
+            }
+          },
+          {
+            "url": "https://sydneycoachcharter.com.au/school-sporting-transfers/",
+            "page_title": "School Sporting Transfers | Sydney Coach Charter",
+            "meta_description": "Get your teams to sporting events on time with our comfortable and reliable school sports transfer services.",
+            "h1_tags": [
+              "School Sporting Transfers"
+            ],
+            "seo_score": 80,
+            "word_count": 1141,
+            "issues": [
+              {
+                "type": "warning",
+                "category": "meta_description",
+                "issue": "Meta description too short (< 120 characters)"
+              },
+              {
+                "type": "warning",
+                "category": "accessibility",
+                "issue": "7 images missing alt text"
+              }
+            ],
+            "technical_details": {
+              "canonical_url": "https://sydneycoachcharter.com.au/school-sporting-transfers/",
+              "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+              "language": "en-AU",
+              "structured_data_found": true
+            }
+          },
+          {
+            "url": "https://sydneycoachcharter.com.au/school-excursions/",
+            "page_title": "School Excursions | Sydney Coach Charter",
+            "meta_description": "Plan safe and fun school excursions with our professional bus and coach services tailored for schools.",
+            "h1_tags": [
+              "School Excursions"
+            ],
+            "seo_score": 80,
+            "word_count": 957,
+            "issues": [
+              {
+                "type": "warning",
+                "category": "meta_description",
+                "issue": "Meta description too short (< 120 characters)"
+              },
+              {
+                "type": "warning",
+                "category": "accessibility",
+                "issue": "7 images missing alt text"
+              }
+            ],
+            "technical_details": {
+              "canonical_url": "https://sydneycoachcharter.com.au/school-excursions/",
+              "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+              "language": "en-AU",
+              "structured_data_found": true
+            }
+          },
+          {
+            "url": "https://sydneycoachcharter.com.au/school-camps/",
+            "page_title": "School Camps | Sydney Coach Charter",
+            "meta_description": "Ensure hassle-free school camp transport with modern buses, experienced drivers, and comfortable seating.",
+            "h1_tags": [
+              "School Camps"
+            ],
+            "seo_score": 80,
+            "word_count": 1224,
+            "issues": [
+              {
+                "type": "warning",
+                "category": "meta_description",
+                "issue": "Meta description too short (< 120 characters)"
+              },
+              {
+                "type": "warning",
+                "category": "accessibility",
+                "issue": "7 images missing alt text"
+              }
+            ],
+            "technical_details": {
+              "canonical_url": "https://sydneycoachcharter.com.au/school-camps/",
+              "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+              "language": "en-AU",
+              "structured_data_found": true
+            }
+          },
+          {
+            "url": "https://sydneycoachcharter.com.au/corporate-bus-and-coach-charters/",
+            "page_title": "Corporate Coach Hire Sydney | Bus Hire Sydney | Coach Charter Bus Hire",
+            "meta_description": "Hire a Sydney Coach Charter Bus with Driver for Corporate Group Transfers. We have over 20-Years experience providing coach charter services and bus hire with driver in Sydney.",
+            "h1_tags": [
+              "Corporate Bus and Coach Charters"
+            ],
+            "seo_score": 70,
+            "word_count": 1287,
+            "issues": [
+              {
+                "type": "warning",
+                "category": "title",
+                "issue": "Title too long (> 60 characters)"
+              },
+              {
+                "type": "warning",
+                "category": "meta_description",
+                "issue": "Meta description too long (> 160 characters)"
+              },
+              {
+                "type": "warning",
+                "category": "accessibility",
+                "issue": "7 images missing alt text"
+              }
+            ],
+            "technical_details": {
+              "canonical_url": "https://sydneycoachcharter.com.au/corporate-bus-and-coach-charters/",
+              "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+              "language": "en-AU",
+              "structured_data_found": true
+            }
+          }
+        ],
+        "site_wide_issues": [
+          "Duplicate titles found across multiple pages",
+          "Duplicate meta descriptions found across multiple pages"
+        ],
+        "recommendations": [
+          {
+            "priority": "MEDIUM",
+            "category": "Meta Description",
+            "total_issues": 10,
+            "critical": 0,
+            "warnings": 10,
+            "recommendation": "Add 0 missing meta descriptions and optimize 10 lengths"
+          },
+          {
+            "priority": "MEDIUM",
+            "category": "Accessibility",
+            "total_issues": 11,
+            "critical": 0,
+            "warnings": 11,
+            "recommendation": "Add alt text to 11 images missing descriptions"
+          },
+          {
+            "priority": "MEDIUM",
+            "category": "Title",
+            "total_issues": 5,
+            "critical": 0,
+            "warnings": 5,
+            "recommendation": "Fix 0 missing titles and optimize 5 title lengths"
+          }
+        ],
+        "failed_pages": []
+      }
+    },
+    "performance_analysis": {
+      "status": "error",
+      "error": "GTmetrix API credentials not configured",
+      "suggestion": "Set GTMETRIX_API_KEY and GTMETRIX_USERNAME environment variables"
+    },
+    "competitive_analysis": {
+      "status": "error",
+      "error": "SerpAPI key not configured",
+      "suggestion": "Set SERPAPI_KEY environment variable"
+    }
+  },
+  "report_metadata": {
+    "generated_by": "Master Autonomous Orchestrator",
+    "version": "1.0",
+    "generated_at": "2025-09-05T14:33:25.643410",
+    "session_info": {
+      "session_start": "2025-09-05T14:32:11.409578",
+      "counters": {
+        "concurrent_crawls": 0,
+        "file_writes": 0,
+        "api_calls": 0,
+        "analysis_runs": 1
+      },
+      "api_usage": {
+        "gtmetrix": 2,
+        "serpapi": 2
+      },
+      "available_services": [],
+      "autonomous_operations": [
+        "web_crawling",
+        "file_operations",
+        "api_calls",
+        "analysis_tools"
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "analysisMetadata": {
+    "domain": "greenpowersolutions.com.au",
+    "analysisDate": "2025-09-05T14:55:45.340705",
+    "analysisType": "Australian Market Position Analysis",
+    "autonomous": true
+  },
+  "primaryWebsiteAnalysis": {
+    "url": "https://greenpowersolutions.com.au",
+    "title": "Green Energy Power, Lighting & Battery Solutions | GPS",
+    "industry": "technology",
+    "brandPositioning": "premium",
+    "serviceTypes": [],
+    "targetMarkets": [
+      "B2B"
+    ],
+    "locations": []
+  },
+  "competitiveAnalysis": {
+    "competitorsAnalyzed": 0,
+    "marketComparison": {
+      "primaryPositioning": "premium",
+      "competitorPositions": [],
+      "marketGaps": [
+        "premium",
+        "budget",
+        "professional",
+        "local"
+      ],
+      "positioningFrequency": {
+        "premium": 1
+      },
+      "competitorsAnalyzed": 0,
+      "recommendations": []
+    },
+    "competitorData": []
+  },
+  "strategicRecommendations": [],
+  "marketOpportunities": [
+    "premium",
+    "budget",
+    "professional",
+    "local"
+  ]
+}

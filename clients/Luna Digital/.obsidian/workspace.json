@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "0a2118ad14d8c570",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f032acd22428d39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19292256a6a7c2a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_homepage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_homepage"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87a5f414b2a90389",
+    "type": "split",
+    "children": [
+      {
+        "id": "83335eb01746ba7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd73e479d379dd01",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d8f645d88cea7f78",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "80374d96ee941f64",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 367.5
+  },
+  "right": {
+    "id": "1cb9816b5f430973",
+    "type": "split",
+    "children": [
+      {
+        "id": "d99e2cd61c3e8a7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc8ff03a2e405476",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "641040ae9db35552",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8b44a24536d1585d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fc325c5b88ec244b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "19292256a6a7c2a9",
+  "lastOpenFiles": [
+    "20_service_blog_article_writing.md",
+    "21_service_video_production.md",
+    "22_service_e_newsletters.md",
+    "10_service_organic_social_media_management.md",
+    "09_service_social_media_marketing.md",
+    "04_about_us_areas_we_serve.md",
+    "06_contact_us.md",
+    "07_service_website_design_development.md",
+    "02_about_us_our_story_mission_values.md",
+    "01_homepage.md",
+    "03_about_us_meet_our_director.md",
+    "19_service_content_marketing.md",
+    "17_service_search_advertising_google_ads.md",
+    "15_service_ai_generative_search.md",
+    "14_service_search_engines_advanced_seo.md",
+    "13_service_search_optimisation_seo.md",
+    "11_service_paid_social_advertising.md",
+    "notes.md",
+    "08_service_paid_social_advertising.md",
+    "07_service_organic_social_media_management.md",
+    "06_service_social_media_marketing.md",
+    "05_service_website_design_development.md",
+    "10_service_search_engines_advanced_seo.md",
+    "Untitled.canvas",
+    "Welcome.md"
+  ]
+}

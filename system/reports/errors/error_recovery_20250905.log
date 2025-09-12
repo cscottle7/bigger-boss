@@ -1,0 +1,28 @@
+2025-09-05 14:31:26,782 - system.core_tools.error_recovery_system - ERROR - Error in _execute_seo_analysis_with_recovery (attempt 1): File operations not allowed: File operations not allowed on path: clients\sydneycoachcharter_com_au\technical
+2025-09-05 14:31:27,791 - system.core_tools.error_recovery_system - ERROR - Error in _execute_seo_analysis_with_recovery (attempt 2): File operations not allowed: File operations not allowed on path: clients\sydneycoachcharter_com_au\technical
+2025-09-05 14:31:29,799 - system.core_tools.error_recovery_system - ERROR - Error in _execute_seo_analysis_with_recovery (attempt 3): File operations not allowed: File operations not allowed on path: clients\sydneycoachcharter_com_au\technical
+2025-09-05 14:31:33,807 - system.core_tools.error_recovery_system - ERROR - Error in _execute_seo_analysis_with_recovery (attempt 4): File operations not allowed: File operations not allowed on path: clients\sydneycoachcharter_com_au\technical
+2025-09-05 14:31:33,808 - system.core_tools.error_recovery_system - ERROR - Error in _execute_comprehensive_analysis (attempt 1): Function failed after recovery attempts: Failed after 4 attempts: File operations not allowed: File operations not allowed on path: clients\sydneycoachcharter_com_au\technical
+2025-09-05 14:31:34,820 - system.core_tools.error_recovery_system - ERROR - Error in _execute_seo_analysis_with_recovery (attempt 1): File operations not allowed: File operations not allowed on path: clients\sydneycoachcharter_com_au\technical
+2025-09-05 14:31:35,836 - system.core_tools.error_recovery_system - ERROR - Error in _execute_seo_analysis_with_recovery (attempt 2): File operations not allowed: File operations not allowed on path: clients\sydneycoachcharter_com_au\technical
+2025-09-05 14:31:37,850 - system.core_tools.error_recovery_system - ERROR - Error in _execute_seo_analysis_with_recovery (attempt 3): File operations not allowed: File operations not allowed on path: clients\sydneycoachcharter_com_au\technical
+2025-09-05 14:31:41,863 - system.core_tools.error_recovery_system - ERROR - Error in _execute_seo_analysis_with_recovery (attempt 4): File operations not allowed: File operations not allowed on path: clients\sydneycoachcharter_com_au\technical
+2025-09-05 14:31:41,864 - system.core_tools.error_recovery_system - ERROR - Error in _execute_comprehensive_analysis (attempt 2): Function failed after recovery attempts: Failed after 4 attempts: File operations not allowed: File operations not allowed on path: clients\sydneycoachcharter_com_au\technical
+2025-09-05 14:31:44,867 - system.core_tools.error_recovery_system - ERROR - Error in _execute_seo_analysis_with_recovery (attempt 1): File operations not allowed: File operations not allowed on path: clients\sydneycoachcharter_com_au\technical
+2025-09-05 14:31:45,881 - system.core_tools.error_recovery_system - ERROR - Error in _execute_seo_analysis_with_recovery (attempt 2): File operations not allowed: File operations not allowed on path: clients\sydneycoachcharter_com_au\technical
+2025-09-05 14:31:47,894 - system.core_tools.error_recovery_system - ERROR - Error in _execute_seo_analysis_with_recovery (attempt 3): File operations not allowed: File operations not allowed on path: clients\sydneycoachcharter_com_au\technical
+2025-09-05 14:31:51,909 - system.core_tools.error_recovery_system - ERROR - Error in _execute_seo_analysis_with_recovery (attempt 4): File operations not allowed: File operations not allowed on path: clients\sydneycoachcharter_com_au\technical
+2025-09-05 14:31:51,910 - system.core_tools.error_recovery_system - ERROR - Error in _execute_comprehensive_analysis (attempt 3): Function failed after recovery attempts: Failed after 4 attempts: File operations not allowed: File operations not allowed on path: clients\sydneycoachcharter_com_au\technical
+2025-09-05 14:31:51,910 - system.orchestration.master_autonomous_orchestrator - ERROR - Autonomous analysis failed: Function failed after recovery attempts: Failed after 3 attempts: Function failed after recovery attempts: Failed after 4 attempts: File operations not allowed: File operations not allowed on path: clients\sydneycoachcharter_com_au\technical
+2025-09-05 14:57:21,195 - system.core_tools.comprehensive_seo_crawler - ERROR - Failed to crawl mailto:rod@simplysolarsolutions.com.au: Page.goto: net::ERR_ABORTED at mailto:rod@simplysolarsolutions.com.au
+Call log:
+  - navigating to "mailto:rod@simplysolarsolutions.com.au", waiting until "networkidle"
+
+2025-09-05 14:57:37,914 - system.core_tools.comprehensive_seo_crawler - ERROR - Failed to crawl mailto:rod@simplysolarsolutions.com.au: Page.goto: net::ERR_ABORTED at mailto:rod@simplysolarsolutions.com.au
+Call log:
+  - navigating to "mailto:rod@simplysolarsolutions.com.au", waiting until "networkidle"
+
+2025-09-05 14:57:43,640 - system.core_tools.comprehensive_seo_crawler - ERROR - Failed to crawl mailto:rod@simplysolarsolutions.com.au: Page.goto: net::ERR_ABORTED at mailto:rod@simplysolarsolutions.com.au
+Call log:
+  - navigating to "mailto:rod@simplysolarsolutions.com.au", waiting until "networkidle"
+

@@ -1,0 +1,282 @@
+{
+  "domain": "greenpowersolutions.com.au",
+  "client_domain": "greenpowersolutions_com_au",
+  "analysis_timestamp": "2025-09-05T15:01:25.746114",
+  "results": {
+    "seo_analysis": {
+      "status": "success",
+      "report_file": "clients\\greenpowersolutions_com_au\\technical\\comprehensive_seo_analysis_20250905_150201.json",
+      "summary": {
+        "pages_analyzed": 11,
+        "average_seo_score": 92.3,
+        "critical_issues": 0,
+        "warnings": 1,
+        "pages_failed": 0
+      },
+      "detailed_results": {
+        "scan_metadata": {
+          "domain": "greenpowersolutions.com.au",
+          "base_url": "https://greenpowersolutions.com.au",
+          "client": "greenpowersolutions_com_au",
+          "scan_date": "2025-09-05T15:02:01.031547",
+          "pages_crawled": 11,
+          "pages_failed": 0,
+          "max_pages_setting": 50,
+          "crawler_version": "1.0"
+        },
+        "executive_summary": {
+          "total_pages": 11,
+          "average_seo_score": 92.3,
+          "critical_issues": 0,
+          "warnings": 1,
+          "info_items": 0
+        },
+        "page_by_page_analysis": [
+          {
+            "url": "https://greenpowersolutions.com.au",
+            "page_title": "Green Energy Power, Lighting & Battery Solutions | GPS",
+            "meta_description": "Sustainable power solutions! Green Power Solutions offers biodiesel generators, hybrid lighting & more for rent or sale. Get greener footprint, Contact Us.",
+            "h1_tags": [
+              "Green energy, \nbright future"
+            ],
+            "seo_score": 85,
+            "word_count": 193,
+            "issues": [],
+            "technical_details": {
+              "canonical_url": "https://greenpowersolutions.com.au/",
+              "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+              "language": "en-AU",
+              "structured_data_found": true
+            }
+          },
+          {
+            "url": "https://greenpowersolutions.com.au/",
+            "page_title": "Green Energy Power, Lighting & Battery Solutions | GPS",
+            "meta_description": "Sustainable power solutions! Green Power Solutions offers biodiesel generators, hybrid lighting & more for rent or sale. Get greener footprint, Contact Us.",
+            "h1_tags": [
+              "Green energy, \nbright future"
+            ],
+            "seo_score": 85,
+            "word_count": 193,
+            "issues": [],
+            "technical_details": {
+              "canonical_url": "https://greenpowersolutions.com.au/",
+              "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+              "language": "en-AU",
+              "structured_data_found": true
+            }
+          },
+          {
+            "url": "https://greenpowersolutions.com.au/about-green-power-solutions/",
+            "page_title": "Rental Company for Generators, Lighting & Batteries | GPS",
+            "meta_description": "Green Power Solutions provides sales & rental solutions for biodiesel generators, hybrid lighting solutions, & cutting-edge hybrid battery options.",
+            "h1_tags": [
+              "ABOUT US"
+            ],
+            "seo_score": 85,
+            "word_count": 254,
+            "issues": [],
+            "technical_details": {
+              "canonical_url": "https://greenpowersolutions.com.au/about-green-power-solutions/",
+              "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+              "language": "en-AU",
+              "structured_data_found": true
+            }
+          },
+          {
+            "url": "https://greenpowersolutions.com.au/generators-for-sale-or-hire/",
+            "page_title": "In Demand Green Power Generators for Sale & Hire | GPS",
+            "meta_description": "Searching for eco friendly generators for sale & hire? GPS is the trusted company for cutting-edge generators for any industry. Contact us.",
+            "h1_tags": [
+              "Generators For Hire"
+            ],
+            "seo_score": 100,
+            "word_count": 560,
+            "issues": [],
+            "technical_details": {
+              "canonical_url": "https://greenpowersolutions.com.au/generators-for-sale-or-hire/",
+              "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+              "language": "en-AU",
+              "structured_data_found": true
+            }
+          },
+          {
+            "url": "https://greenpowersolutions.com.au/battery-energy-storage-system/",
+            "page_title": "Hybrid Battery Energy Storage System for Sale & Rent | GPS",
+            "meta_description": "Our hybrid generator battery utilises solar power, diesel or biodiesel with an efficient energy storage system to deliver environmentally friendly power.",
+            "h1_tags": [
+              "Battery Energy Storage System"
+            ],
+            "seo_score": 100,
+            "word_count": 1153,
+            "issues": [],
+            "technical_details": {
+              "canonical_url": "https://greenpowersolutions.com.au/battery-energy-storage-system/",
+              "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+              "language": "en-AU",
+              "structured_data_found": true
+            }
+          },
+          {
+            "url": "https://greenpowersolutions.com.au/hybrid-lighting-solutions/",
+            "page_title": "Surface Mount & Mobile Hybrid Lighting Towers for Hire | GPS",
+            "meta_description": "Green Power Solutions offers energy efficient and reliable mobile lighting towers and surface mount lighting towers for sale and hire. Contact us!",
+            "h1_tags": [
+              "Lighting Solutions"
+            ],
+            "seo_score": 100,
+            "word_count": 402,
+            "issues": [],
+            "technical_details": {
+              "canonical_url": "https://greenpowersolutions.com.au/hybrid-lighting-solutions/",
+              "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+              "language": "en-AU",
+              "structured_data_found": true
+            }
+          },
+          {
+            "url": "https://greenpowersolutions.com.au/fuel-storage-tanks/",
+            "page_title": "Safe & Durable Fuel Storage Tanks | Green Power Solutions",
+            "meta_description": "At Green Power Solutions, we have trained technicians with extensive experience & knowledge ensuring we find the right fuel storage tanks for your needs.",
+            "h1_tags": [
+              "Fuel Storage Tanks"
+            ],
+            "seo_score": 100,
+            "word_count": 321,
+            "issues": [],
+            "technical_details": {
+              "canonical_url": "https://greenpowersolutions.com.au/fuel-storage-tanks/",
+              "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+              "language": "en-AU",
+              "structured_data_found": true
+            }
+          },
+          {
+            "url": "https://greenpowersolutions.com.au/resistive-load-banks/",
+            "page_title": "Power Proving Resistive Load Banks | Green Power Solutions",
+            "meta_description": "Our team offers an extensive range of power proving resistive load banks to suit all applications even for harsh and demanding environments. Contact us!",
+            "h1_tags": [
+              "Resistive Load Banks"
+            ],
+            "seo_score": 85,
+            "word_count": 143,
+            "issues": [],
+            "technical_details": {
+              "canonical_url": "https://greenpowersolutions.com.au/resistive-load-banks/",
+              "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+              "language": "en-AU",
+              "structured_data_found": true
+            }
+          },
+          {
+            "url": "https://greenpowersolutions.com.au/instagrid-portable-power-systems/",
+            "page_title": "Instagrid Portable Power Systems | Green Power Solutions",
+            "meta_description": "Discover Instagrid portable power systems for reliable, eco-friendly energy on the go. Perfect for worksites, events, and off-grid power needs.",
+            "h1_tags": [
+              "Instagrid Portable Power Systems"
+            ],
+            "seo_score": 90,
+            "word_count": 402,
+            "issues": [
+              {
+                "type": "warning",
+                "category": "accessibility",
+                "issue": "4 images missing alt text"
+              }
+            ],
+            "technical_details": {
+              "canonical_url": "https://greenpowersolutions.com.au/instagrid-portable-power-systems/",
+              "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+              "language": "en-AU",
+              "structured_data_found": true
+            }
+          },
+          {
+            "url": "https://greenpowersolutions.com.au/accessories/",
+            "page_title": "Premium Accessories for Sustainable Power Solutions | GPS",
+            "meta_description": "We have a wide range of power solutions & generator accessories perfect for the construction industry, businesses, and infrastructure projects. Contact us!",
+            "h1_tags": [
+              "Accessories"
+            ],
+            "seo_score": 100,
+            "word_count": 608,
+            "issues": [],
+            "technical_details": {
+              "canonical_url": "https://greenpowersolutions.com.au/accessories/",
+              "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+              "language": "en-AU",
+              "structured_data_found": true
+            }
+          },
+          {
+            "url": "https://greenpowersolutions.com.au/biodiesel-solutions/",
+            "page_title": "Biodiesel Fuel & Storage Solutions For Sale & Hire | GPS",
+            "meta_description": "Choosing our biofuel or biodiesel generator means choosing to work towards a sustainable future and Net Zero carbon emissions. Contact us today!",
+            "h1_tags": [
+              "Biodiesel Solutions"
+            ],
+            "seo_score": 85,
+            "word_count": 290,
+            "issues": [],
+            "technical_details": {
+              "canonical_url": "https://greenpowersolutions.com.au/biodiesel-solutions/",
+              "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+              "language": "en-AU",
+              "structured_data_found": true
+            }
+          }
+        ],
+        "site_wide_issues": [
+          "Duplicate titles found across multiple pages",
+          "Duplicate meta descriptions found across multiple pages"
+        ],
+        "recommendations": [
+          {
+            "priority": "MEDIUM",
+            "category": "Accessibility",
+            "total_issues": 1,
+            "critical": 0,
+            "warnings": 1,
+            "recommendation": "Add alt text to 1 images missing descriptions"
+          }
+        ],
+        "failed_pages": []
+      }
+    },
+    "performance_analysis": {
+      "status": "error",
+      "error": "GTmetrix API credentials not configured",
+      "suggestion": "Set GTMETRIX_API_KEY and GTMETRIX_USERNAME environment variables"
+    },
+    "competitive_analysis": {
+      "status": "error",
+      "error": "SerpAPI key not configured",
+      "suggestion": "Set SERPAPI_KEY environment variable"
+    }
+  },
+  "report_metadata": {
+    "generated_by": "Master Autonomous Orchestrator",
+    "version": "1.0",
+    "generated_at": "2025-09-05T15:02:01.036229",
+    "session_info": {
+      "session_start": "2025-09-05T15:00:47.621004",
+      "counters": {
+        "concurrent_crawls": 0,
+        "file_writes": 0,
+        "api_calls": 0,
+        "analysis_runs": 1
+      },
+      "api_usage": {
+        "gtmetrix": 1,
+        "serpapi": 1
+      },
+      "available_services": [],
+      "autonomous_operations": [
+        "web_crawling",
+        "file_operations",
+        "api_calls",
+        "analysis_tools"
+      ]
+    }
+  }
+}

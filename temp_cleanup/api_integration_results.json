@@ -1,0 +1,138 @@
+{
+  "timestamp": "2025-09-02T14:12:30.781098",
+  "website_tested": "https://sydneycoachcharter.com.au",
+  "api_integrations": {
+    "gtmetrix": {
+      "api_available": false,
+      "requires_credentials": true,
+      "capabilities": [
+        "Page Speed Analysis",
+        "Core Web Vitals",
+        "Performance Waterfall",
+        "Detailed Timing Metrics",
+        "Mobile/Desktop Testing",
+        "Historical Performance Tracking"
+      ],
+      "sample_endpoint": "https://gtmetrix.com/api/2.0/test",
+      "authentication": "API Key + Email",
+      "note": "API credentials required for actual testing",
+      "credentials_found": false
+    },
+    "serpapi": {
+      "api_available": false,
+      "requires_credentials": true,
+      "capabilities": [
+        "Google Search Results",
+        "Keyword Rankings",
+        "SERP Features Analysis",
+        "Local Search Results",
+        "Google My Business Data",
+        "Competitor Analysis"
+      ],
+      "sample_endpoint": "https://serpapi.com/search",
+      "authentication": "API Key",
+      "note": "API credentials required for actual searches",
+      "credentials_found": false
+    },
+    "google_pagespeed": {
+      "api_available": true,
+      "requires_credentials": false,
+      "free_quota": true,
+      "capabilities": [
+        "Core Web Vitals",
+        "Performance Score",
+        "Accessibility Score",
+        "Best Practices Score",
+        "SEO Score",
+        "Field Data (Real User Metrics)",
+        "Lab Data (Simulated)",
+        "Opportunities and Diagnostics"
+      ],
+      "working": false,
+      "error": "HTTP 404"
+    },
+    "lighthouse_ci": {
+      "tool_available": true,
+      "installation": "npm install -g @lhci/cli",
+      "capabilities": [
+        "Automated Performance Testing",
+        "CI/CD Integration",
+        "Historical Performance Tracking",
+        "Budget Assertions",
+        "Multi-page Testing",
+        "Custom Configurations"
+      ],
+      "sample_command": "lhci autorun --upload.target=temporary-public-storage --collect.url=https://sydneycoachcharter.com.au",
+      "note": "Requires Node.js and npm installation",
+      "npx_available": false
+    },
+    "semrush": {
+      "api_available": false,
+      "requires_subscription": true,
+      "capabilities": [
+        "Keyword Research",
+        "Domain Analytics",
+        "Backlink Analysis",
+        "Competitor Research",
+        "Ranking Tracking",
+        "Site Audit Data"
+      ],
+      "sample_endpoint": "https://api.semrush.com/",
+      "authentication": "API Key (paid subscription)",
+      "note": "Requires paid SEMrush subscription",
+      "credentials_found": false
+    },
+    "ahrefs": {
+      "api_available": false,
+      "requires_subscription": true,
+      "capabilities": [
+        "Backlink Data",
+        "Keyword Research",
+        "Content Gap Analysis",
+        "Rank Tracking",
+        "Site Explorer Data",
+        "Domain Rating"
+      ],
+      "sample_endpoint": "https://apiv2.ahrefs.com/",
+      "authentication": "API Token (paid subscription)",
+      "note": "Requires paid Ahrefs subscription",
+      "credentials_found": false
+    },
+    "chrome_ux_report": {
+      "api_available": true,
+      "requires_credentials": true,
+      "free_quota": true,
+      "capabilities": [
+        "Real User Metrics (RUM)",
+        "Core Web Vitals Field Data",
+        "Historic Performance Data",
+        "Device/Connection Breakdown",
+        "Origin vs URL Level Data"
+      ],
+      "credentials_found": false
+    }
+  },
+  "summary": {
+    "free_apis_available": [
+      "Google PageSpeed Insights",
+      "Chrome UX Report (with API key)",
+      "Lighthouse CI"
+    ],
+    "paid_apis_available": [
+      "GTmetrix (API plan)",
+      "SerpAPI",
+      "SEMrush API",
+      "Ahrefs API"
+    ],
+    "immediate_opportunities": [
+      "Google PageSpeed Insights for Core Web Vitals",
+      "Lighthouse CI for automated testing",
+      "SerpAPI for keyword ranking tracking (if credentials available)"
+    ],
+    "recommended_integrations": [
+      "Google PageSpeed Insights - Free, comprehensive performance data",
+      "SerpAPI - Keyword ranking and SERP analysis",
+      "GTmetrix - Detailed performance monitoring"
+    ]
+  }
+}

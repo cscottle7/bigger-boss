@@ -1,0 +1,75 @@
+# Social Media Marketing for Professional Services
+
+## Service Overview
+
+Luna Digital provides compliant social media marketing strategies for medical practices and legal firms that build professional authority whilst adhering to strict industry regulations. Our approach focuses on educational content and community engagement that enhances your practice's reputation without compromising professional standards.
+
+We understand the unique challenges professional services face on social media platforms. Our strategies balance professional credibility with authentic patient and client engagement, creating social media presence that supports practice growth whilst maintaining regulatory compliance.
+
+Our social media marketing drives brand awareness, positions your practice as a trusted authority, and generates qualified inquiries through strategic content creation and community building that respects professional boundaries and regulatory requirements.
+
+## How It Works: Medical Practices vs Legal Firms
+
+### Medical Practice Social Media
+Medical practice social media requires careful navigation of AHPRA guidelines whilst creating engaging content that educates patients and builds practice reputation. We develop content strategies that focus on health education, practice updates, and community engagement without making therapeutic claims.
+
+Our medical social media approach includes wellness tips, practice team introductions, patient education content, and health awareness campaigns that position your practice as a trusted healthcare resource. We ensure all content complies with therapeutic goods advertising restrictions.
+
+We create social media calendars featuring seasonal health topics, practice announcements, and educational content that demonstrates your expertise whilst maintaining appropriate professional boundaries with patients and the broader community.
+
+### Legal Firm Social Media
+Legal firm social media strategies focus on demonstrating legal expertise through educational content whilst adhering to Legal Professional Conduct Rules. We create content that showcases your firm's knowledge without providing specific legal advice or soliciting clients inappropriately.
+
+Our legal social media content includes legal education posts, industry commentary, firm achievements, and community involvement that builds professional reputation. We ensure content complies with advertising restrictions whilst positioning your firm as a thought leader.
+
+Legal social media strategies we develop feature case law commentary, legal process explanations, regulatory updates, and practice area insights that demonstrate expertise whilst maintaining professional standards and client confidentiality requirements.
+
+## Compliance Considerations
+
+### AHPRA Compliance for Medical Social Media
+All medical practice social media content we create strictly adheres to AHPRA advertising guidelines, ensuring posts don't contain prohibited health claims, before/after images, or therapeutic outcome promises. We review content for compliance with therapeutic goods advertising codes.
+
+Our medical social media compliance includes appropriate disclaimers, cautionary statements about individual health circumstances, and careful language selection that educates without providing specific medical advice or making treatment outcome claims.
+
+### Legal Professional Conduct Rules
+Legal firm social media must comply with professional conduct rules regarding client confidentiality, appropriate advertising, and professional standards. We ensure content meets barristers' and solicitors' conduct requirements whilst building professional authority.
+
+Our legal compliance framework covers appropriate legal commentary, client privacy protection, and advertising restriction adherence, ensuring social media presence enhances professional reputation whilst maintaining ethical standards.
+
+## Process Methodology and Timeline
+
+### Strategy Development Phase (Week 1-2)
+Our social media process begins with comprehensive practice analysis, identifying target audiences, current social media challenges, and growth objectives within compliance parameters. We audit existing social presence and develop platform-specific strategies.
+
+We conduct competitor analysis within your profession and geographic area, identify optimal posting frequencies, and develop content pillars that align with your practice's expertise areas whilst maintaining regulatory compliance.
+
+### Content Creation & Implementation Phase (Week 3-4)
+Using strategic insights, we create content calendars featuring educational posts, practice updates, and community engagement content that builds authority whilst adhering to professional standards. Our content creation includes graphics, captions, and posting schedules.
+
+We develop social media templates that maintain consistency, create engagement strategies that encourage appropriate community interaction, and establish monitoring protocols for compliance and reputation management.
+
+### Ongoing Management & Optimisation (Month 2+)
+Post-launch, we provide ongoing content creation, community management, and performance analysis. Our management includes regular compliance reviews, engagement monitoring, and strategy refinement based on audience response and platform algorithm changes.
+
+We provide monthly reporting on reach, engagement, and inquiry generation, adjusting strategies based on performance data whilst maintaining strict adherence to professional compliance requirements.
+
+## Results and Benefits
+
+### Enhanced Professional Authority
+Our professional services social media strategies typically increase practice visibility by 50-70% within three months, positioning your practice as a trusted authority within your specialty and geographic area through consistent, valuable content.
+
+Professional social media presence we manage improves brand recognition, builds patient and client trust, and establishes your practice as a go-to resource for information within your expertise areas.
+
+### Increased Community Engagement
+Compliant social media strategies drive meaningful community engagement, with medical practices seeing increased patient education interaction and legal firms experiencing improved professional network engagement and referral opportunities.
+
+### Quality Inquiry Generation
+Strategic social media marketing generates qualified inquiries from potential patients and clients who engage with your educational content, resulting in higher-quality leads compared to general advertising approaches.
+
+## Getting Started
+
+Ready to build your practice's professional authority through compliant social media marketing that drives engagement and inquiries? Our social media marketing service begins with comprehensive strategy development tailored to your profession's regulatory requirements.
+
+Contact Luna Digital to discuss your social media marketing objectives. We'll provide a detailed strategy proposal outlining content approach, compliance protocols, platform recommendations, and management options suited to your practice's goals.
+
+Start building your professional social media presence that educates, engages, and grows your practice whilst maintaining the highest standards of regulatory compliance.

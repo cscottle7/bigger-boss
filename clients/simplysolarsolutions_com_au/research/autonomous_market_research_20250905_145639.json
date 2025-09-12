@@ -1,0 +1,343 @@
+{
+  "analysisMetadata": {
+    "domain": "simplysolarsolutions.com.au",
+    "analysisDate": "2025-09-05T14:56:39.043528",
+    "analysisType": "Australian Market Position Analysis",
+    "autonomous": true
+  },
+  "primaryWebsiteAnalysis": {
+    "url": "https://simplysolarsolutions.com.au",
+    "title": "Home Solar Power | Simply Solar Solutions",
+    "industry": "solar",
+    "brandPositioning": "budget",
+    "serviceTypes": [
+      "installation_services"
+    ],
+    "targetMarkets": [
+      "B2C"
+    ],
+    "locations": [
+      "SYDNEY",
+      "NSW"
+    ]
+  },
+  "competitiveAnalysis": {
+    "competitorsAnalyzed": 2,
+    "marketComparison": {
+      "primaryPositioning": "budget",
+      "competitorPositions": [
+        {
+          "url": "solarchoice.net.au",
+          "industry": "technology",
+          "positioning": "local",
+          "services": [
+            "installation_services"
+          ]
+        },
+        {
+          "url": "simplysolarsolutions.com.au",
+          "industry": "solar",
+          "positioning": "budget",
+          "services": [
+            "installation_services"
+          ]
+        }
+      ],
+      "marketGaps": [
+        "premium",
+        "professional",
+        "local"
+      ],
+      "positioningFrequency": {
+        "local": 1,
+        "budget": 2
+      },
+      "competitorsAnalyzed": 2,
+      "recommendations": [
+        "Market opportunity in local positioning"
+      ]
+    },
+    "competitorData": [
+      {
+        "url": "solarchoice.net.au",
+        "data": {
+          "url": "https://www.solarchoice.net.au/",
+          "title": "Australia's Only Instant Online Solar Comparison | Solar Choice",
+          "description": "Are you looking for the best solar energy provider? Click here to instantly compare personalised solar panel & battery quotes online to save today.",
+          "headings": {
+            "h1": [
+              "Australia's Only Instant Quote Comparison Service"
+            ],
+            "h2": [],
+            "h3": [
+              "Solar Choice has helped 461,914 Australian households compare quotes online.",
+              "How it works",
+              "Over 10,000 companies trust Solar Choice",
+              "Why Compare Quotes with Solar Choice?",
+              "FAQS"
+            ]
+          },
+          "mainContent": "Australia's Only Instant Quote Comparison Service Free and Impartial since 2008 Solar, Batteries, EV and Heat Pumps COMPARE NOW Solar Choice has helped 461,914 Australian households compare quotes online. Compare personalised solar and battery quotes Locate your roof and create your profile Explore your roof's potential How it works RESIDENTIAL COMMERCIAL Tell us about your home We are here to help you make an informed decision. Simply tell us a little bit about your location and what you are looking for. Compare competitive quotes online Immediately browse solar PV system sizes, and compare detailed offerings from Solar Choice accredited installers covering your local area. Take control over which three installers you’d like to hear from. Select an installer Receive customised offers from installers based on your home including a Solar Choice discount. We remain an impartial source of information through your journey in selecting the right option. COMPARE NOW Over 10,000 companies trust Solar Choice Why Compare Quotes with Solar Choice? Since 2008 our knowledge and sophisticated software has allowed over 400,000 Australian households and businesses to make a well-informed choice of their installation company. Since 2008 we have been trusted by over 10,000 businesses and we are the originating developer of 2,750MW of solar farms of which 750MW is now in operation Over 1 million people use Solar Choice every year to research and compare their local pre-vetted solar installers Solar Choice has pre-vetted a network of over 400 installers Australia-wide Publisher of the Solar, Battery, EV and Heat Pump Price Index used by the Australian Government, Bloomberg NEF and CHOICE Learn more about us Solar Choice are an exceptional service provider. Our body corporate engaged Solar Choice to prepare an electric vehicle charging feasibility study for our apartment complex. The report was of an... read more ASHLEE UREN 7 JULY, 2025 We were greatly advised and assisted by Jeff Syk",
+          "navigation": [
+            {
+              "text": "Solar Choice",
+              "href": "https://www.solarchoice.net.au/"
+            },
+            {
+              "text": "Learn",
+              "href": ""
+            },
+            {
+              "text": "Solar 101",
+              "href": "https://www.solarchoice.net.au/learn/"
+            },
+            {
+              "text": "How does solar energy work?",
+              "href": "https://www.solarchoice.net.au/learn/solar-energy/"
+            },
+            {
+              "text": "Solar design tips",
+              "href": "https://www.solarchoice.net.au/learn/design-guide/"
+            },
+            {
+              "text": "Optimal size solar systems",
+              "href": "https://www.solarchoice.net.au/learn/design-guide/what-size-solar-system-do-i-need/"
+            },
+            {
+              "text": "Questions to ask installers",
+              "href": "https://www.solarchoice.net.au/learn/design-guide/5-questions-you-should-ask-you-solar-installer/"
+            },
+            {
+              "text": "Solar System Size Limits",
+              "href": "https://www.solarchoice.net.au/learn/design-guide/solar-system-size-limits-by-network/"
+            },
+            {
+              "text": "Solar on flat roofs",
+              "href": "https://www.solarchoice.net.au/learn/design-guide/flat-solar-panels-vs-tilted/"
+            },
+            {
+              "text": "Expanding solar systems",
+              "href": "https://www.solarchoice.net.au/learn/design-guide/adding-more-solar-panels/"
+            },
+            {
+              "text": "1-phase vs 3-phase",
+              "href": "https://www.solarchoice.net.au/learn/design-guide/solar-power-single-phase-vs-3-phase/"
+            },
+            {
+              "text": "Facing panels East vs West",
+              "href": "https://www.solarchoice.net.au/learn/design-guide/east-or-west-orientation-for-solar-panels/"
+            },
+            {
+              "text": "Self-consumption explained",
+              "href": "https://www.solarchoice.net.au/learn/design-guide/solar-self-consumption/"
+            },
+            {
+              "text": "Why Partial Shading Is Bad",
+              "href": "https://www.solarchoice.net.au/learn/design-guide/does-shade-effect-solar-panels/"
+            },
+            {
+              "text": "Ground Mount Solar Panels",
+              "href": "https://www.solarchoice.net.au/learn/design-guide/ground-mounted-solar-systems/"
+            },
+            {
+              "text": "How to Choose a Good Solar Installer",
+              "href": "https://www.solarchoice.net.au/learn/how-to-choose-a-good-solar-installer/"
+            },
+            {
+              "text": "Compare Electricity Plans",
+              "href": "https://www.solarchoice.net.au/energy/electricity-comparison/"
+            },
+            {
+              "text": "Comparing Plans Guide (2025)",
+              "href": "https://www.solarchoice.net.au/energy/electricity-comparison/"
+            },
+            {
+              "text": "Australia's Cheapest Plans",
+              "href": "https://www.solarchoice.net.au/energy/electricity-comparison/cheapest-electricity-providers/"
+            },
+            {
+              "text": "Compare Plans in NSW",
+              "href": "https://www.solarchoice.net.au/energy/electricity-comparison/nsw/"
+            }
+          ],
+          "serviceKeywords": [
+            "service",
+            "offerings",
+            "product"
+          ],
+          "contactInfo": {
+            "emails": [],
+            "phones": []
+          },
+          "locations": [
+            "AUSTRALIA",
+            "ADELAIDE"
+          ],
+          "wordCount": 1077,
+          "extractedAt": "2025-09-05T05:26:28.808Z",
+          "brandAnalysis": {
+            "detectedIndustry": "technology",
+            "industryConfidence": 3,
+            "serviceTypes": [
+              "installation_services"
+            ],
+            "primaryPositioning": "local",
+            "positioningScores": {
+              "premium": 0,
+              "budget": 1,
+              "professional": 0,
+              "local": 2
+            },
+            "targetMarkets": [
+              "B2B",
+              "B2C"
+            ],
+            "analysisTimestamp": "2025-09-05T14:56:28.840626"
+          }
+        }
+      },
+      {
+        "url": "simplysolarsolutions.com.au",
+        "data": {
+          "url": "https://simplysolarsolutions.com.au/",
+          "title": "Home Solar Power | Simply Solar Solutions",
+          "description": "Click for your local, solar power and electrical specialists. We have been servicing North Western Sydney for more than 35 years.",
+          "headings": {
+            "h1": [
+              "Local Solar Power Experts"
+            ],
+            "h2": [
+              "Local Solar Power Solutions",
+              "How to choose the right Solar Power for your home?",
+              "Solar Power installations installed by Simply Solar Solutions",
+              "Hear what our customers say",
+              "Solar power starts here"
+            ],
+            "h3": [
+              "Simple and affordable Home Solar Power Solutions.",
+              "9.1kW Solar System Install",
+              "19.8kW Solar Install Kellyville, NSW",
+              "13.2kw Solar System Install Normanhurst, NSW",
+              "10kw Solar System Install Glenwood, NSW",
+              "30kW Solar System Install Randwick, NSW",
+              "10.5kW Solar System Bradbury, NSW",
+              "13kW Solar Install Vineyard, NSW",
+              "10kW Solar Install North Kellyville, NSW"
+            ]
+          },
+          "mainContent": "Local Solar Power Experts Simple and affordable Home Solar Power Solutions. Request a quote Local Solar Power Solutions Rodney and the team at Simply Solar Solutions have been serving the communities of North Western Sydney for more than 35 years. They have the experience and the know-how to help you get the most out of your solar power installation. They will discuss and select the most appropriate solar panel and inverter pairing to suit your energy needs and budget. Investing in solar power storage is becoming more popular, so why not see what the team at Simply Solar Solutions can offer you? Complete solar solutions for your home Energy storage solutions for your home Upgrading of existing solar systems Servicing and maintaining of solar systems Panel cleaning and bird proofing Total non-fuss process made simple for you Finance options available Complete education and explanation of how it all works Request a quote How to choose the right Solar Power for your home? It all starts with a conversation. Rod and the team will discuss your Solar Power needs in detail. They will look at the way you use electricity and provide you with detailed information on the most effective way to achieve your Solar Power goals. At Simply Solar Solutions, we take time to learn about your needs and help you choose: The most appropriate sized system for your needs The suitable solar panel type The suitable inverter type The quantity of panels set out on your roof Request a quote Solar Power installations installed by Simply Solar Solutions Gorokan NSW 9.1kW Solar System Install 13.2k Solar System Install 20 x 455-watt Aiko panels 1x 8.25kw SolarEdge Inverter Gorokan, NSW We recently completed a great little installation for Jason in Read more Kellyville NSW 19.8kW Solar Install Kellyville, NSW 13.2k Solar System Install 45x AIKO 440w 1x 10kw and 1x 5kW Kellyville, NSW Out with the old and in with the new…. Well not Read more Normanhurst NSW 13.2kw Solar System Install Normanhurst, NSW",
+          "navigation": [
+            {
+              "text": "Home",
+              "href": "https://simplysolarsolutions.com.au/"
+            },
+            {
+              "text": "Solar Installs",
+              "href": "https://simplysolarsolutions.com.au/solar-system-installs/"
+            },
+            {
+              "text": "About",
+              "href": "https://simplysolarsolutions.com.au/about/"
+            },
+            {
+              "text": "Contact Us",
+              "href": "https://simplysolarsolutions.com.au/contact-us/"
+            },
+            {
+              "text": "Home",
+              "href": "https://simplysolarsolutions.com.au/"
+            },
+            {
+              "text": "Solar Installs",
+              "href": "https://simplysolarsolutions.com.au/solar-system-installs/"
+            },
+            {
+              "text": "About",
+              "href": "https://simplysolarsolutions.com.au/about/"
+            },
+            {
+              "text": "Contact Us",
+              "href": "https://simplysolarsolutions.com.au/contact-us/"
+            },
+            {
+              "text": "Home",
+              "href": "https://simplysolarsolutions.com.au/"
+            },
+            {
+              "text": "Solar Installs",
+              "href": "https://simplysolarsolutions.com.au/solar-system-installs/"
+            },
+            {
+              "text": "About",
+              "href": "https://simplysolarsolutions.com.au/about/"
+            },
+            {
+              "text": "Contact Us",
+              "href": "https://simplysolarsolutions.com.au/contact-us/"
+            },
+            {
+              "text": "Home",
+              "href": "https://simplysolarsolutions.com.au/"
+            },
+            {
+              "text": "Solar Installs",
+              "href": "https://simplysolarsolutions.com.au/solar-system-installs/"
+            },
+            {
+              "text": "About",
+              "href": "https://simplysolarsolutions.com.au/about/"
+            },
+            {
+              "text": "Contact Us",
+              "href": "https://simplysolarsolutions.com.au/contact-us/"
+            }
+          ],
+          "serviceKeywords": [
+            "solutions",
+            "service",
+            "solution",
+            "consultation",
+            "expertise",
+            "products"
+          ],
+          "contactInfo": {
+            "emails": [],
+            "phones": []
+          },
+          "locations": [
+            "SYDNEY",
+            "NSW"
+          ],
+          "wordCount": 1374,
+          "extractedAt": "2025-09-05T05:26:35.995Z",
+          "brandAnalysis": {
+            "detectedIndustry": "solar",
+            "industryConfidence": 2,
+            "serviceTypes": [
+              "installation_services"
+            ],
+            "primaryPositioning": "budget",
+            "positioningScores": {
+              "premium": 0,
+              "budget": 2,
+              "professional": 1,
+              "local": 1
+            },
+            "targetMarkets": [
+              "B2C"
+            ],
+            "analysisTimestamp": "2025-09-05T14:56:36.029264"
+          }
+        }
+      }
+    ]
+  },
+  "strategicRecommendations": [
+    "Market opportunity in local positioning"
+  ],
+  "marketOpportunities": [
+    "premium",
+    "professional",
+    "local"
+  ]
+}

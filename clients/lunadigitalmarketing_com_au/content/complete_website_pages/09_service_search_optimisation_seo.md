@@ -1,0 +1,75 @@
+# Search Optimisation (SEO) for Professional Services
+
+## Service Overview
+
+Luna Digital delivers specialised SEO strategies for medical practices and legal firms that improve search rankings whilst maintaining strict compliance with professional advertising standards. Our approach focuses on building organic visibility for services and expertise areas that matter most to your practice growth.
+
+Unlike generic SEO agencies, we understand the complex regulatory environment professional services operate within. Our SEO strategies are designed to enhance your practice's online authority whilst adhering to AHPRA guidelines for medical practices and Legal Professional Conduct Rules for law firms.
+
+Our professional services SEO delivers sustainable organic growth, positions your practice as the local authority for your specialties, and drives qualified patient and client inquiries through strategic keyword targeting and content optimisation.
+
+## How It Works: Medical Practices vs Legal Firms
+
+### Medical Practice SEO
+Medical practice SEO requires careful keyword targeting that attracts patients seeking your services whilst complying with therapeutic goods advertising restrictions. We optimise for condition-related searches, treatment options, and practitioner expertise without making prohibited health claims.
+
+Our medical SEO approach includes local search optimisation for geographic patient acquisition, medical directory optimisation, and content strategies that demonstrate clinical expertise whilst maintaining AHPRA compliance standards.
+
+We focus on building authority for your specialty areas through educational content optimisation, patient journey mapping from symptom research to appointment booking, and technical SEO that improves website performance for health-related searches.
+
+### Legal Firm SEO
+Legal firm SEO strategies target potential clients searching for legal services and advice within your practice areas. We optimise for legal issue searches, court process inquiries, and specific legal services whilst adhering to professional conduct requirements.
+
+Our legal SEO includes local market dominance strategies, legal directory optimisation, and content approaches that demonstrate legal expertise without providing specific legal advice or inappropriately soliciting clients.
+
+Legal SEO strategies we implement focus on practice area authority building, competitor analysis within legal markets, and reputation management that positions your firm as the trusted choice for legal services.
+
+## Compliance Considerations
+
+### AHPRA Compliance in Medical SEO
+All medical practice SEO strategies strictly adhere to AHPRA advertising guidelines, ensuring optimised content doesn't contain prohibited health claims, therapeutic outcome promises, or before/after imagery that breaches advertising standards.
+
+Our medical SEO compliance includes careful keyword selection that targets patient intent without making therapeutic claims, appropriate disclaimers in optimised content, and link building strategies that maintain professional credibility.
+
+### Legal Professional Conduct Rules in SEO
+Legal firm SEO must comply with professional conduct rules regarding client confidentiality, appropriate advertising, and professional standards. We ensure optimised content meets advertising restrictions whilst building search authority.
+
+Our legal SEO compliance framework covers appropriate legal content optimisation, client privacy protection in case study development, and ethical link building that enhances professional reputation without breaching conduct requirements.
+
+## Process Methodology and Timeline
+
+### SEO Audit & Strategy Phase (Week 1-3)
+Our SEO process begins with comprehensive website auditing, competitor analysis within your professional market, and keyword research focused on services and conditions relevant to your practice specialty areas.
+
+We conduct technical SEO audits identifying optimisation opportunities, analyse current search performance, and develop keyword strategies that balance search volume with compliance requirements and competitive landscapes.
+
+### Implementation & Optimisation Phase (Week 4-8)
+Using audit insights, we implement on-page optimisation, improve website technical performance, and begin content optimisation strategies that build topical authority whilst maintaining professional standards.
+
+We optimise Google My Business profiles, implement local SEO strategies for geographic patient/client acquisition, and develop content calendars that support long-term SEO objectives through compliant educational content.
+
+### Ongoing Monitoring & Refinement (Month 3+)
+Post-implementation, we provide continuous monitoring of search rankings, traffic patterns, and inquiry generation. Our ongoing SEO includes algorithm update adaptation, competitor response strategies, and content expansion based on search performance data.
+
+We deliver monthly SEO reporting covering ranking improvements, organic traffic growth, and conversion tracking, adjusting strategies based on search landscape changes and practice growth objectives.
+
+## Results and Benefits
+
+### Improved Search Visibility
+Our professional services SEO typically delivers 60-80% increases in organic search visibility within six months, with practices achieving first-page rankings for target keywords related to their specialty services and geographic areas.
+
+SEO strategies we implement improve search authority across multiple relevant keywords, reducing dependence on paid advertising whilst building sustainable online visibility for practice growth.
+
+### Qualified Patient & Client Acquisition
+Professional services SEO drives highly qualified traffic from potential patients and clients actively searching for services you provide, resulting in higher conversion rates compared to general marketing approaches.
+
+### Long-term Digital Authority
+SEO builds lasting digital authority for your practice, creating compounding returns on investment as search rankings improve and content authority builds within your professional specialty areas.
+
+## Getting Started
+
+Ready to dominate local search results for your professional services whilst maintaining strict compliance standards? Our SEO service begins with comprehensive auditing and strategy development tailored to your practice's specialty areas and growth objectives.
+
+Contact Luna Digital to discuss your SEO goals and current search performance challenges. We'll provide detailed analysis of your optimization opportunities and strategic recommendations for sustainable search growth.
+
+Start building the search authority your practice deserves with SEO strategies designed specifically for professional services compliance and growth requirements.

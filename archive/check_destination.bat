@@ -1,0 +1,1 @@
+rclone lsf "gdrive-shared:Customers/Dr Julia Crawford/SEO/" --dirs-only

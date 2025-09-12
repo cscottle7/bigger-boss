@@ -1,0 +1,502 @@
+{
+  "scan_metadata": {
+    "domain": "simplysolarsolutions.com.au",
+    "base_url": "https://simplysolarsolutions.com.au",
+    "client": "simplysolarsolutions_com_au",
+    "scan_date": "2025-09-05T14:57:45.692209",
+    "pages_crawled": 16,
+    "pages_failed": 3,
+    "max_pages_setting": 50,
+    "crawler_version": "1.0"
+  },
+  "executive_summary": {
+    "total_pages": 16,
+    "average_seo_score": 84.4,
+    "critical_issues": 2,
+    "warnings": 20,
+    "info_items": 4
+  },
+  "page_by_page_analysis": [
+    {
+      "url": "https://simplysolarsolutions.com.au",
+      "page_title": "Home Solar Power | Simply Solar Solutions",
+      "meta_description": "Click for your local, solar power and electrical specialists. We have been servicing North Western Sydney for more than 35 years.",
+      "h1_tags": [
+        "Local Solar Power Experts"
+      ],
+      "seo_score": 90,
+      "word_count": 1421,
+      "issues": [
+        {
+          "type": "warning",
+          "category": "accessibility",
+          "issue": "3 images missing alt text"
+        }
+      ],
+      "technical_details": {
+        "canonical_url": "https://simplysolarsolutions.com.au/",
+        "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+        "language": "en-AU",
+        "structured_data_found": true
+      }
+    },
+    {
+      "url": "https://simplysolarsolutions.com.au/",
+      "page_title": "Home Solar Power | Simply Solar Solutions",
+      "meta_description": "Click for your local, solar power and electrical specialists. We have been servicing North Western Sydney for more than 35 years.",
+      "h1_tags": [
+        "Local Solar Power Experts"
+      ],
+      "seo_score": 90,
+      "word_count": 1421,
+      "issues": [
+        {
+          "type": "warning",
+          "category": "accessibility",
+          "issue": "3 images missing alt text"
+        }
+      ],
+      "technical_details": {
+        "canonical_url": "https://simplysolarsolutions.com.au/",
+        "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+        "language": "en-AU",
+        "structured_data_found": true
+      }
+    },
+    {
+      "url": "https://simplysolarsolutions.com.au/contact-us/",
+      "page_title": "Contact Simply Solar Solutions | Your Local Solar Installer",
+      "meta_description": "Click here to contact Quakers Hill Solar, you local team of solar and electrical installers.",
+      "h1_tags": [
+        "Contact Simply Solar Solutions"
+      ],
+      "seo_score": 75,
+      "word_count": 93,
+      "issues": [
+        {
+          "type": "warning",
+          "category": "meta_description",
+          "issue": "Meta description too short (< 120 characters)"
+        }
+      ],
+      "technical_details": {
+        "canonical_url": "https://simplysolarsolutions.com.au/contact-us/",
+        "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+        "language": "en-AU",
+        "structured_data_found": true
+      }
+    },
+    {
+      "url": "https://simplysolarsolutions.com.au/solar-system-installs/",
+      "page_title": "Solar System Installs | Simply Solar Solutions",
+      "meta_description": "Click through to see some of the solar system installs we have completed this year. Your local solar power experts.",
+      "h1_tags": [
+        "Solar System Installs"
+      ],
+      "seo_score": 90,
+      "word_count": 827,
+      "issues": [
+        {
+          "type": "warning",
+          "category": "meta_description",
+          "issue": "Meta description too short (< 120 characters)"
+        },
+        {
+          "type": "warning",
+          "category": "accessibility",
+          "issue": "3 images missing alt text"
+        }
+      ],
+      "technical_details": {
+        "canonical_url": "https://simplysolarsolutions.com.au/solar-system-installs/",
+        "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+        "language": "en-AU",
+        "structured_data_found": true
+      }
+    },
+    {
+      "url": "https://simplysolarsolutions.com.au/about/",
+      "page_title": "About Us | Simply Solar Solutions",
+      "meta_description": "Simply Solar Solutions is a family business operating out of the Hawkesbury and Hills areas. We do all of our own solar system sales, installations and service.",
+      "h1_tags": [
+        "About Us"
+      ],
+      "seo_score": 90,
+      "word_count": 1384,
+      "issues": [
+        {
+          "type": "warning",
+          "category": "accessibility",
+          "issue": "3 images missing alt text"
+        }
+      ],
+      "technical_details": {
+        "canonical_url": "https://simplysolarsolutions.com.au/about/",
+        "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+        "language": "en-AU",
+        "structured_data_found": true
+      }
+    },
+    {
+      "url": "https://simplysolarsolutions.com.au/9-1kw-solar-system-install/",
+      "page_title": "9.1kW Solar System Install - Simply Solar Solutions",
+      "meta_description": "We recently completed a great little installation for Jason in Gorokan last week. ",
+      "h1_tags": [
+        "9.1kW Solar System Install"
+      ],
+      "seo_score": 80,
+      "word_count": 379,
+      "issues": [
+        {
+          "type": "warning",
+          "category": "meta_description",
+          "issue": "Meta description too short (< 120 characters)"
+        },
+        {
+          "type": "warning",
+          "category": "accessibility",
+          "issue": "3 images missing alt text"
+        }
+      ],
+      "technical_details": {
+        "canonical_url": "https://simplysolarsolutions.com.au/9-1kw-solar-system-install/",
+        "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+        "language": "en-AU",
+        "structured_data_found": true
+      }
+    },
+    {
+      "url": "https://simplysolarsolutions.com.au/19-8kw-solar-install-kellyville-nsw/",
+      "page_title": "19.8kW Solar Install Kellyville NSW | Simply Solar Solutions",
+      "meta_description": "Click here to see a new home solar installation completed in Kellyville. Featuring 19.8kW of solar power generated by 45 all-black solar panels.",
+      "h1_tags": [
+        "19.8kW Solar Install Kellyville, NSW"
+      ],
+      "seo_score": 90,
+      "word_count": 419,
+      "issues": [
+        {
+          "type": "warning",
+          "category": "accessibility",
+          "issue": "3 images missing alt text"
+        }
+      ],
+      "technical_details": {
+        "canonical_url": "https://simplysolarsolutions.com.au/19-8kw-solar-install-kellyville-nsw/",
+        "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+        "language": "en-AU",
+        "structured_data_found": true
+      }
+    },
+    {
+      "url": "https://simplysolarsolutions.com.au/13-2kw-solar-system-install-normanhurst-nsw/",
+      "page_title": "13.2kw Solar System Normanhurst, NSW - Simply Solar",
+      "meta_description": "David’s newly renovated home just got a major upgrade with a quality solar system to match! Click through to read more and view the solar photos!",
+      "h1_tags": [
+        "13.2kw Solar System Install Normanhurst, NSW"
+      ],
+      "seo_score": 90,
+      "word_count": 396,
+      "issues": [
+        {
+          "type": "warning",
+          "category": "accessibility",
+          "issue": "3 images missing alt text"
+        }
+      ],
+      "technical_details": {
+        "canonical_url": "https://simplysolarsolutions.com.au/13-2kw-solar-system-install-normanhurst-nsw/",
+        "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+        "language": "en-AU",
+        "structured_data_found": true
+      }
+    },
+    {
+      "url": "https://simplysolarsolutions.com.au/10kw-solar-system-install-glenwood-nsw/",
+      "page_title": "10kw Solar System Install Glenwood, NSW | Simply Solar",
+      "meta_description": "12.3kW solar system in Glenwood with SolarEdge inverters & AIKO panels. All-black design & top efficiency. Contact us for your solar proposal",
+      "h1_tags": [
+        "10kw Solar System Install Glenwood, NSW"
+      ],
+      "seo_score": 90,
+      "word_count": 395,
+      "issues": [
+        {
+          "type": "warning",
+          "category": "accessibility",
+          "issue": "4 images missing alt text"
+        }
+      ],
+      "technical_details": {
+        "canonical_url": "https://simplysolarsolutions.com.au/10kw-solar-system-install-glenwood-nsw/",
+        "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+        "language": "en-AU",
+        "structured_data_found": true
+      }
+    },
+    {
+      "url": "https://simplysolarsolutions.com.au/30kw-solar-system-install-randwick-nsw/",
+      "page_title": "30kW Solar System Install Randwick | Simply Solar Solutions",
+      "meta_description": "A huge 30kW, 68 solar panel system installed by our team in Randwick NSW. Featuring 440w solar panels mounted to a concrete roof and 2x 15kW inverters.",
+      "h1_tags": [
+        "30kW Solar System Install Randwick, NSW"
+      ],
+      "seo_score": 90,
+      "word_count": 371,
+      "issues": [
+        {
+          "type": "warning",
+          "category": "accessibility",
+          "issue": "3 images missing alt text"
+        }
+      ],
+      "technical_details": {
+        "canonical_url": "https://simplysolarsolutions.com.au/30kw-solar-system-install-randwick-nsw/",
+        "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+        "language": "en-AU",
+        "structured_data_found": true
+      }
+    },
+    {
+      "url": "https://simplysolarsolutions.com.au/10-5kw-solar-system-bradbury-nsw/",
+      "page_title": "10.5kW Solar System Bradbury, NSW | Simply Solar Solutions",
+      "meta_description": "New 10.5kW Solar System installed for our dear customer in Bradbury NSW featuring 24 panels and a 10kW Solar Inverter.",
+      "h1_tags": [
+        "10.5kW Solar System Bradbury, NSW"
+      ],
+      "seo_score": 80,
+      "word_count": 351,
+      "issues": [
+        {
+          "type": "warning",
+          "category": "meta_description",
+          "issue": "Meta description too short (< 120 characters)"
+        },
+        {
+          "type": "warning",
+          "category": "accessibility",
+          "issue": "3 images missing alt text"
+        }
+      ],
+      "technical_details": {
+        "canonical_url": "https://simplysolarsolutions.com.au/10-5kw-solar-system-bradbury-nsw/",
+        "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+        "language": "en-AU",
+        "structured_data_found": true
+      }
+    },
+    {
+      "url": "https://simplysolarsolutions.com.au/author/support/",
+      "page_title": "Support - Simply Solar Solutions",
+      "meta_description": null,
+      "h1_tags": [
+        "Author: Support"
+      ],
+      "seo_score": 65,
+      "word_count": 236,
+      "issues": [
+        {
+          "type": "critical",
+          "category": "meta_description",
+          "issue": "Missing meta description"
+        },
+        {
+          "type": "warning",
+          "category": "accessibility",
+          "issue": "1 images missing alt text"
+        },
+        {
+          "type": "info",
+          "category": "technical",
+          "issue": "Missing canonical URL"
+        },
+        {
+          "type": "info",
+          "category": "social",
+          "issue": "Incomplete Open Graph metadata"
+        }
+      ],
+      "technical_details": {
+        "canonical_url": null,
+        "robots": "follow, noindex",
+        "language": "en-AU",
+        "structured_data_found": true
+      }
+    },
+    {
+      "url": "https://simplysolarsolutions.com.au/author/rodmarsh/",
+      "page_title": "Rodney Marsh - Simply Solar Solutions",
+      "meta_description": null,
+      "h1_tags": [
+        "Author: Rodney Marsh"
+      ],
+      "seo_score": 70,
+      "word_count": 668,
+      "issues": [
+        {
+          "type": "critical",
+          "category": "meta_description",
+          "issue": "Missing meta description"
+        },
+        {
+          "type": "warning",
+          "category": "accessibility",
+          "issue": "3 images missing alt text"
+        },
+        {
+          "type": "info",
+          "category": "technical",
+          "issue": "Missing canonical URL"
+        },
+        {
+          "type": "info",
+          "category": "social",
+          "issue": "Incomplete Open Graph metadata"
+        }
+      ],
+      "technical_details": {
+        "canonical_url": null,
+        "robots": "follow, noindex",
+        "language": "en-AU",
+        "structured_data_found": true
+      }
+    },
+    {
+      "url": "https://simplysolarsolutions.com.au/13kw-solar-system-install-annangrove/",
+      "page_title": "13kW Solar System Install Annangrove NSW | Simply Solar",
+      "meta_description": "Click here for a new solar system install we completed in Annangrove NSW. 13kW of solar power along with a 3 phase inverter to power the workshop.",
+      "h1_tags": [
+        "13kW Solar System Install Annangrove NSW"
+      ],
+      "seo_score": 90,
+      "word_count": 383,
+      "issues": [
+        {
+          "type": "warning",
+          "category": "accessibility",
+          "issue": "3 images missing alt text"
+        }
+      ],
+      "technical_details": {
+        "canonical_url": "https://simplysolarsolutions.com.au/13kw-solar-system-install-annangrove/",
+        "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+        "language": "en-AU",
+        "structured_data_found": true
+      }
+    },
+    {
+      "url": "https://simplysolarsolutions.com.au/8-1kw-all-black-solar-power-system-box-hill-nsw/",
+      "page_title": "8.1kW All Black Solar Power System Box Hill NSW - Simply Solar Solutions",
+      "meta_description": "Another job for another customer done and dusted with the team at Simply Solar Solutions.Here at Anthony’s place in Box Hill, we have installed an 8.19kW",
+      "h1_tags": [
+        "8.1kW All Black Solar Power System Box Hill NSW"
+      ],
+      "seo_score": 80,
+      "word_count": 332,
+      "issues": [
+        {
+          "type": "warning",
+          "category": "title",
+          "issue": "Title too long (> 60 characters)"
+        },
+        {
+          "type": "warning",
+          "category": "accessibility",
+          "issue": "5 images missing alt text"
+        }
+      ],
+      "technical_details": {
+        "canonical_url": "https://simplysolarsolutions.com.au/8-1kw-all-black-solar-power-system-box-hill-nsw/",
+        "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+        "language": "en-AU",
+        "structured_data_found": true
+      }
+    },
+    {
+      "url": "https://simplysolarsolutions.com.au/13kw-solar-install-vineyard-nsw/",
+      "page_title": "13kW Solar Install Vineyard, NSW | Simply Solar Solutions",
+      "meta_description": "Click here to see a 13kW Solar System installed in Vineyard NSW by Simply Solar Solutions - Featuring 30 all-black Solar Panels and 2x 5kW inverters.",
+      "h1_tags": [
+        "13kW Solar Install Vineyard, NSW"
+      ],
+      "seo_score": 90,
+      "word_count": 332,
+      "issues": [
+        {
+          "type": "warning",
+          "category": "accessibility",
+          "issue": "3 images missing alt text"
+        }
+      ],
+      "technical_details": {
+        "canonical_url": "https://simplysolarsolutions.com.au/13kw-solar-install-vineyard-nsw/",
+        "robots": "index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+        "language": "en-AU",
+        "structured_data_found": true
+      }
+    }
+  ],
+  "site_wide_issues": [
+    "Duplicate titles found across multiple pages",
+    "Duplicate meta descriptions found across multiple pages"
+  ],
+  "recommendations": [
+    {
+      "priority": "HIGH",
+      "category": "Meta Description",
+      "total_issues": 6,
+      "critical": 2,
+      "warnings": 4,
+      "recommendation": "Add 2 missing meta descriptions and optimize 4 lengths"
+    },
+    {
+      "priority": "MEDIUM",
+      "category": "Accessibility",
+      "total_issues": 15,
+      "critical": 0,
+      "warnings": 15,
+      "recommendation": "Add alt text to 15 images missing descriptions"
+    },
+    {
+      "priority": "LOW",
+      "category": "Technical",
+      "total_issues": 2,
+      "critical": 0,
+      "warnings": 0,
+      "recommendation": "Address 0 technical SEO issues"
+    },
+    {
+      "priority": "LOW",
+      "category": "Social",
+      "total_issues": 2,
+      "critical": 0,
+      "warnings": 0,
+      "recommendation": "Complete Open Graph and Twitter Card metadata for better social sharing"
+    },
+    {
+      "priority": "MEDIUM",
+      "category": "Title",
+      "total_issues": 1,
+      "critical": 0,
+      "warnings": 1,
+      "recommendation": "Fix 0 missing titles and optimize 1 title lengths"
+    }
+  ],
+  "failed_pages": [
+    {
+      "url": "mailto:rod@simplysolarsolutions.com.au",
+      "error": "Page.goto: net::ERR_ABORTED at mailto:rod@simplysolarsolutions.com.au\nCall log:\n  - navigating to \"mailto:rod@simplysolarsolutions.com.au\", waiting until \"networkidle\"\n",
+      "timestamp": "2025-09-05T14:57:21.195643"
+    },
+    {
+      "url": "mailto:rod@simplysolarsolutions.com.au",
+      "error": "Page.goto: net::ERR_ABORTED at mailto:rod@simplysolarsolutions.com.au\nCall log:\n  - navigating to \"mailto:rod@simplysolarsolutions.com.au\", waiting until \"networkidle\"\n",
+      "timestamp": "2025-09-05T14:57:37.915042"
+    },
+    {
+      "url": "mailto:rod@simplysolarsolutions.com.au",
+      "error": "Page.goto: net::ERR_ABORTED at mailto:rod@simplysolarsolutions.com.au\nCall log:\n  - navigating to \"mailto:rod@simplysolarsolutions.com.au\", waiting until \"networkidle\"\n",
+      "timestamp": "2025-09-05T14:57:43.640109"
+    }
+  ]
+}

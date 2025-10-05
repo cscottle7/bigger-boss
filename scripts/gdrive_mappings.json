@@ -1,0 +1,52 @@
+{
+  "description": "Google Drive folder mappings for client document organisation",
+  "version": "1.0.0",
+  "mappings": {
+    "lunadigitalmarketing_com_au": "Clients/Luna Digital Marketing/Project Files",
+    "simplysolarsolutions_com_au": "Clients/Simply Solar Solutions/Documentation",
+    "greenpowersolutions_com_au": "Clients/Green Power Solutions/Content Strategy",
+    "sydneycoachcharter_com_au": "Clients/Sydney Coach Charter/SEO Analysis",
+    "precisionuppergisurgery_com_au": "Clients/Precision Upper GI Surgery/Content",
+    "endeurology_com_au": "Clients/Endeurology/Strategic Planning",
+    "capitalsmiles_com_au": "Clients/Capital Smiles/Marketing Materials",
+    "centreforgastrointestinalhealth_com_au": "Clients/Centre for GI Health/Content Strategy",
+    "drjuliacrawford_com_au": "Clients/Dr Julia Crawford/Professional Content",
+    "familyfocuslegal_com_au": "Clients/Family Focus Legal/Legal Marketing",
+    "discoverwebsolutions_com_au": "Clients/Discover Web Solutions/Technical Docs",
+    "allsparkelectrical_net": "Clients/Allspark Electrical/Service Marketing"
+  },
+  "folder_structure": {
+    "template": "{base_folder}/{year}-{month}/{category}",
+    "categories": {
+      "strategy": "Strategy",
+      "research": "Research",
+      "content": "Content",
+      "technical": "Technical",
+      "implementation": "Implementation",
+      "reports": "Reports",
+      "project_management": "Project Management",
+      "general": "General"
+    }
+  },
+  "file_type_routing": {
+    ".docx": "primary",
+    ".pdf": "primary",
+    ".md": "source",
+    ".xlsx": "data",
+    ".csv": "data",
+    ".json": "technical",
+    ".yaml": "technical",
+    ".jpg": "assets",
+    ".png": "assets",
+    ".gif": "assets"
+  },
+  "access_control": {
+    "default_permissions": "reader",
+    "client_specific": {
+      "lunadigitalmarketing_com_au": {
+        "permissions": "writer",
+        "sharing": "anyone_with_link"
+      }
+    }
+  }
+}

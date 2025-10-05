@@ -1,0 +1,99 @@
+Converted from: C:\Apps\Agents\Bigger Boss\bigger-boss\clients\greenpowersolutions_com_au\PROJECT_CHECKLIST.md
+Conversion date: 30 September 2025
+==================================================
+
+Green Power Solutions - Foundational Research Project Checklist
+
+#Project Overview
+Client: Green Power Solutions (greenpowersolutions.com.au)
+Objective: Comprehensive foundational research across four pillar services to inform content strategy refinement
+Generated: 2025-09-06
+
+#Four Pillar Services Focus Areas
+1. Generator Hire & Sales - Diesel, petrol, biodiesel generators for construction, mining, events
+2. Hybrid Lighting Towers - Solar/diesel hybrid lighting for infrastructure and remote sites  
+3. Water Tanks & Fuel Storage - Potable water, fuel storage solutions for industrial applications
+4. Load Bank Testing Services - Electrical load testing for data centres, hospitals, industrial facilities
+
+#Research Phases & Major Deliverables
+
+##Phase 1: Competitive Intelligence ⏳
+Lead Squad: ContentForge
+Key Tasks:
+- [ ] Analyse competitor content across all four pillar services
+- [ ] Map competitor content themes, messaging, and positioning
+- [ ] Identify content gaps and differentiation opportunities
+- [ ] Document competitor content quality and depth analysis
+
+Deliverables:
+- `research/competitive_content_analysis.md`
+- `research/competitor_messaging_matrix.md`
+
+##Phase 2: Search Intelligence ⏳  
+Lead Squad: ContentForge  
+Key Tasks:
+- [ ] Execute comprehensive keyword research for all four pillars
+- [ ] Map search intent (informational/commercial/transactional) 
+- [ ] Analyse search volumes, keyword difficulty, and opportunity scoring
+- [ ] Identify high-value, low-competition keyword opportunities
+
+Deliverables:
+- `research/keyword_research_comprehensive.md`
+- `research/search_intent_mapping.md`
+
+##Phase 3: Audience Intelligence ⏳
+Lead Squad: ContentForge
+Key Tasks:
+- [ ] Develop detailed buyer personas for each service pillar
+- [ ] Map customer decision journeys and pain points
+- [ ] Identify content preferences and consumption patterns
+- [ ] Document persona-specific messaging requirements
+
+Deliverables:
+- `research/audience_personas_detailed.md`
+- `research/customer_journey_mapping.md`
+
+##Phase 4: Content Gap Analysis ⏳
+Lead Squad: ContentForge
+Key Tasks:  
+- [ ] Cross-analyse competitive, keyword, and audience research
+- [ ] Identify content opportunities for market differentiation
+- [ ] Prioritise content gaps by impact and effort
+- [ ] Map opportunities to business objectives
+
+Deliverables:
+- `research/content_gap_analysis.md`
+- `research/content_opportunity_matrix.md`
+
+##Phase 5: Research Integration & Strategic Summary ⏳
+Lead Squad: Master Orchestrator
+Key Tasks:
+- [ ] Synthesise findings across all research components
+- [ ] Create integrated strategic recommendations
+- [ ] Provide content strategy refinement guidance
+- [ ] Generate executive summary for stakeholder review
+
+Deliverables:
+- `strategy/integrated_research_summary.md`
+- `strategy/content_strategy_recommendations.md`
+- `PROJECT_OVERVIEW.md`
+
+#Quality Assurance Checkpoints
+- [ ] All statistics cited with credible Australian sources
+- [ ] Consistent data across all research components
+- [ ] Australian English compliance throughout
+- [ ] Actionable recommendations with implementation priorities
+- [ ] Clear navigation structure in README.md
+
+#Timeline Estimate
+Total Duration: 2-3 days
+- Phase 1-2: Parallel execution (Day 1)
+- Phase 3-4: Sequential analysis (Day 2) 
+- Phase 5: Synthesis and integration (Day 3)
+
+#Success Criteria
+✅ Comprehensive competitive intelligence across all four pillars
+✅ Search opportunity identification with volume and difficulty data
+✅ Detailed audience personas with content journey mapping
+✅ Content gap analysis with differentiation strategies
+✅ Integrated strategic recommendations for content planning

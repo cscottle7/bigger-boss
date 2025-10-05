@@ -1,0 +1,252 @@
+Converted from: C:\Apps\Agents\Bigger Boss\bigger-boss\clients\precisionuppergisurgery_com_au\content\audience_style_guide.md
+Conversion date: 30 September 2025
+==================================================
+
+Precision Upper GI Surgery - Audience Style Guide
+
+#Brand Voice and Tone
+
+##Core Brand Personality
+Professional, Compassionate, Reassuring, Expert
+
+Brand Voice Attributes:
+- Authoritative yet Approachable - Expert knowledge delivered with warmth
+- Empathetic and Understanding - Acknowledging patient concerns and anxiety
+- Clear and Educational - Complex medical concepts explained simply
+- Confident and Reassuring - Inspiring trust through competence and care
+
+##Tone Variations by Context
+
+###Educational Content Tone
+- Informative and Patient - Teaching without talking down
+- Encouraging and Supportive - Building confidence in treatment decisions
+- Precise but Accessible - Medically accurate yet understandable
+- Culturally Sensitive - Inclusive language for diverse Sydney population
+
+###Procedure Information Tone
+- Thorough and Transparent - Honest about procedures and expectations
+- Calming and Reassuring - Reducing anxiety through clear explanation
+- Step-by-step Clarity - Breaking down complex processes
+- Safety-focused - Emphasising care and precision
+
+###Patient Communication Tone
+- Warm and Personal - Individual care and attention
+- Respectful and Dignified - Honouring patient autonomy and concerns
+- Responsive and Available - Accessible healthcare support
+- Collaborative - Partnership in healthcare decisions
+
+#Target Audience Profiles
+
+##Primary Persona 1: The Concerned First-Timer (40%)
+Demographics:
+- Age: 45-65
+- Gender: 60% female, 40% male
+- Location: Sydney Northern Beaches, North Shore
+- Income: $80,000-$150,000 household
+- Education: University-educated professionals
+
+Psychographics:
+- Recently diagnosed with upper GI condition
+- High anxiety about surgical procedures
+- Values thorough information and expert care
+- Researches extensively before making decisions
+- Seeks reassurance and clear explanations
+
+Communication Preferences:
+- Detailed educational content
+- Step-by-step procedure explanations
+- Patient testimonials and success stories
+- Clear timeline and recovery expectations
+- Multiple consultation touchpoints
+
+Content Needs:
+- "What to expect" guides
+- Condition-specific educational materials
+- Pre and post-operative care instructions
+- FAQ sections addressing common concerns
+- Comparison of treatment options
+
+##Primary Persona 2: The Informed Researcher (25%)
+Demographics:
+- Age: 35-55
+- Gender: 55% male, 45% female
+- Location: Eastern Suburbs, Inner West Sydney
+- Income: $100,000+ household
+- Education: High school to postgraduate
+
+Psychographics:
+- Proactive about health management
+- Compares multiple specialists and options
+- Values credentials and expertise
+- Appreciates efficiency and professionalism
+- Seeks cutting-edge treatment approaches
+
+Communication Preferences:
+- Detailed surgeon credentials and experience
+- Procedure outcome statistics and success rates
+- Technology and technique innovations
+- Professional affiliations and recognition
+- Direct comparison with other specialists
+
+Content Needs:
+- Surgeon biography and qualifications
+- Advanced surgical technique explanations
+- Research publications and case studies
+- Technology and equipment information
+- Professional speaking and teaching activities
+
+##Primary Persona 3: The Referred Patient (20%)
+Demographics:
+- Age: 50-70
+- Gender: 50/50 split
+- Location: Greater Sydney area
+- Income: $60,000-$120,000 household
+- Education: Varied educational backgrounds
+
+Psychographics:
+- Trusts referring physician's recommendation
+- Less likely to extensively research alternatives
+- Values convenience and accessibility
+- Appreciates clear communication
+- Seeks confirmation of referral decision
+
+Communication Preferences:
+- Referral acknowledgment and coordination
+- Clear appointment scheduling and preparation
+- Confirmation of insurance and billing processes
+- Straightforward procedure and recovery information
+- Ongoing communication with referring physician
+
+Content Needs:
+- Referral process and coordination information
+- Insurance and billing explanations
+- Appointment preparation guidelines
+- Recovery timeline and support resources
+- Referral network and collaboration details
+
+##Primary Persona 4: Cultural Community Member (15%)
+Demographics:
+- Age: 40-70
+- Gender: Cultural variation
+- Location: Diverse Sydney suburbs
+- Income: $50,000-$100,000 household
+- Education: Varied with cultural emphasis on family involvement
+
+Psychographics:
+- May have language barriers or preferences
+- Family-centered healthcare decision making
+- Cultural considerations in medical care
+- Values respectful and inclusive treatment
+- May prefer cultural community recommendations
+
+Communication Preferences:
+- Multilingual resources where possible
+- Family involvement in consultations
+- Cultural sensitivity in treatment approaches
+- Community-based referrals and recommendations
+- Clear visual and illustrated materials
+
+Content Needs:
+- Translated key information materials
+- Cultural dietary and recovery considerations
+- Family involvement guidelines
+- Community healthcare resources
+- Culturally appropriate patient testimonials
+
+#Communication Style Guidelines
+
+##Language and Terminology
+
+###Preferred Language Style
+- Clear and Conversational - Avoid unnecessary jargon
+- Active Voice - Direct and engaging communication
+- Patient-First Language - Person-centered rather than condition-focused
+- Australian English - Local spelling and terminology
+- Inclusive Pronouns - Gender-neutral when appropriate
+
+###Medical Terminology Guidelines
+- Explain Technical Terms - Define medical language upon first use
+- Use Analogies - Compare complex procedures to familiar concepts
+- Provide Context - Explain why procedures are necessary
+- Avoid Frightening Language - Choose reassuring over alarming terms
+- Include Pronunciation - Help with difficult medical terms
+
+###Examples of Preferred Phrasing
+Instead of: "You suffer from gastroesophageal reflux disease"
+Use: "You have gastroesophageal reflux disease (GORD), a condition where stomach acid flows back into your oesophagus"
+
+Instead of: "The procedure involves incisions"
+Use: "We make small, keyhole incisions using minimally invasive techniques"
+
+Instead of: "Complications may include..."
+Use: "While uncommon, it's important you're aware of all possible outcomes..."
+
+##Content Structure Preferences
+
+###Educational Content Structure
+1. Clear Headlines - Descriptive and benefit-focused
+2. Summary Overview - Key points upfront for scanners
+3. Detailed Explanation - Comprehensive information for researchers
+4. Visual Elements - Diagrams, illustrations, and infographics
+5. Action Steps - Clear next steps for engagement
+
+###Procedure Information Structure
+1. Procedure Overview - What, why, and when
+2. Preparation Guidelines - Step-by-step pre-operative instructions
+3. What to Expect - Detailed procedure walkthrough
+4. Recovery Timeline - Realistic healing and return to activity expectations
+5. Support Resources - Contact information and additional help
+
+#Cultural Sensitivity Guidelines
+
+##Sydney's Diverse Population Considerations
+
+###Language and Communication
+- Plain English Priority - Clear communication for all backgrounds
+- Visual Communication - Diagrams and illustrations to support text
+- Key Translation - Critical information in common community languages
+- Cultural Liaison - Community health worker connections where appropriate
+
+###Cultural Healthcare Practices
+- Family Involvement - Respect for collective decision-making cultures
+- Religious Considerations - Understanding of faith-based healthcare preferences
+- Traditional Medicine - Respectful discussion of complementary approaches
+- Gender Preferences - Sensitivity to cultural gender considerations
+
+###Inclusive Marketing Approaches
+- Diverse Representation - Multicultural imagery and testimonials
+- Community Engagement - Participation in cultural health events
+- Accessible Information - Multiple format options for different literacy levels
+- Respectful Messaging - Avoiding assumptions about cultural healthcare practices
+
+#Accessibility Standards
+
+##Content Accessibility Requirements
+- Reading Level - Target Year 8-10 Australian reading level for general content
+- Font and Design - High contrast, readable fonts, adequate white space
+- Alternative Text - Descriptive alt text for all images and diagrams
+- Video Captions - Closed captions for all educational videos
+- Screen Reader Compatibility - Proper heading structure and navigation
+
+##Communication Accessibility
+- Multiple Formats - Written, audio, and visual content options
+- Large Print Options - Available for older patients or visual impairments
+- Interpreter Services - Professional medical interpreters for consultations
+- Assistive Technology - Website compatibility with accessibility tools
+
+#Content Quality Standards
+
+##Medical Accuracy Requirements
+- Clinical Review - All medical content reviewed by qualified medical professionals
+- Current Guidelines - Alignment with current medical standards and practices
+- Evidence-Based - References to peer-reviewed research and clinical evidence
+- Regulatory Compliance - AHPRA and TGA guideline adherence
+
+##Content Review Process
+1. Medical Accuracy - Clinical content verification
+2. Language Clarity - Plain English and accessibility review
+3. Cultural Sensitivity - Inclusive language and representation check
+4. Legal Compliance - Regulatory and professional standard verification
+5. Brand Consistency - Voice, tone, and messaging alignment
+
+This audience style guide ensures all communication maintains professional medical standards while being accessible, inclusive, and engaging for Precision Upper GI Surgery's diverse Sydney patient community.

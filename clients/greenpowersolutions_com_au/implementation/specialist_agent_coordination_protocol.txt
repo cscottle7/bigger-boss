@@ -1,0 +1,235 @@
+Converted from: C:\Apps\Agents\Bigger Boss\bigger-boss\clients\greenpowersolutions_com_au\implementation\specialist_agent_coordination_protocol.md
+Conversion date: 30 September 2025
+==================================================
+
+Green Power Solutions - Specialist Agent Coordination Protocol
+#Phase 2 Content Creation Implementation (Days 3-10)
+
+Document Type: Agent Coordination Framework  
+Implementation Phase: Phase 2 Content Creation  
+Date Created: 8 September 2025  
+Status: Active Implementation Protocol
+
+
+==================================================
+
+
+#EXECUTION SEQUENCING STRATEGY
+
+Following the strategic workflow sequencing established in the main workflow, content creation proceeds in strategic order with overlapping quality reviews to ensure technical accuracy and cross-pillar consistency.
+
+##Content Creation Sequence
+1. Generator Pillar (Days 3-5) - Primary foundation
+2. Load Bank Testing (Days 4-6) - Technical dependency on generator specs
+3. Hybrid Lighting (Days 6-8) - Cross-reference generator specifications
+4. Tank Storage (Days 8-10) - Integration with all systems
+
+##Quality Gate Integration
+- Gate 1 Technical Review: Day 5 (Generator + Load Bank)
+- Gate 2 SOP Compliance: Days 7-8 (Generator + Load Bank + Hybrid Lighting)
+- Integration Reviews: Days 6, 9, 12 (Cross-pillar consistency)
+
+
+==================================================
+
+
+#AGENT ASSIGNMENT ACTIVATION
+
+##Generator Content Specialist - ACTIVATED (Days 3-5)
+Primary Responsibilities:
+- Transform generator pillar content plan (4,500+ words) into publication-ready web content
+- Ensure biodiesel technology specifications are technically accurate
+- Verify mining compliance requirements per Australian standards
+- Develop case studies from content plan frameworks with proper citations
+- Establish technical foundation for cross-pillar integration
+
+Quality Requirements:
+- Technical accuracy verification against manufacturer specifications
+- Australian mining standards compliance (AS/NZS 3000:2018)
+- Fuel consumption calculations verified at all load levels
+- Environmental benefits documentation with credible source citations
+- Integration specifications for load bank testing and fuel storage
+
+Resource Access:
+- Generator pillar content plan: `/content/generator_pillar_page_content_plan.md`
+- Technical terminology glossary: `/implementation/technical_terminology_glossary.md`
+- Brand voice framework: `/implementation/brand_voice_consistency_framework.md`
+- Quality templates: `/implementation/quality_control/sop_compliance_checklists/`
+
+##Load Bank Testing Content Specialist - ACTIVATED (Days 4-6)  
+Primary Responsibilities:
+- Transform load bank testing content plan (4,600+ words) into publication-ready content
+- Ensure testing methodologies are technically accurate per Australian standards
+- Verify equipment specifications and integration with generator systems
+- Develop technical validation processes with proper compliance references
+- Create case studies demonstrating testing accuracy and certification compliance
+
+Quality Requirements:
+- Testing procedure verification against AS 60439.1 standards
+- Technical validation processes properly documented
+- Integration compatibility with generator specifications confirmed
+- Certification requirements accurately referenced
+- Professional testing methodology presentation
+
+Resource Access:
+- Load bank testing content plan: `/content/load_bank_testing_pillar_page_content_plan.md`
+- Generator specifications (from Generator Specialist deliverables)
+- Technical terminology glossary and brand voice framework
+- Cross-pillar integration requirements documentation
+
+
+==================================================
+
+
+#COORDINATION PROTOCOLS
+
+##Daily Stand-up Protocol (Days 3-10)
+Participants: All active specialist agents + Quality Controller + Lead Orchestrator  
+Schedule: 9:00 AM daily (15-minute checkpoint)  
+Agenda:
+1. Previous day progress review and quality checkpoint results
+2. Current day priorities and resource requirements  
+3. Technical consistency issues identification and resolution
+4. Cross-pillar integration element coordination
+5. Quality gate preparation and timeline verification
+
+##Technical Consistency Coordination
+Generator ↔ Load Bank Integration (Days 4-6):
+- Generator power specifications align with load bank testing capabilities
+- Fuel consumption data consistent across both pillar pages
+- Safety and compliance standards unified between pillars
+- Case studies demonstrate integrated system performance
+
+Cross-Pillar Technical Review (Day 6):
+- Technical terminology consistency verification across completed pillars
+- Specification accuracy cross-validation
+- Integration element functionality testing
+- Brand voice consistency confirmation
+
+##Quality Gate Coordination Protocol
+
+###Gate 1 Technical Accuracy Review (Day 5)
+Participants: Quality Controller + Generator Specialist + Load Bank Specialist  
+Requirements:
+- Technical specifications verified against authoritative sources
+- Australian standards compliance confirmed
+- Cross-pillar technical consistency verified
+- Integration elements technically accurate
+
+###Gate 2 SOP Compliance Review (Days 7-8)  
+Participants: Quality Controller + Lead Orchestrator + Active Specialists
+Requirements:
+- Source citations verified for all statistical claims
+- Australian English compliance throughout content
+- Brand voice consistency maintained across pillars
+- Content plan requirements fulfilled
+
+
+==================================================
+
+
+#CONTENT TRANSFORMATION SPECIFICATIONS
+
+##From Content Plan to Publication-Ready Format
+
+###Required Content Elements (Per Pillar)
+1. Executive Introduction (300-400 words)
+   - Industry challenge recognition with Australian context
+   - Solution authority statement with technical credibility
+   - Professional expertise demonstration
+   - Practical application focus
+
+2. Technical Specifications Section (800-1000 words)
+   - Detailed equipment specifications with verified data
+   - Performance metrics with credible source citations
+   - Australian standards compliance documentation
+   - Integration capability specifications
+
+3. Industry Applications Section (800-1000 words)  
+   - Mining industry applications with compliance focus
+   - Construction and infrastructure project applications
+   - Event and entertainment industry applications
+   - Commercial and industrial applications
+
+4. Case Studies and Examples (600-800 words)
+   - Real-world performance evidence with specific metrics
+   - Industry-specific success stories with quantified benefits
+   - Technical validation examples with certification references
+   - Environmental impact demonstrations with verified data
+
+5. Integration and Systems (400-600 words)
+   - Cross-pillar system integration capabilities
+   - Modular design and scalability options
+   - Remote monitoring and control systems
+   - Maintenance and support protocols
+
+6. Professional Consultation Section (200-300 words)
+   - Expert assessment and solution design offerings
+   - Technical support and service capabilities
+   - Professional installation and commissioning services
+   - Ongoing maintenance and performance optimisation
+
+###Content Quality Standards
+- Minimum Word Count: 4,500+ words per pillar
+- Technical Accuracy: 100% verification against industry standards
+- Source Citations: All claims properly cited with credible sources
+- Australian Compliance: Full adherence to British English and local standards
+- Brand Voice: Consistent professional authority throughout
+
+
+==================================================
+
+
+#FEEDBACK LOOP IMPLEMENTATION
+
+##Real-Time Quality Feedback (Continuous)
+Process:
+1. Content Creation: Specialist creates content section
+2. Technical Review: Quality Controller verifies technical accuracy
+3. SOP Compliance Check: Citation and presentation standards verified
+4. Integration Validation: Cross-pillar consistency confirmed
+5. Refinement: Content refined based on feedback
+6. Approval: Section approved for integration into final page
+
+##Cross-Pillar Integration Checkpoints (Days 6, 9, 12)
+Process:
+1. Consistency Review: Technical terminology alignment across pillars
+2. Integration Testing: Cross-pillar integration elements verified  
+3. Customer Journey Validation: User experience flow throughout pillars
+4. Brand Voice Confirmation: Unified professional voice maintained
+5. Quality Metrics Assessment: Compliance and consistency scoring
+
+##Quality Gate Feedback Integration
+Gate 1 (Technical): Technical accuracy feedback immediate integration
+Gate 2 (SOP): Compliance feedback rapid resolution protocol
+Gate 3 (Publication): Final feedback comprehensive integration
+
+
+==================================================
+
+
+#SUCCESS CRITERIA AND MILESTONES
+
+##Phase 2 Completion Criteria (Day 10)
+- [ ] Generator Pillar: Publication-ready content (4,500+ words) with complete technical accuracy
+- [ ] Load Bank Testing Pillar: Publication-ready content (4,600+ words) with technical validation
+- [ ] Hybrid Lighting Pillar: Publication-ready content (4,600+ words) with integration specifications  
+- [ ] Tank Storage Pillar: Publication-ready content (4,800+ words) with safety compliance
+- [ ] Cross-Pillar Integration: Functional integration elements across all pillars
+- [ ] Quality Gates: Technical accuracy and SOP compliance verification complete
+
+##Quality Metrics Targets
+- Technical Accuracy: 100% specification verification
+- SOP Compliance: 100% citation and presentation standards
+- Cross-Pillar Consistency: 95%+ consistency score
+- Content Completion: 18,500+ total words across four pillars
+- Integration Functionality: All cross-pillar elements operational
+
+
+==================================================
+
+
+Document Status: Active Implementation Protocol  
+Next Review: Daily stand-up coordination (Day 3)  
+Quality Gates: Integrated throughout coordination process  
+Success Measurement: Phase 2 completion criteria achievement

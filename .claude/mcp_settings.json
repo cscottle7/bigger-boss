@@ -1,0 +1,76 @@
+{
+  "mcpServers": {
+    "jina-mcp-server": {
+      "command": "npx",
+      "args": ["-y", "@jina-ai/mcp-server"],
+      "env": {
+        "JINA_API_KEY": "${JINA_API_KEY}",
+        "NODE_TLS_REJECT_UNAUTHORIZED": "0"
+      },
+      "timeout": 30000,
+      "retryCount": 3
+    },
+    "playwright": {
+      "command": "node",
+      "args": ["node_modules/mcp-playwright/dist/index.js"],
+      "env": {
+        "PLAYWRIGHT_HEADLESS": "true",
+        "PLAYWRIGHT_TIMEOUT": "30000"
+      }
+    },
+    "chrome-devtools": {
+      "command": "mcp-chrome-devtools",
+      "args": [],
+      "env": {
+        "CHROME_DEBUGGING_PORT": "9222"
+      }
+    }
+  },
+  "tools": {
+    "jina_tools": {
+      "read_url": {
+        "description": "Extract clean content from web pages",
+        "use_cases": ["competitor_research", "content_analysis", "trend_research"]
+      },
+      "search_web": {
+        "description": "Search current web information",
+        "use_cases": ["market_research", "trending_topics", "fact_checking"]
+      },
+      "search_arxiv": {
+        "description": "Search academic papers",
+        "use_cases": ["evidence_based_content", "research_validation", "credibility"]
+      },
+      "search_images": {
+        "description": "Web image search",
+        "use_cases": ["visual_content_research", "brand_analysis", "design_inspiration"]
+      },
+      "sort_by_relevance": {
+        "description": "Rerank search results by relevance",
+        "use_cases": ["content_prioritization", "research_optimization"]
+      },
+      "deduplicate_strings": {
+        "description": "Remove duplicate content",
+        "use_cases": ["content_uniqueness", "plagiarism_prevention"]
+      }
+    }
+  },
+  "integration_config": {
+    "research_agents": [
+      "research-strategy-orchestrator",
+      "niche-trend-researcher",
+      "competitive_intelligence_searcher",
+      "content_auditor",
+      "brand_strategy_researcher"
+    ],
+    "fallback_enabled": true,
+    "rate_limiting": {
+      "requests_per_minute": 60,
+      "requests_per_hour": 1000
+    },
+    "caching": {
+      "enabled": true,
+      "ttl": 3600,
+      "max_size": "100MB"
+    }
+  }
+}

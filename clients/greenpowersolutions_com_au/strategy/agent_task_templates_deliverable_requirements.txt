@@ -1,0 +1,626 @@
+Converted from: C:\Apps\Agents\Bigger Boss\bigger-boss\clients\greenpowersolutions_com_au\strategy\agent_task_templates_deliverable_requirements.md
+Conversion date: 30 September 2025
+==================================================
+
+Green Power Solutions - Agent Task Templates & Deliverable Requirements
+#Standardized Framework for Three Pillar Expansion Project
+
+Project: Hybrid Lighting, Tanks, and Load Banks Pillar Development  
+Client: Green Power Solutions (https://greenpowersolutions.com.au/)  
+Framework Purpose: Ensure consistency, quality, and integration across all agent deliverables  
+Quality Standards: Australian English, credible citations, technical accuracy  
+
+
+==================================================
+
+
+#AGENT ROLE DEFINITIONS AND STANDARDS
+
+##Market Research Specialist
+Primary Responsibilities: Market analysis, competitive intelligence, customer research, regulatory compliance research  
+Quality Standards: All statistics require credible source citations, Australian market focus, currency conversion to AUD  
+Technical Requirements: Understanding of power generation, lighting, and storage systems  
+Deliverable Format: Structured markdown reports with executive summary, detailed analysis, and actionable recommendations  
+
+##Content Strategy Specialist
+Primary Responsibilities: Content architecture, user journey mapping, SEO strategy, content planning  
+Quality Standards: Australian English compliance, SEO best practices, user experience optimization  
+Technical Requirements: Understanding of technical SEO, content marketing, customer journey optimization  
+Deliverable Format: Detailed content strategies with implementation guides and success metrics  
+
+##Technical Content Writer
+Primary Responsibilities: Technical content creation, specification documentation, application guides  
+Quality Standards: Technical accuracy, Australian compliance standards, professional tone  
+Technical Requirements: Engineering background or equivalent technical knowledge in power systems  
+Deliverable Format: Complete content with proper formatting, citations, and technical diagrams  
+
+##UX Content Specialist
+Primary Responsibilities: Navigation design, user experience optimization, conversion flow enhancement  
+Quality Standards: Usability best practices, accessibility compliance, mobile optimization  
+Technical Requirements: UX/UI design principles, conversion optimization, user testing methodologies  
+Deliverable Format: UX documentation with wireframes, user flow diagrams, and testing protocols  
+
+##Content Integration Specialist
+Primary Responsibilities: Cross-pillar integration, internal linking, solution packaging  
+Quality Standards: Seamless integration, contextual relevance, conversion optimization  
+Technical Requirements: Content management systems, SEO principles, marketing automation  
+Deliverable Format: Integration guides with implementation checklists and tracking metrics  
+
+##Technical SEO Specialist
+Primary Responsibilities: Website implementation, schema markup, performance optimization  
+Quality Standards: Technical SEO best practices, performance benchmarks, accessibility compliance  
+Technical Requirements: HTML/CSS, JavaScript, server configuration, analytics implementation  
+Deliverable Format: Technical implementation documentation with testing results and optimization reports  
+
+##Quality Assurance Specialist
+Primary Responsibilities: Content accuracy verification, user experience testing, compliance validation  
+Quality Standards: Error-free content, regulatory compliance, performance standards  
+Technical Requirements: Testing methodologies, quality assurance processes, regulatory knowledge  
+Deliverable Format: QA reports with test results, issue logs, and resolution recommendations  
+
+##Digital Marketing Specialist
+Primary Responsibilities: Launch strategy, marketing integration, analytics implementation, performance tracking  
+Quality Standards: Marketing best practices, brand consistency, measurable results  
+Technical Requirements: Digital marketing platforms, analytics tools, automation systems  
+Deliverable Format: Marketing strategy documents with campaign assets and performance tracking systems  
+
+
+==================================================
+
+
+#PHASE 1: RESEARCH TEMPLATES (Weeks 1-4)
+
+##Market Research Specialist - Task Templates
+
+###Template 1.1: Hybrid Lighting Market Research
+Estimated Duration: 1 week  
+Priority: High  
+Dependencies: None  
+
+Required Research Components:
+```
+1. MARKET SIZING ANALYSIS
+   ✓ Total Addressable Market (TAM) calculation with AUD values
+   ✓ Market segmentation by application (mining, construction, events, emergency)
+   ✓ Growth projections with credible source citations
+   ✓ Regional demand analysis across Australian states
+
+2. COMPETITIVE LANDSCAPE ANALYSIS
+   ✓ Direct competitor identification and analysis (minimum 10 companies)
+   ✓ Pricing analysis across different power ratings (5kW-100kW+)
+   ✓ Service capability comparison and gap analysis
+   ✓ Market positioning assessment and differentiation opportunities
+
+3. CUSTOMER RESEARCH
+   ✓ Primary target segment analysis (mining, construction, events)
+   ✓ Decision criteria identification and prioritization
+   ✓ Budget range analysis by application type
+   ✓ Purchase trigger identification and seasonal patterns
+
+4. REGULATORY COMPLIANCE RESEARCH
+   ✓ Australian electrical standards compliance requirements
+   ✓ Solar installation certification and accreditation needs
+   ✓ Environmental regulations and incentive programs
+   ✓ Industry-specific requirements (mining, construction)
+
+5. TECHNICAL REQUIREMENTS ANALYSIS
+   ✓ Solar panel integration specifications
+   ✓ Battery storage optimization requirements
+   ✓ Diesel generator backup integration needs
+   ✓ Control system capabilities and monitoring requirements
+```
+
+Deliverable Requirements:
+- Report Length: 15-20 pages with executive summary
+- Citation Standard: Minimum 25 credible sources with proper attribution
+- Format: Markdown with structured headings and data tables
+- Graphics: Market size charts, competitive positioning maps, customer journey diagrams
+- Integration Points: Clear connections to generator pillar applications
+
+Quality Assurance Checklist:
+- [ ] All financial figures converted to AUD with conversion date noted
+- [ ] All sources dated 2022 or later with preference for 2024 data
+- [ ] Australian market focus maintained throughout
+- [ ] Technical specifications verified by qualified personnel
+- [ ] Integration opportunities with generator systems clearly identified
+
+###Template 1.2: Tank Storage Market Research
+Estimated Duration: 1 week  
+Priority: High  
+Dependencies: None  
+
+Required Research Components:
+```
+1. MARKET SEGMENTATION ANALYSIS
+   ✓ Fuel storage market size and growth (diesel, petrol, biodiesel)
+   ✓ Water storage market analysis (potable, industrial, grey water)
+   ✓ Chemical storage requirements and market opportunities
+   ✓ Multi-purpose and modular storage system demand
+
+2. COMPETITIVE ANALYSIS
+   ✓ Tank manufacturer analysis (Aquaplate, Kingspan, Davey Water, others)
+   ✓ Industrial storage specialist evaluation
+   ✓ Pricing structure analysis by tank size and material
+   ✓ Service integration capabilities assessment
+
+3. CUSTOMER SEGMENT RESEARCH
+   ✓ Mining industry storage requirements and budget analysis
+   ✓ Construction industry temporary vs permanent storage needs
+   ✓ Industrial and manufacturing storage applications
+   ✓ Integration requirements with power generation systems
+
+4. REGULATORY FRAMEWORK ANALYSIS
+   ✓ Australian fuel storage standards (AS1940)
+   ✓ Water storage compliance requirements (AS/NZS 4020)
+   ✓ Chemical storage regulations and safety standards
+   ✓ Environmental protection requirements by state
+
+5. TECHNICAL INTEGRATION OPPORTUNITIES
+   ✓ Generator fuel storage optimization calculations
+   ✓ Water storage for generator cooling and fire suppression
+   ✓ Chemical storage for water treatment applications
+   ✓ Multi-purpose storage solutions for complete systems
+```
+
+Deliverable Requirements:
+- Report Length: 15-20 pages with executive summary
+- Citation Standard: Minimum 25 credible sources with regulatory focus
+- Format: Markdown with technical specification tables
+- Graphics: Market segmentation charts, pricing comparison tables, integration diagrams
+- Integration Focus: Clear connections to generator fuel requirements and hybrid lighting systems
+
+###Template 1.3: Load Bank Testing Market Research
+Estimated Duration: 1 week  
+Priority: High  
+Dependencies: None  
+
+Required Research Components:
+```
+1. TESTING EQUIPMENT MARKET ANALYSIS
+   ✓ Load bank equipment market size in Australia
+   ✓ Rental vs purchase market segmentation
+   ✓ Service market analysis for generator testing
+   ✓ Technology trend analysis (digital controls, remote monitoring)
+
+2. CUSTOMER SEGMENT ANALYSIS
+   ✓ Generator service company requirements and preferences
+   ✓ End-user direct purchase vs service utilization patterns
+   ✓ Generator manufacturer testing needs and procedures
+   ✓ Critical facility testing compliance requirements
+
+3. COMPETITIVE LANDSCAPE EVALUATION
+   ✓ Load bank manufacturer analysis (Northbridge, Simplex, Avtron, others)
+   ✓ Australian distributor and service provider assessment
+   ✓ Pricing analysis by power rating and features
+   ✓ Service integration opportunities with generator business
+
+4. REGULATORY AND COMPLIANCE RESEARCH
+   ✓ Generator testing standards and procedures
+   ✓ Industry-specific testing requirements (healthcare, data centers, mining)
+   ✓ Insurance and compliance documentation needs
+   ✓ Safety standards for load bank operation
+
+5. TECHNOLOGY AND SERVICE INTEGRATION
+   ✓ Load bank specifications and capabilities
+   ✓ Digital control and monitoring system requirements
+   ✓ Service integration with generator sales and maintenance
+   ✓ Training and certification program opportunities
+```
+
+Deliverable Requirements:
+- Report Length: 15-20 pages with executive summary
+- Citation Standard: Minimum 20 credible sources with technical standards focus
+- Format: Markdown with equipment specification tables
+- Graphics: Market analysis charts, equipment comparison tables, service integration diagrams
+- Service Focus: Clear integration opportunities with existing generator services
+
+##Content Strategy Specialist - Task Templates
+
+###Template 1.4: Cross-Pillar Integration Research
+Estimated Duration: 1 week  
+Priority: High  
+Dependencies: Tasks 1.1, 1.2, 1.3  
+
+Required Analysis Components:
+```
+1. CUSTOMER JOURNEY MAPPING
+   ✓ Multi-pillar customer touchpoint identification
+   ✓ Decision-making process flow across all four pillars
+   ✓ Cross-selling opportunity analysis and prioritization
+   ✓ Complete solution requirement documentation
+
+2. TECHNICAL INTEGRATION ANALYSIS
+   ✓ Generator-hybrid lighting integration specifications
+   ✓ Tank storage optimization for generator systems
+   ✓ Load bank testing integration with generator services
+   ✓ Complete system specifications and performance metrics
+
+3. CONTENT ARCHITECTURE PLANNING
+   ✓ Internal linking strategy between all four pillars
+   ✓ Shared terminology and technical specification alignment
+   ✓ SEO integration opportunities and keyword mapping
+   ✓ User experience flow optimization across pillars
+
+4. COMPETITIVE COMPLETE SOLUTION ANALYSIS
+   ✓ Integrated solution provider competitive assessment
+   ✓ Market gap identification for complete solutions
+   ✓ Service capability requirements for integrated offerings
+   ✓ Pricing strategy analysis for bundled vs individual solutions
+```
+
+Deliverable Requirements:
+- Document Length: 12-15 pages with visual mapping
+- Integration Focus: Detailed cross-referencing strategies
+- Format: Markdown with customer journey diagrams and content architecture maps
+- Strategic Elements: Clear competitive advantages and market positioning
+- Implementation Guide: Step-by-step integration implementation plan
+
+
+==================================================
+
+
+#PHASE 2: CONTENT ARCHITECTURE TEMPLATES (Weeks 5-8)
+
+##Content Strategy Specialist - Task Templates
+
+###Template 2.1: Hybrid Lighting Content Architecture
+Estimated Duration: 1 week  
+Priority: High  
+Dependencies: Task 1.1, Task 1.4  
+
+Required Architecture Components:
+```
+1. MAIN PILLAR PAGE STRUCTURE (/hybrid-lighting/)
+   ✓ Hero section with value proposition and integration benefits
+   ✓ Solution overview with generator backup integration
+   ✓ Application segments (mining, construction, events, emergency)
+   ✓ Technical specifications and system integration details
+   ✓ Case studies and customer testimonials
+   ✓ Contact forms and consultation request integration
+
+2. APPLICATION-SPECIFIC LANDING PAGES
+   ✓ Mining site lighting solutions (/hybrid-lighting/mining/)
+   ✓ Construction site lighting (/hybrid-lighting/construction/)
+   ✓ Event lighting systems (/hybrid-lighting/events/)
+   ✓ Emergency lighting solutions (/hybrid-lighting/emergency/)
+
+3. TECHNICAL SPECIFICATION PAGES
+   ✓ Solar panel integration guide (/hybrid-lighting/solar-integration/)
+   ✓ Battery storage planning (/hybrid-lighting/battery-storage/)
+   ✓ Generator backup specifications (/hybrid-lighting/generator-backup/)
+   ✓ Control systems and monitoring (/hybrid-lighting/control-systems/)
+
+4. INTEGRATION WITH GENERATOR PILLAR
+   ✓ Generator sizing for lighting applications
+   ✓ Fuel efficiency optimization for lighting loads
+   ✓ Complete power solution recommendations
+   ✓ Cross-referencing strategy with generator content
+```
+
+Deliverable Requirements:
+- Documentation: Complete URL structure and content hierarchy
+- Wireframes: Page layout mockups for all main pages
+- SEO Strategy: Keyword mapping and meta tag specifications
+- Integration Plan: Detailed cross-linking strategy with other pillars
+- Content Outlines: Detailed outlines for all pages with word count targets
+
+###Template 2.2-2.4: Tank Storage and Load Bank Architecture Templates
+Similar structure adapted for each pillar with specific technical requirements
+
+##UX Content Specialist - Task Templates
+
+###Template 2.4: Integrated Navigation System
+Estimated Duration: 1 week  
+Priority: High  
+Dependencies: Tasks 2.1, 2.2, 2.3  
+
+Required UX Components:
+```
+1. CROSS-PILLAR NAVIGATION DESIGN
+   ✓ Main navigation menu structure for all four pillars
+   ✓ Breadcrumb navigation hierarchy implementation
+   ✓ Solution-based navigation pathways
+   ✓ Mobile navigation optimization for all pillars
+
+2. INTERNAL LINKING STRATEGY
+   ✓ Contextual linking between related content across pillars
+   ✓ Technical specification cross-references
+   ✓ Application-based content connections
+   ✓ Progressive information architecture implementation
+
+3. SEARCH AND DISCOVERY ENHANCEMENT
+   ✓ Content tagging system for cross-pillar discovery
+   ✓ Related content recommendation algorithms
+   ✓ Solution finder tools and calculators
+   ✓ Industry-specific content filtering capabilities
+
+4. USER EXPERIENCE FLOW OPTIMIZATION
+   ✓ Customer journey optimization across all pillars
+   ✓ Progressive disclosure of technical information
+   ✓ Clear call-to-action placement and messaging
+   ✓ Mobile-first responsive design principles
+```
+
+
+==================================================
+
+
+#PHASE 3: CONTENT DEVELOPMENT TEMPLATES (Weeks 9-12)
+
+##Technical Content Writer - Task Templates
+
+###Template 3.1: Hybrid Lighting Content Creation
+Estimated Duration: 2 weeks  
+Priority: High  
+Dependencies: Task 2.1, Task 2.4  
+
+Required Content Elements:
+```
+1. MAIN PILLAR PAGE CONTENT (3,000-4,000 words)
+   ✓ Comprehensive hybrid lighting solution overview
+   ✓ Benefits analysis with cost savings and environmental impact
+   ✓ Integration capabilities with generator systems
+   ✓ Industry-specific applications and case studies
+   ✓ Technical specifications and performance data
+   ✓ Compliance and regulatory information
+
+2. APPLICATION-SPECIFIC GUIDES (1,500-2,000 words each)
+   ✓ Mining site lighting requirements and solutions
+   ✓ Construction site lighting best practices
+   ✓ Event lighting with backup power integration
+   ✓ Emergency lighting systems and reliability
+
+3. TECHNICAL SPECIFICATION CONTENT (1,000-1,500 words each)
+   ✓ Solar panel integration specifications and optimization
+   ✓ Battery storage capacity planning and selection
+   ✓ Generator backup sizing and integration requirements
+   ✓ Control system capabilities and monitoring options
+
+4. INTEGRATION CONTENT WITH GENERATOR PILLAR
+   ✓ Generator sizing calculations for lighting applications
+   ✓ Fuel efficiency optimization strategies
+   ✓ Complete power solution recommendations
+   ✓ Cross-references and contextual linking
+```
+
+Quality Requirements:
+- Technical Accuracy: All specifications verified by qualified engineers
+- Australian Compliance: All regulatory information current and accurate
+- Citation Standards: Minimum 15 credible sources per major page
+- SEO Optimization: Target keywords naturally integrated
+- Integration Quality: Seamless cross-references to other pillars
+
+Content Standards Checklist:
+- [ ] Australian English spelling and terminology throughout
+- [ ] All statistics include credible source citations
+- [ ] Technical diagrams professionally designed and accurate
+- [ ] Call-to-action placement optimized for conversion
+- [ ] Mobile-responsive content formatting verified
+
+##Content Integration Specialist - Task Templates
+
+###Template 3.4: Cross-Pillar Integration Content
+Estimated Duration: 1 week  
+Priority: High  
+Dependencies: Tasks 3.1, 3.2, 3.3  
+
+Required Integration Elements:
+```
+1. COMPLETE SOLUTION GUIDES (2,000-2,500 words each)
+   ✓ Mining industry complete power solutions
+   ✓ Construction site integrated utility systems
+   ✓ Event industry power and lighting packages
+   ✓ Emergency preparedness complete solutions
+
+2. CROSS-REFERENCING ENHANCEMENT
+   ✓ Contextual linking implementation across all pillars
+   ✓ Technical specification cross-references
+   ✓ Application-based content connections
+   ✓ Progressive information architecture optimization
+
+3. SOLUTION CALCULATOR TOOLS
+   ✓ Complete power requirement calculation tools
+   ✓ Fuel storage sizing for integrated systems
+   ✓ Hybrid lighting power requirement calculators
+   ✓ Load testing schedule and requirement planners
+
+4. INDUSTRY-SPECIFIC INTEGRATION PAGES
+   ✓ Mining industry solution packages
+   ✓ Construction industry integrated systems
+   ✓ Event industry complete offerings
+   ✓ Emergency services integrated solutions
+```
+
+
+==================================================
+
+
+#PHASE 4: TECHNICAL IMPLEMENTATION TEMPLATES (Weeks 13-14)
+
+##Technical SEO Specialist - Task Templates
+
+###Template 4.1: Website Integration and SEO
+Estimated Duration: 1 week  
+Priority: High  
+Dependencies: All Phase 3 tasks  
+
+Required Implementation Elements:
+```
+1. URL STRUCTURE AND NAVIGATION
+   ✓ Clean URL implementation for all new pillar pages
+   ✓ Main navigation menu updates for four-pillar structure
+   ✓ Breadcrumb navigation implementation
+   ✓ Internal linking structure optimization
+
+2. SCHEMA MARKUP IMPLEMENTATION
+   ✓ Product schema for hybrid lighting systems
+   ✓ Service schema for tank installation and testing services
+   ✓ Organization schema updates for expanded offerings
+   ✓ FAQ schema for technical specification content
+
+3. PERFORMANCE OPTIMIZATION
+   ✓ Image optimization for fast loading (WebP format, lazy loading)
+   ✓ JavaScript and CSS minification and compression
+   ✓ Mobile responsiveness verification across all devices
+   ✓ Core Web Vitals optimization and testing
+
+4. SEO TECHNICAL IMPLEMENTATION
+   ✓ Meta title and description optimization for all pages
+   ✓ Header tag structure optimization (H1-H6 hierarchy)
+   ✓ Image alt tag implementation for all visuals
+   ✓ XML sitemap updates and search engine submission
+```
+
+Performance Benchmarks:
+- PageSpeed Insights Score: 90+ for mobile and desktop
+- Core Web Vitals: LCP <2.5s, FID <100ms, CLS <0.1
+- Mobile Usability: 95%+ score with zero critical issues
+- Schema Validation: 100% valid markup with zero errors
+
+##Quality Assurance Specialist - Task Templates
+
+###Template 4.2: Integration Testing and QA
+Estimated Duration: 1 week  
+Priority: High  
+Dependencies: Task 4.1  
+
+Required QA Components:
+```
+1. CONTENT ACCURACY VERIFICATION
+   ✓ Technical specification accuracy review with engineering validation
+   ✓ Regulatory compliance information verification with current standards
+   ✓ Cross-referencing accuracy between all four pillars
+   ✓ Citation and source verification for all claims and statistics
+
+2. USER EXPERIENCE TESTING
+   ✓ Navigation flow testing across all four pillars
+   ✓ Mobile user experience verification on multiple devices
+   ✓ Contact form and calculator functionality testing
+   ✓ Load testing for performance under realistic traffic conditions
+
+3. SEO IMPLEMENTATION VERIFICATION
+   ✓ Meta tag implementation verification and optimization
+   ✓ Internal linking structure validation and enhancement
+   ✓ Schema markup testing and validation
+   ✓ Search engine indexing verification and optimization
+
+4. CROSS-BROWSER COMPATIBILITY TESTING
+   ✓ Chrome, Firefox, Safari, Edge compatibility verification
+   ✓ Mobile browser testing (iOS Safari, Android Chrome)
+   ✓ Responsive design verification across screen sizes
+   ✓ Accessibility compliance testing (WCAG 2.1 Level AA)
+```
+
+Testing Documentation Requirements:
+- Test Case Documentation: Detailed test plans for all functionality
+- Issue Tracking: Comprehensive bug reporting with priority classification
+- Resolution Verification: Confirmation of all issue fixes
+- Performance Reports: Detailed performance metrics and recommendations
+
+
+==================================================
+
+
+#PHASE 5: OPTIMIZATION AND LAUNCH TEMPLATES (Weeks 15-16)
+
+##Content Optimization Specialist - Task Templates
+
+###Template 5.1: Content Optimization and Refinement
+Estimated Duration: 1 week  
+Priority: High  
+Dependencies: Task 4.2  
+
+Required Optimization Elements:
+```
+1. CONTENT PERFORMANCE OPTIMIZATION
+   ✓ Keyword density optimization across all pillars (1-2% target density)
+   ✓ Readability improvement for technical content (Grade 8-10 reading level)
+   ✓ Call-to-action optimization for conversion improvement
+   ✓ Content structure optimization for user engagement and dwell time
+
+2. CROSS-PILLAR CONVERSION FLOW ENHANCEMENT
+   ✓ Internal linking optimization for lead generation pathways
+   ✓ Contact form placement and messaging enhancement
+   ✓ Calculator tool conversion optimization and user experience
+   ✓ Solution guide call-to-action placement and messaging refinement
+
+3. MOBILE CONTENT OPTIMIZATION
+   ✓ Content hierarchy optimization for mobile reading patterns
+   ✓ Touch interface usability enhancement and testing
+   ✓ Mobile navigation optimization between pillars
+   ✓ Mobile conversion element optimization and positioning
+
+4. TECHNICAL CONTENT ENHANCEMENT
+   ✓ Technical diagram clarity and usefulness improvement
+   ✓ Specification table usability and mobile optimization
+   ✓ PDF download optimization and mobile compatibility
+   ✓ Comparison tool and calculator refinement
+```
+
+##Digital Marketing Specialist - Task Templates
+
+###Template 5.2: Launch Preparation and Marketing Integration
+Estimated Duration: 1 week  
+Priority: High  
+Dependencies: Task 5.1  
+
+Required Launch Elements:
+```
+1. ANALYTICS AND TRACKING IMPLEMENTATION
+   ✓ Google Analytics 4 setup with custom events for all pillars
+   ✓ Conversion tracking for lead generation forms and calculators
+   ✓ Goal tracking for user engagement across pillar content
+   ✓ Search Console property setup and performance monitoring
+
+2. SOCIAL MEDIA AND EMAIL MARKETING
+   ✓ Social media content calendar for pillar page promotion
+   ✓ Email marketing campaign development for existing customers
+   ✓ Industry newsletter announcement content creation
+   ✓ LinkedIn and trade publication outreach strategy
+
+3. CONTENT MARKETING LAUNCH STRATEGY
+   ✓ Blog post series introduction for each new pillar
+   ✓ Industry publication article submission strategy
+   ✓ Trade show and industry event presentation content
+   ✓ Customer communication and announcement strategy
+
+4. SEO LAUNCH OPTIMIZATION
+   ✓ XML sitemap submission to all major search engines
+   ✓ Internal linking optimization across existing content
+   ✓ External link building strategy and outreach campaign
+   ✓ Industry directory and citation optimization
+```
+
+
+==================================================
+
+
+#DELIVERABLE QUALITY STANDARDS
+
+##Content Quality Requirements
+- Australian English Compliance: All content must use Australian spelling, terminology, and regulatory references
+- Technical Accuracy: All specifications verified by qualified engineers or industry experts
+- Citation Standards: Minimum source requirements with proper attribution format
+- SEO Optimization: Target keyword integration without keyword stuffing
+- Mobile Optimization: All content must be optimized for mobile user experience
+
+##Documentation Standards
+- Format: All deliverables in Markdown format with consistent heading structure
+- File Naming: Consistent naming convention: `pillar_type_content_description.md`
+- Directory Structure: All files organized within client folder structure
+- Version Control: All changes tracked with clear version history
+- Review Process: All deliverables must pass quality review before approval
+
+##Integration Requirements
+- Cross-Referencing: All pillars must include contextual links to related content
+- Technical Consistency: Specifications and terminology must be consistent across pillars
+- User Experience: Navigation and user flow must be seamless between pillars
+- Brand Consistency: All content must maintain consistent brand voice and messaging
+
+##Performance Benchmarks
+- Page Load Speed: 90+ PageSpeed Insights score for all pages
+- Mobile Usability: 95%+ mobile usability score
+- SEO Performance: Zero critical SEO issues in auditing tools
+- User Experience: Intuitive navigation and clear conversion pathways
+
+This comprehensive template framework ensures all agents deliver consistent, high-quality work that integrates seamlessly across all four pillars while maintaining Green Power Solutions' technical authority and professional standards.

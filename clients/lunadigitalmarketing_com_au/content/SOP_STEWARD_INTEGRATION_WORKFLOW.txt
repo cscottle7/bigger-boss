@@ -1,0 +1,231 @@
+Converted from: C:\Apps\Agents\Bigger Boss\bigger-boss\clients\lunadigitalmarketing_com_au\content\SOP_STEWARD_INTEGRATION_WORKFLOW.md
+Conversion date: 30 September 2025
+==================================================
+
+SOP Steward Integration - Luna Digital Marketing Workflow Redesign
+Document ID: LUNA_SOP_STEWARD_FRAMEWORK
+Created: 2025-09-12
+Status: Implementation Phase
+
+#Table of Contents
+1. [SOP Steward Integration Overview](#sop-steward-integration-overview)
+2. [Content Audit Against Current SOPs](#content-audit-against-current-sops)
+3. [Critical Issues Identified](#critical-issues-identified)
+4. [SOP-Compliant Content Framework](#sop-compliant-content-framework)
+5. [Implementation Phases](#implementation-phases)
+6. [Quality Assurance Protocol](#quality-assurance-protocol)
+
+#SOP Steward Integration Overview
+
+##CRITICAL REQUIREMENT: SOP Steward as Mandatory First Step
+NEW WORKFLOW PROTOCOL:
+- Phase 0: SOP Steward review BEFORE any content creation begins
+- Compliance Check: Verify against existing brand and content standards
+- Gap Analysis: Identify deviations from established SOPs
+- Framework Application: Apply SOP-compliant structure to all content
+- Copywriter Briefing: Ensure SOP knowledge before content creation
+
+##SOP Steward Role Definition
+Primary Responsibilities:
+1. Pre-Content Review: Audit brief against established SOPs
+2. Compliance Verification: British English, Australian context, professional standards
+3. Brand Consistency: Ensure alignment with Luna Digital brand guidelines
+4. Quality Standards: Verify Answer First sections, character counts, source citations
+5. Regulatory Compliance: AHPRA guidelines, professional services standards
+
+#Content Audit Against Current SOPs
+
+##MAJOR COMPLIANCE GAPS IDENTIFIED:
+
+###1. Director Information Inconsistency
+- Current Issue: Multiple references to "Sarah Matthews" instead of "Natasha Chandra"
+- Files Affected: Meet Our Director page, About Us sections, author attributions
+- Compliance Risk: Brand credibility and factual accuracy concerns
+- SOP Violation: Factual accuracy and brand consistency requirements
+
+###2. Unsubstantiated Claims Throughout Content
+- Issue: Response time guarantees without supporting evidence
+- Examples: "24-hour response guarantee", "immediate consultation availability"
+- SOP Violation: All claims must have credible source citations
+- Risk Level: High - potential false advertising implications
+
+###3. Missing Answer First Sections
+- Current State: Executive summaries instead of Answer First structure
+- SOP Requirement: All pages must begin with direct answer to user query
+- Compliance Gap: 100% of pages lack proper Answer First implementation
+- Impact: SEO performance and user experience degradation
+
+###4. Target Market Too Narrow
+- Issue: Exclusive focus on "professional services only"
+- Market Reality: Luna Digital serves broader business community
+- SOP Requirement: Accurate representation of service capabilities
+- Business Impact: Limiting lead generation and market positioning
+
+###5. Character Count Assessment Missing
+- Gap: No systematic character count verification in quality checks
+- SOP Standard: Meta descriptions must be 155 characters, titles 60 characters
+- Current Risk: SEO performance limitations and search result truncation
+
+#Critical Issues Identified
+
+##IMMEDIATE ACTION REQUIRED:
+
+###1. Brand Identity Crisis
+```yaml
+Current_State: "Sarah Matthews, Professional Services Marketing Specialist"
+Required_State: "Natasha Chandra, Founder & Managing Director"
+Impact: Complete brand messaging inconsistency
+Priority: CRITICAL - Must fix before any content goes live
+```
+
+###2. False Claims Liability
+```yaml
+Current_Risk: "Response time guarantees without evidence"
+Legal_Exposure: "Potential false advertising violations"
+Action_Required: "Remove all unsubstantiated performance claims"
+Priority: HIGH - Legal compliance issue
+```
+
+###3. SEO Structure Non-Compliance
+```yaml
+Missing_Elements: "Answer First sections on all pages"
+Performance_Impact: "Reduced search visibility and user engagement"
+Compliance_Gap: "2025 content standards not implemented"
+Priority: HIGH - SEO performance degradation
+```
+
+###4. Market Positioning Limitation
+```yaml
+Current_Limitation: "Professional services only positioning"
+Business_Reality: "Broader service capabilities available"
+Revenue_Impact: "Reduced lead generation potential"
+Priority: MEDIUM - Growth opportunity limitation
+```
+
+#SOP-Compliant Content Framework
+
+##MANDATORY FRAMEWORK ELEMENTS:
+
+###1. Answer First Structure (Required on ALL Pages)
+```markdown
+Page Title
+#Answer First Section
+[Direct answer to primary user query in first 150 words]
+
+#Traditional Content Structure Follows
+[Rest of page content with proper headings and structure]
+```
+
+###2. Director Information Standard
+Consistent Throughout All Content:
+- Name: Natasha Chandra
+- Title: Founder & Managing Director
+- Credentials: [To be verified and documented]
+- Bio: Updated professional background and expertise
+
+###3. Claims Verification Protocol
+All Claims Must Include:
+```markdown
+Statistic or Performance Claim
+Source: [Organisation Name - Report Title](URL) - Date
+```
+
+###4. Character Count Compliance
+- Page Titles: Maximum 60 characters
+- Meta Descriptions: Maximum 155 characters
+- H1 Headers: Maximum 70 characters for optimal display
+- Navigation Labels: Maximum 20 characters
+
+###5. British English Compliance Verification
+Mandatory Spellings:
+- optimise (not optimize)
+- realise (not realize)  
+- colour (not color)
+- centre (not center)
+- organisation (not organization)
+
+###6. Target Market Broadening Framework
+New Positioning:
+- Primary Focus: Professional services (maintain strength)
+- Extended Services: All business types requiring marketing expertise
+- Messaging: "Specialising in professional services, serving all businesses"
+
+#Implementation Phases
+
+##Phase 1: Immediate Corrections (Week 1)
+- [ ] Director Name Updates: Change all "Sarah Matthews" to "Natasha Chandra"
+- [ ] Unsubstantiated Claims Removal: Remove response time guarantees and unverified statistics
+- [ ] Answer First Implementation: Convert executive summaries to Answer First structure
+- [ ] Character Count Audit: Verify and correct all meta elements
+
+##Phase 2: Content Enhancement (Week 2)
+- [ ] Target Market Broadening: Expand messaging beyond professional services only
+- [ ] Source Citation Addition: Add credible sources for all retained statistics
+- [ ] British English Verification: Complete spelling and terminology audit
+- [ ] Navigation Structure Updates: Fix "Areas We Serve" section headings
+
+##Phase 3: AI Optimisation Integration (Week 3)
+- [ ] AI Readiness Review: Complete technical optimisation for AI systems
+- [ ] Structured Data Implementation: Add schema markup recommendations
+- [ ] Voice Search Compatibility: Optimise content for voice queries
+- [ ] Content Consolidation: Numbered page structure in single folder
+
+##Phase 4: Quality Assurance & Go-Live (Week 4)
+- [ ] Final SOP Compliance Check: Comprehensive audit against all standards
+- [ ] Feedback Loop Testing: Verify enhanced feedback system operation
+- [ ] Sitemap Verification: Confirm all pages complete and compliant
+- [ ] Implementation Timeline: Prepare website update schedule
+
+#Quality Assurance Protocol
+
+##SOP Steward Quality Gates:
+
+###Gate 1: Content Brief Review
+- [ ] Answer First structure planned
+- [ ] Director information correct (Natasha Chandra)
+- [ ] Target market appropriately broad
+- [ ] Character count specifications included
+- [ ] Source citation requirements identified
+
+###Gate 2: Draft Content Review
+- [ ] Answer First section implemented correctly
+- [ ] All claims supported by credible sources
+- [ ] British English compliance verified
+- [ ] Character counts within limits
+- [ ] Brand messaging consistent
+
+###Gate 3: Pre-Publication Review
+- [ ] Final SOP compliance verification
+- [ ] Cross-reference accuracy check
+- [ ] Link functionality verification
+- [ ] Mobile compatibility confirmed
+- [ ] SEO elements optimised
+
+##Enhanced Feedback Loop Integration:
+```yaml
+sop_compliance_check:
+  type: MandatoryPreCheck
+  agent: SOP_Steward
+  threshold_score: 9.0/10.0
+  requirements:
+    - director_name_correct: true
+    - answer_first_present: true
+    - claims_supported: true
+    - character_counts_compliant: true
+    - british_english_verified: true
+```
+
+##Success Metrics:
+- Brand Consistency: 100% director name accuracy
+- Claims Compliance: All statistics have credible sources
+- SEO Structure: Answer First on all pages
+- Character Compliance: Meta elements within limits
+- Market Positioning: Broader appeal while maintaining professional services strength
+
+
+==================================================
+
+
+Next Action: Begin immediate implementation of director name corrections and unsubstantiated claims removal across all Luna Digital content files.
+
+Quality Assurance: SOP Steward verification at each phase gate before proceeding to next implementation phase.

@@ -1,0 +1,151 @@
+# Phase 1: Foundation Research & Strategic Analysis
+## AI Search/Generative Engine Optimisation Service Page
+
+**Date:** 25th September 2025
+**Client:** Discover Web Solutions
+**Service:** AI Search/GEO Service Page Development
+
+---
+
+## Executive Summary
+
+Generative Engine Optimisation (GEO) represents the next evolution of search engine optimisation, specifically designed for AI-powered search engines including ChatGPT, Perplexity, Gemini, and Google AI Overviews. Current market data shows AI search traffic has increased 527% from January to May 2025, with GEO delivering conversion rates up to 14.6% compared to traditional SEO's 1.7%.
+
+---
+
+## Market Research & Analysis
+
+### Current AI Search Landscape (September 2025)
+
+**Market Penetration:**
+- ChatGPT: Over 400 million weekly users (February 2025), ranking as 5th most visited site globally with nearly 5 billion monthly visits
+- Google AI Overviews: Appearing on 57% of SERPs (June 2025), up from 25% in August 2024
+- Perplexity: Delivering highest volume of AI search traffic with best conversion rates
+- 28% of total web traffic now attributed to AI crawlers
+
+**Source:** [Search Engine Land - AI Optimization Trends](https://searchengineland.com/) - September 2025
+
+### Industry Growth Projections
+
+**2025-2027 Predictions:**
+- LLM traffic predicted to overtake traditional Google search by end of 2027
+- AI-driven search could account for 10% of website traffic by 2026
+- Voice and image-based searches projected to comprise 50% of all searches by 2025
+- Traditional search queries predicted to drop by 25% by 2026 (Gartner)
+
+**Source:** [Semrush Research Reports](https://semrush.com/reports/) - 2025
+
+---
+
+## Australian Market Context
+
+### Local GEO Service Providers
+
+**Active Australian Agencies (2025):**
+1. **Titan Blue Australia** - Specialised AI-driven search strategies, advanced GEO and AEO services
+2. **Myoho Marketing** - Comprehensive GEO optimisation for ChatGPT, Perplexity, Gemini, Copilot
+3. **Digilari Media** - Tailored GEO solutions for Australia and New Zealand markets
+4. **Infokus** - AI Search Marketing Strategy specifically for Australian SMEs
+
+**Pricing Insights:**
+- Australian SEO agencies incorporating GEO tactics charge approximately $4,000/month for additional GEO services
+- Traditional SEO services starting from $1,000 monthly baseline
+
+**Source:** [Digital Agency Network Australia](https://digitalagencynetwork.com/) - September 2025
+
+### Market Opportunity Analysis
+
+**Competitive Landscape:**
+- Limited number of Australian agencies currently offering specialised GEO services
+- High demand for AI search optimisation amongst Australian businesses
+- Premium pricing available for early GEO adoption services
+- Strong growth potential in B2B sector specifically
+
+---
+
+## Target Audience Research
+
+### Primary Audience: Australian Business Owners
+
+**Demographics:**
+- Company Size: SMEs to enterprise (10-500 employees)
+- Industry Focus: Professional services, e-commerce, B2B services
+- Geographic: Major Australian cities (Sydney, Melbourne, Brisbane, Perth)
+- Decision Makers: Marketing Directors, Digital Marketing Managers, Business Owners
+
+**Pain Points:**
+- Declining traditional search visibility
+- Confusion about AI search implications
+- Need for future-proofed digital marketing strategies
+- Desire to maintain competitive advantage in evolving search landscape
+
+**Search Behaviour Changes:**
+- 60% of Google searches never leave SERP (2025 data)
+- Increasing reliance on AI for research and decision-making
+- Growing expectation for immediate, accurate information
+
+---
+
+## Unique Selling Proposition Analysis
+
+### Discover Web Solutions' Positioning Opportunities
+
+**Core Differentiators:**
+1. **Early AI Adoption Expertise** - Positioning as forward-thinking digital marketing leader
+2. **Australian Market Specialisation** - Local knowledge with global AI search understanding
+3. **Comprehensive GEO Service** - End-to-end AI search optimisation solutions
+4. **Proven Results Focus** - Emphasising 14.6% conversion rate improvements
+5. **Future-Proofed Strategy** - Preparing clients for 2027 search landscape shift
+
+**Competitive Advantages:**
+- Technical expertise in multiple AI platforms (ChatGPT, Perplexity, Gemini)
+- Understanding of Australian search behaviour and preferences
+- Ability to integrate GEO with existing SEO strategies
+- Real-time adaptation to rapidly evolving AI search algorithms
+
+---
+
+## Brand SWOT Analysis
+
+### Strengths
+- Established digital marketing agency with proven track record
+- Technical expertise adaptable to AI search optimisation
+- Understanding of Australian business landscape
+- Ability to position as early GEO adoption leader
+
+### Weaknesses
+- Potential knowledge gaps in latest AI search techniques
+- Need for additional training in GEO-specific strategies
+- Limited case studies in AI search optimisation
+- Competition from established agencies adding GEO services
+
+### Opportunities
+- High-growth AI search market with limited competition
+- Premium pricing available for specialised GEO services
+- Australian businesses seeking AI search guidance
+- Potential to become regional GEO authority
+
+### Threats
+- Rapid technological changes in AI search landscape
+- Increasing competition as more agencies adopt GEO
+- Potential client confusion about AI search benefits
+- Risk of AI search algorithms changing faster than adaptation
+
+---
+
+## Key Research Insights
+
+1. **Market Timing:** September 2025 represents optimal timing for GEO service launch, with AI search adoption accelerating but competition still limited
+
+2. **Service Demand:** Strong demand exists for GEO services, evidenced by premium pricing ($4,000+ monthly) and superior conversion rates (14.6%)
+
+3. **Technical Requirements:** Success requires expertise across multiple AI platforms with emphasis on content structure, freshness, and authority building
+
+4. **Australian Context:** Local market offers significant opportunity with limited specialised competition currently active
+
+5. **Client Education Need:** Market requires significant education about GEO benefits and implementation strategies
+
+---
+
+**Phase 1 Status:** ✅ Complete
+**Next Phase:** Competitive Intelligence & Search Landscape Analysis

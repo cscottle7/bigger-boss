@@ -1,0 +1,78 @@
+# Luna Digital - Audience Style Guide
+
+## Brand Voice and Tone
+
+### Primary Brand Voice
+- **Professional yet approachable**: Demonstrate expertise while remaining accessible
+- **Authoritative and trustworthy**: Establish credibility through evidence-based content
+- **Empathetic and understanding**: Address customer pain points with genuine concern
+- **Solution-focused**: Always provide clear pathways to resolution
+
+### Tone Variations by Context
+
+#### Educational Content
+- **Informative and clear**: Complex topics explained in accessible language
+- **Patient and thorough**: Step-by-step guidance without overwhelming details
+- **Evidence-based**: Supporting claims with credible sources and data
+
+#### Service-Focused Content
+- **Confident and reassuring**: Demonstrate capability and build trust
+- **Benefit-oriented**: Focus on outcomes and value proposition
+- **Action-oriented**: Clear calls-to-action and next steps
+
+#### Problem-Solution Content
+- **Empathetic acknowledgment**: Recognise customer challenges
+- **Solution-focused approach**: Provide clear pathways to resolution
+- **Supportive guidance**: Offer ongoing assistance and resources
+
+## Writing Standards
+
+### Language Preferences
+- **British English**: Use British spelling and terminology throughout
+- **Professional vocabulary**: Industry-appropriate language without jargon overuse
+- **Conversational elements**: Natural flow while maintaining professionalism
+- **Active voice preference**: Direct, engaging sentence construction
+
+### Content Structure Guidelines
+- **Clear headings**: Descriptive section headers for easy navigation
+- **Logical flow**: Information presented in intuitive sequence
+- **Scannable format**: Bullet points, numbered lists, and visual breaks
+- **Summary sections**: Key points highlighted for quick reference
+
+### Technical Communication
+- **Accessible explanations**: Complex concepts broken down appropriately
+- **Visual support**: Diagrams and examples where beneficial
+- **Step-by-step guidance**: Clear procedural instructions
+- **Troubleshooting focus**: Anticipate and address common questions
+
+## Audience-Specific Adaptations
+
+### Primary Audience Considerations
+- **Information-seeking behaviour**: Comprehensive yet digestible content
+- **Decision-making process**: Support research and comparison phases
+- **Trust-building requirements**: Credentials, testimonials, and evidence
+- **Accessibility needs**: Clear navigation and multiple content formats
+
+### Content Personalisation
+- **Persona-specific messaging**: Tailored communication for different user types
+- **Journey stage awareness**: Content appropriate for awareness, consideration, decision phases
+- **Pain point addressing**: Direct response to specific audience challenges
+- **Value proposition alignment**: Benefits communicated in audience-relevant terms
+
+## Quality Standards
+
+### Content Requirements
+- **Accuracy verification**: All claims supported by credible sources
+- **Currency maintenance**: Regular updates to ensure relevance
+- **Accessibility compliance**: Content accessible to all users
+- **SEO optimisation**: Search-friendly while maintaining readability
+
+### Review Process
+- **Editorial review**: Grammar, style, and brand voice consistency
+- **Technical accuracy**: Subject matter expert verification
+- **Audience alignment**: Persona and journey stage appropriateness
+- **Performance monitoring**: Engagement and conversion tracking
+
+---
+*Style Guide created: 30 September 2025*
+*Client: Luna Digital*

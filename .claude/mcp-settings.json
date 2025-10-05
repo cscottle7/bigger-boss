@@ -1,0 +1,184 @@
+{
+  "description": "Bigger Boss Agent System - MCP Server Configuration",
+  "version": "2.0.0",
+  "mcpServers": {
+    "jina-mcp-server": {
+      "description": "Jina AI MCP server for enhanced research and content analysis",
+      "command": "node",
+      "args": ["node_modules/@jina-ai/mcp-server/dist/index.js"],
+      "env": {
+        "JINA_API_KEY": "${JINA_API_KEY}"
+      },
+      "capabilities": [
+        "read_url",
+        "search_web",
+        "search_arxiv",
+        "search_images",
+        "deduplicate_content"
+      ],
+      "configuration": {
+        "timeout": 30000,
+        "retry_count": 3,
+        "rate_limit": {
+          "requests_per_minute": 60,
+          "burst_limit": 10
+        }
+      }
+    },
+    "playwright-mcp-server": {
+      "description": "Playwright MCP server for browser automation",
+      "command": "node",
+      "args": ["node_modules/@executeautomation/playwright-mcp-server/dist/index.js"],
+      "env": {
+        "PLAYWRIGHT_BROWSER": "chromium"
+      },
+      "capabilities": [
+        "screenshot",
+        "click",
+        "fill",
+        "navigate",
+        "extract"
+      ],
+      "configuration": {
+        "headless": true,
+        "timeout": 30000,
+        "viewport": {
+          "width": 1280,
+          "height": 720
+        }
+      }
+    },
+    "filesystem-mcp-server": {
+      "description": "Enhanced filesystem operations for client file management",
+      "command": "node",
+      "args": ["node_modules/@modelcontextprotocol/server-filesystem/dist/index.js"],
+      "args_override": ["C:\\Apps\\Agents\\Bigger Boss\\bigger-boss\\clients"],
+      "capabilities": [
+        "read_file",
+        "write_file",
+        "list_directory",
+        "create_directory",
+        "move_file",
+        "delete_file"
+      ],
+      "configuration": {
+        "allowed_extensions": [".md", ".docx", ".json", ".yaml", ".txt", ".csv", ".xlsx"],
+        "max_file_size": "10MB",
+        "backup_enabled": true
+      }
+    },
+    "biggerBoss-custom-mcp": {
+      "description": "Custom MCP server for Bigger Boss specific operations",
+      "command": "python",
+      "args": ["scripts/custom_mcp_server.py"],
+      "env": {
+        "BIGGER_BOSS_MODE": "production",
+        "CLIENT_DATA_PATH": "${CLIENT_DATA_PATH:-clients}"
+      },
+      "capabilities": [
+        "client_folder_validation",
+        "research_phase_verification",
+        "british_english_validation",
+        "content_quality_scoring",
+        "workflow_orchestration"
+      ]
+    }
+  },
+  "agent_mcp_integration": {
+    "research_agents": {
+      "agents": [
+        "niche_trend_researcher",
+        "competitive_intelligence_searcher",
+        "keyword_researcher",
+        "content_auditor"
+      ],
+      "mcp_tools": [
+        "jina:read_url",
+        "jina:search_web",
+        "jina:search_arxiv",
+        "playwright:screenshot",
+        "playwright:extract"
+      ]
+    },
+    "content_agents": {
+      "agents": [
+        "content_creator",
+        "seo_optimiser",
+        "clarity_conciseness_editor",
+        "ai_text_naturalizer"
+      ],
+      "mcp_tools": [
+        "jina:deduplicate_content",
+        "biggerBoss:content_quality_scoring",
+        "biggerBoss:british_english_validation"
+      ]
+    },
+    "technical_agents": {
+      "agents": [
+        "system_architect",
+        "code_analyzer",
+        "performance_tester"
+      ],
+      "mcp_tools": [
+        "playwright:navigate",
+        "playwright:screenshot",
+        "filesystem:read_file",
+        "filesystem:write_file"
+      ]
+    }
+  },
+  "workflow_automation": {
+    "research_workflow": {
+      "phase_1": {
+        "tools": ["jina:search_web", "jina:read_url"],
+        "agents": ["research_strategist", "niche_trend_researcher"],
+        "validation": "biggerBoss:research_phase_verification"
+      },
+      "phase_2": {
+        "tools": ["playwright:screenshot", "playwright:extract"],
+        "agents": ["competitive_intelligence_searcher"],
+        "validation": "biggerBoss:research_phase_verification"
+      },
+      "phase_3": {
+        "tools": ["jina:search_web"],
+        "agents": ["keyword_researcher"],
+        "validation": "biggerBoss:research_phase_verification"
+      },
+      "phase_4": {
+        "tools": ["jina:deduplicate_content"],
+        "agents": ["content_strategist"],
+        "validation": "biggerBoss:research_phase_verification"
+      }
+    },
+    "content_creation_workflow": {
+      "creation": {
+        "tools": ["jina:read_url", "jina:deduplicate_content"],
+        "agents": ["content_creator", "seo_optimiser"],
+        "validation": "biggerBoss:content_quality_scoring"
+      },
+      "quality_assurance": {
+        "tools": ["biggerBoss:british_english_validation"],
+        "agents": ["clarity_conciseness_editor", "ai_text_naturalizer"],
+        "validation": "biggerBoss:content_quality_scoring"
+      }
+    }
+  },
+  "monitoring": {
+    "performance_tracking": {
+      "mcp_server_health": true,
+      "tool_usage_analytics": true,
+      "error_reporting": true,
+      "latency_monitoring": true
+    },
+    "usage_quotas": {
+      "jina_api_calls_per_day": 1000,
+      "playwright_sessions_per_hour": 50,
+      "file_operations_per_minute": 100
+    },
+    "alerts": {
+      "quota_threshold": 0.8,
+      "error_rate_threshold": 0.1,
+      "latency_threshold_ms": 5000
+    }
+  }
+}

@@ -1,0 +1,22 @@
+feat: Implement comprehensive content and research workflow
+
+This commit introduces a major overhaul of the content creation and research process, implementing a more robust and automated workflow.
+
+Key changes include:
+
+- **Enhanced Agent Capabilities:**
+    - `glenn.md` and `master_orchestrator.md` have been updated to enforce a stricter, SOP-driven content creation process.
+    - New API integrations with Jina AI for content analysis and semantic search.
+    - SerpAPI integration now includes a backup key for improved reliability.
+
+- **New Content and Client Files:**
+    - Added a large number of new client files and updated existing content for `lunadigitalmarketing_com_au` and `precisionuppergisurgery_com_au`.
+
+- **Cleanup:**
+    - Removed a significant number of outdated markdown files and reports.
+
+- **Configuration:**
+    - Updated `.claude/settings.local.json` with new tool permissions.
+    - Added Jina AI and backup SerpAPI keys to the environment configuration.
+
+This new workflow ensures higher quality content, better research, and more reliable execution.

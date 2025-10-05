@@ -8,6 +8,10 @@ import json
 from pathlib import Path
 from typing import Dict, Optional
 import logging
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 class APICredentialManager:
     """Manages API credentials for various services"""
@@ -35,7 +39,11 @@ class APICredentialManager:
                 'username': os.getenv('GTMETRIX_USERNAME')
             },
             'serpapi': {
-                'api_key': os.getenv('SERPAPI_KEY')
+                'api_key': os.getenv('SERPAPI_API_KEY'),  # Primary SerpAPI account
+                'api_key_backup': os.getenv('SERPAPI_API_KEY_BACKUP')  # Backup SerpAPI account
+            },
+            'jina': {  # JINA AI integration
+                'api_key': os.getenv('JINA_API_KEY')
             },
             'google': {
                 'api_key': os.getenv('GOOGLE_API_KEY'),

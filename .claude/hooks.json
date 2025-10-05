@@ -1,0 +1,158 @@
+{
+  "description": "Bigger Boss Agent System - Comprehensive Hook Configuration",
+  "version": "2.0.0",
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "name": "glenn_workflow_router",
+        "description": "Route all requests through Glenn for proper agent selection",
+        "matcher": ".*",
+        "condition": "!process.env.SKIP_GLENN_ROUTING",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '🔄 Routing request through Glenn for proper workflow orchestration...' && claude --agent glenn \"Please analyze this request and provide proper agent routing with research phase validation: ${CLAUDE_USER_PROMPT}\""
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "name": "markdown_docx_converter",
+        "description": "Auto-convert client markdown files to professional DOCX",
+        "matcher": "Write|MultiEdit",
+        "condition": "output_file.endsWith('.md') && output_file.includes('clients/')",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '📄 Converting markdown to DOCX...' && python scripts/md_to_docx.py \"${TOOL_OUTPUT_FILE_PATH}\" --style=professional"
+          }
+        ]
+      },
+      {
+        "name": "google_drive_uploader",
+        "description": "Auto-upload DOCX files to client Google Drive folders",
+        "matcher": "Write|MultiEdit",
+        "condition": "output_file.endsWith('.docx') && output_file.includes('clients/')",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '☁️ Uploading to Google Drive...' && python scripts/gdrive_upload.py \"${TOOL_OUTPUT_FILE_PATH}\" --client=\"${CLIENT_DOMAIN}\" --auto-folder"
+          }
+        ]
+      },
+      {
+        "name": "client_folder_validator",
+        "description": "Validate client folder structure compliance",
+        "matcher": "Write|MultiEdit",
+        "condition": "output_file.includes('clients/')",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python scripts/validate_client_structure.py \"${TOOL_OUTPUT_FILE_PATH}\" --auto-fix"
+          }
+        ]
+      }
+    ],
+    "PreToolUse": [
+      {
+        "name": "research_phase_validator",
+        "description": "Ensure mandatory research phases completed before content creation",
+        "matcher": "Write|MultiEdit",
+        "condition": "tool_input.file_path.includes('clients/') && tool_input.file_path.includes('content/')",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python scripts/validate_research_phases.py \"${TOOL_INPUT_FILE_PATH}\" --require-phases=1,2,3,4"
+          }
+        ]
+      },
+      {
+        "name": "british_english_validator",
+        "description": "Validate British English compliance in all content",
+        "matcher": "Write|MultiEdit",
+        "condition": "tool_input.content && tool_input.file_path.includes('clients/')",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python scripts/validate_british_english.py --content=\"${TOOL_INPUT_CONTENT}\" --auto-correct"
+          }
+        ]
+      }
+    ],
+    "AgentResponse": [
+      {
+        "name": "quality_gate_trigger",
+        "description": "Trigger iterative feedback loops for content quality",
+        "matcher": ".*content.*|.*blog.*|.*page.*",
+        "condition": "response.includes('# ') || response.includes('## ')",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '🔄 Triggering quality gate feedback loop...' && claude --agent quality_gate_orchestrator \"Review and optimise this content through iterative feedback loops: ${AGENT_RESPONSE}\""
+          }
+        ]
+      }
+    ],
+    "ErrorOccurred": [
+      {
+        "name": "error_recovery_handler",
+        "description": "Handle errors with graceful recovery and logging",
+        "matcher": ".*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python scripts/error_handler.py \"${ERROR_MESSAGE}\" --context=\"${ERROR_CONTEXT}\" --recovery"
+          }
+        ]
+      }
+    ]
+  },
+  "advanced_hooks": {
+    "content_pipeline": {
+      "description": "Advanced content processing pipeline with quality gates",
+      "triggers": ["content_creation", "document_generation"],
+      "stages": [
+        {
+          "name": "research_validation",
+          "agent": "research_validator",
+          "required_phases": [1, 2, 3, 4],
+          "bypass_conditions": ["emergency", "template_content"]
+        },
+        {
+          "name": "content_creation",
+          "agents": ["content_creator", "seo_optimiser"],
+          "parallel": true
+        },
+        {
+          "name": "quality_feedback_loop",
+          "orchestrator": "quality_gate_orchestrator",
+          "max_iterations": 3,
+          "threshold": 8.5
+        },
+        {
+          "name": "final_formatting",
+          "processors": ["md_to_docx", "gdrive_upload"],
+          "parallel": true
+        }
+      ]
+    }
+  },
+  "configuration": {
+    "logging": {
+      "enabled": true,
+      "level": "INFO",
+      "file": "logs/hooks.log"
+    },
+    "error_handling": {
+      "retry_count": 3,
+      "timeout": 30000,
+      "fallback_enabled": true
+    },
+    "performance": {
+      "max_concurrent_hooks": 5,
+      "hook_timeout": 60000,
+      "cache_results": true
+    }
+  }
+}

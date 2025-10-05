@@ -1,0 +1,396 @@
+Converted from: C:\Apps\Agents\Bigger Boss\bigger-boss\clients\ai_optimization_framework\content\ai_citability_guidelines.md
+Conversion date: 30 September 2025
+==================================================
+
+AI Citability Guidelines & Scoring Development
+
+#Executive Summary
+This document provides comprehensive guidelines for creating content optimized for AI citation across all major platforms. The citability scoring system evaluates content based on authority signals, accuracy verification, citation format optimization, and platform-specific requirements to maximize AI recommendation likelihood.
+
+#AI Citability Scoring Framework
+
+##Overall Citability Score: 100 Points
+Component Breakdown:
+- Authority & Credibility Signals (30 points)
+- Content Accuracy & Verification (25 points)
+- Citation Format Optimization (20 points)
+- Platform-Specific Optimization (15 points)
+- Update Frequency & Freshness (10 points)
+
+##Citability Performance Ratings
+- 90-100 points: Excellent - High AI citation probability
+- 80-89 points: Good - Moderate AI citation likelihood
+- 70-79 points: Fair - Basic citation potential with improvements needed
+- Below 70 points: Poor - Low AI citation probability, significant optimization required
+
+#Authority & Credibility Signals (30 Points)
+
+##3.1 Professional Expertise Attribution (12 points)
+
+###Author Credentials Display (5 points)
+Evaluation Criteria:
+- 5 points: Complete professional credentials with AHPRA registration, years of experience, and specializations clearly displayed
+- 4 points: Good credential display with most professional qualifications
+- 3 points: Basic professional credentials shown
+- 2 points: Limited credential information
+- 1 point: Minimal credential display
+- 0 points: No professional credentials or author attribution
+
+Implementation Requirements:
+```
+Author Byline Format:
+Dr. [Name], [Primary Credential], [Additional Credentials]
+AHPRA Registration: [Number] (where applicable)
+[X] years experience in [Specialization]
+[Professional Association] Member
+Last Updated: [Date]
+```
+
+Example:
+```
+Dr. Sarah Mitchell, BPhty, PhD, APA Sports Physiotherapist
+AHPRA Registration: PHY0001234567
+15 years experience in sports injury rehabilitation
+Australian Physiotherapy Association Member
+Specializing in ACL reconstruction and chronic pain management
+Last Updated: September 15, 2025
+```
+
+###Professional Achievement Documentation (4 points)
+Evaluation Criteria:
+- 4 points: Published research, speaking engagements, industry awards, and media recognition documented
+- 3 points: Multiple professional achievements with verification
+- 2 points: Some professional recognition present
+- 1 point: Limited achievement documentation
+- 0 points: No professional achievements shown
+
+###Continuing Education Evidence (3 points)
+Evaluation Criteria:
+- 3 points: Recent continuing education, certifications, and professional development clearly documented
+- 2 points: Some continuing education evidence present
+- 1 point: Limited professional development shown
+- 0 points: No continuing education documentation
+
+##3.2 Institutional Authority (10 points)
+
+###Organization Credibility (4 points)
+Evaluation Criteria:
+- 4 points: Established organization with verifiable history, accreditations, and professional memberships
+- 3 points: Well-established organization with good credentials
+- 2 points: Moderate organizational authority
+- 1 point: Limited organizational credibility
+- 0 points: New or unverified organization
+
+###Professional Affiliations (3 points)
+Evaluation Criteria:
+- 3 points: Active membership in multiple relevant professional associations
+- 2 points: Membership in primary professional associations
+- 1 point: Some professional association affiliations
+- 0 points: No professional association memberships
+
+###Industry Recognition (3 points)
+Evaluation Criteria:
+- 3 points: Industry awards, certifications, accreditations, and third-party recognition
+- 2 points: Some industry recognition present
+- 1 point: Limited industry acknowledgment
+- 0 points: No industry recognition
+
+##3.3 Social Proof & Verification (8 points)
+
+###Client Testimonials & Reviews (4 points)
+Evaluation Criteria:
+- 4 points: Verified testimonials with specific outcomes, review platform integration, and consent documentation
+- 3 points: Good quality testimonials with some verification
+- 2 points: Basic testimonials present
+- 1 point: Limited testimonial evidence
+- 0 points: No testimonials or social proof
+
+###Case Study Documentation (4 points)
+Evaluation Criteria:
+- 4 points: Detailed, anonymized case studies with measurable outcomes and consent
+- 3 points: Good case study quality with outcomes
+- 2 points: Basic case study information
+- 1 point: Limited case study evidence
+- 0 points: No case study documentation
+
+#Content Accuracy & Verification (25 Points)
+
+##4.1 Factual Accuracy (10 points)
+
+###Source Verification (5 points)
+Evaluation Criteria:
+- 5 points: All factual claims verified through primary sources (peer-reviewed research, government data, professional guidelines)
+- 4 points: Most claims verified with authoritative sources
+- 3 points: Good source verification with some secondary sources
+- 2 points: Mixed source quality with verification attempts
+- 1 point: Limited source verification
+- 0 points: No source verification or questionable claims
+
+###Statistical Accuracy (3 points)
+Evaluation Criteria:
+- 3 points: All statistics current, properly cited, and from authoritative sources
+- 2 points: Most statistics accurate with good citations
+- 1 point: Some statistical accuracy with basic citations
+- 0 points: Inaccurate or poorly cited statistics
+
+###Professional Standard Compliance (2 points)
+Evaluation Criteria:
+- 2 points: All content complies with AHPRA guidelines and professional standards
+- 1 point: Generally compliant with minor issues
+- 0 points: Compliance issues present
+
+##4.2 Information Currency (8 points)
+
+###Content Freshness (4 points)
+Evaluation Criteria:
+- 4 points: Content updated within last 3 months with clear update dates
+- 3 points: Content updated within last 6 months
+- 2 points: Content updated within last year
+- 1 point: Content updated within last 2 years
+- 0 points: Content not updated in over 2 years
+
+###Research Currency (4 points)
+Evaluation Criteria:
+- 4 points: All research citations within 2 years for dynamic fields, 5 years for stable topics
+- 3 points: Most research current with some older references
+- 2 points: Mixed research currency
+- 1 point: Some outdated research present
+- 0 points: Predominantly outdated research
+
+##4.3 Fact-Checking Framework (7 points)
+
+###External Verification (4 points)
+Evaluation Criteria:
+- 4 points: Claims verifiable through multiple independent authoritative sources
+- 3 points: Most claims verifiable through authoritative sources
+- 2 points: Some external verification present
+- 1 point: Limited external verification
+- 0 points: No external verification available
+
+###Contradiction Analysis (3 points)
+Evaluation Criteria:
+- 3 points: No contradictions with established medical/professional consensus
+- 2 points: Minor discrepancies properly addressed and explained
+- 1 point: Some contradictions present but acknowledged
+- 0 points: Significant contradictions with professional standards
+
+#Citation Format Optimization (20 Points)
+
+##5.1 AI-Friendly Reference Format (8 points)
+
+###Structured Citation Implementation (4 points)
+Evaluation Criteria:
+- 4 points: Consistent use of AI-optimized citation format throughout content
+- 3 points: Good citation consistency with minor variations
+- 2 points: Generally consistent citation format
+- 1 point: Some citation format consistency
+- 0 points: Inconsistent or poor citation format
+
+Required Citation Format:
+```
+Source: [Organization Name - Report/Study Title](URL) - Date
+```
+
+Examples:
+```
+Source: [Australian Physiotherapy Association - Clinical Guidelines for ACL Rehabilitation](https://australian.physiotherapy.asn.au/acl-guidelines) - January 2025
+
+Source: [AHPRA - Professional Standards for Physiotherapy Practice](https://www.ahpra.gov.au/physiotherapy-standards) - March 2025
+```
+
+###In-Text Reference Integration (4 points)
+Evaluation Criteria:
+- 4 points: Natural integration of references within conversational text flow
+- 3 points: Good reference integration with minor awkwardness
+- 2 points: Basic reference integration
+- 1 point: Limited integration quality
+- 0 points: Poor or disruptive reference integration
+
+##5.2 Source Authority Hierarchy (7 points)
+
+###Primary Source Prioritization (4 points)
+Evaluation Criteria:
+- 4 points: Prioritizes peer-reviewed research, government agencies, and professional organizations
+- 3 points: Good use of authoritative sources with some secondary references
+- 2 points: Mixed source authority with preference for quality
+- 1 point: Some authority consideration in source selection
+- 0 points: No clear source authority hierarchy
+
+###Source Diversity (3 points)
+Evaluation Criteria:
+- 3 points: Balanced citation from multiple authoritative source types
+- 2 points: Good source diversity with some balance
+- 1 point: Limited source diversity
+- 0 points: Over-reliance on single source type
+
+##5.3 Hyperlink and Schema Integration (5 points)
+
+###Link Authority (3 points)
+Evaluation Criteria:
+- 3 points: All external links to high-authority domains with relevant content
+- 2 points: Most links to authoritative sources
+- 1 point: Some high-authority links present
+- 0 points: Poor link authority or broken links
+
+###Schema Citation Markup (2 points)
+Evaluation Criteria:
+- 2 points: Proper schema markup for citations and references
+- 1 point: Some schema implementation for citations
+- 0 points: No schema markup for citations
+
+#Platform-Specific Optimization (15 Points)
+
+##6.1 ChatGPT Optimization (4 points)
+
+###Wikipedia-Style Structure (2 points)
+Evaluation Criteria:
+- 2 points: Comprehensive, encyclopedic content structure with extensive referencing
+- 1 point: Good encyclopedic elements present
+- 0 points: Limited encyclopedic structure
+
+###Authoritative Tone (2 points)
+Evaluation Criteria:
+- 2 points: Professional, authoritative writing style with objective presentation
+- 1 point: Generally authoritative tone
+- 0 points: Informal or subjective tone
+
+##6.2 Perplexity Optimization (4 points)
+
+###Community Element Integration (2 points)
+Evaluation Criteria:
+- 2 points: User testimonials, community feedback, and real-world application examples
+- 1 point: Some community elements present
+- 0 points: No community integration
+
+###Question-Answer Format (2 points)
+Evaluation Criteria:
+- 2 points: Clear Q&A structure throughout content
+- 1 point: Some Q&A elements present
+- 0 points: Limited Q&A structure
+
+##6.3 Google AI Overviews (4 points)
+
+###Featured Snippet Optimization (2 points)
+Evaluation Criteria:
+- 2 points: Content structured for featured snippet capture with direct answers
+- 1 point: Some featured snippet optimization
+- 0 points: No featured snippet optimization
+
+###Local SEO Integration (2 points)
+Evaluation Criteria:
+- 2 points: Strong local optimization with geographic context and "near me" optimization
+- 1 point: Some local optimization present
+- 0 points: No local optimization
+
+##6.4 Claude Optimization (3 points)
+
+###Technical Depth (2 points)
+Evaluation Criteria:
+- 2 points: Comprehensive technical detail with methodology and evidence
+- 1 point: Good technical content present
+- 0 points: Limited technical depth
+
+###Professional Methodology (1 point)
+Evaluation Criteria:
+- 1 point: Clear professional processes and methodologies documented
+- 0 points: No clear methodology present
+
+#Update Frequency & Freshness (10 Points)
+
+##7.1 Content Maintenance (6 points)
+
+###Regular Update Schedule (3 points)
+Evaluation Criteria:
+- 3 points: Content updated quarterly with clear update logs
+- 2 points: Content updated bi-annually
+- 1 point: Content updated annually
+- 0 points: Irregular or no update schedule
+
+###Freshness Indicators (3 points)
+Evaluation Criteria:
+- 3 points: Clear "last updated" dates, review schedules, and freshness signals
+- 2 points: Some freshness indicators present
+- 1 point: Basic update information shown
+- 0 points: No freshness indicators
+
+##7.2 Dynamic Content Elements (4 points)
+
+###Current Event Integration (2 points)
+Evaluation Criteria:
+- 2 points: Regular integration of current industry developments and news
+- 1 point: Some current event references
+- 0 points: No current event integration
+
+###Trending Topic Responsiveness (2 points)
+Evaluation Criteria:
+- 2 points: Quick response to trending topics and industry developments
+- 1 point: Some responsiveness to trends
+- 0 points: No trending topic integration
+
+#Implementation Guidelines for Australian Professional Services
+
+##AHPRA Compliance Integration
+
+###Registration Number Display
+Implementation Requirements:
+- Include AHPRA registration numbers in all professional attribution
+- Link to AHPRA public register for verification
+- Display registration status and expiry information where relevant
+- Include any conditions or endorsements on registration
+
+###Professional Standards Adherence
+Content Requirements:
+- All claims must align with AHPRA professional standards
+- Treatment claims must be evidence-based and within scope of practice
+- Professional boundaries clearly maintained in all content
+- Continuing education requirements referenced where relevant
+
+##Geographic Context Optimization
+
+###Australian Market Specificity
+Implementation Elements:
+- Medicare and private health insurance information integration
+- State-specific regulations and requirements
+- Local health service partnerships and referral networks
+- Regional accessibility and service availability information
+
+###Local Authority Signals
+Required Elements:
+- Local business registration and licensing information
+- Community involvement and local recognition
+- Regional professional association memberships
+- Local media mentions and community testimonials
+
+#Citability Score Implementation Process
+
+##Step 1: Content Audit
+1. Evaluate all existing content against citability criteria
+2. Identify gaps in authority signals and professional attribution
+3. Assess citation quality and source authority
+4. Review platform-specific optimization requirements
+
+##Step 2: Authority Enhancement
+1. Improve professional credential display and verification
+2. Enhance institutional authority signals
+3. Strengthen social proof and testimonial integration
+4. Document continuing education and professional development
+
+##Step 3: Citation Optimization
+1. Implement consistent AI-friendly citation format
+2. Upgrade source quality and authority
+3. Enhance reference integration and natural flow
+4. Add proper schema markup for citations
+
+##Step 4: Platform Targeting
+1. Optimize content for each AI platform's preferences
+2. Test content performance across platforms
+3. Adjust formatting and structure based on platform requirements
+4. Monitor citation frequency and quality across platforms
+
+##Step 5: Maintenance Protocol
+1. Establish regular content review and update schedule
+2. Monitor source currency and factual accuracy
+3. Track citation performance and AI platform mentions
+4. Continuously refine optimization based on performance data
+
+This comprehensive citability framework ensures content meets the highest standards for AI recommendation while maintaining Australian professional compliance and market relevance.

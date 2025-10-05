@@ -137,4 +137,4 @@ Ready to become the recognised expert in your field through strategic content cr
 
 ---
 
-*Luna Digital Marketing creates thought-leadership content that builds authority and drives business growth for Australian medical practices and legal firms. Our expert writers understand both your industry and regulatory requirements, delivering content that educates your audience whilst positioning you as the go-to expert in your field.*
+*Luna Digital Marketing creates thought-leadership content that builds authority and drives business growth for Australian businesses across healthcare, professional services, retail, hospitality, and service industries. Under the strategic guidance of Director Natasha Chandra, our expert writers understand industry requirements and regulatory considerations, delivering content that educates your audience whilst positioning you as the go-to expert in your field.*
